@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "beer-001",
+    "name": "Guinness Draught",
+    "category": "beer",
+    "subcategory": "Stout",
+    "type": "Irish Dry Stout",
+    "origin": "Dublin, Ireland",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The iconic Irish stout with a creamy head and rich roasted flavor that has defined the style since 1759.",
+    "price": "$$",
+    "about": "Brewed at St. James's Gate Brewery in Dublin since 1759, Guinness pioneered the nitrogen draught system that creates its signature creamy head.",
+    "flavorProfile": {
+      "bitterness": 45,
+      "body": 65
+    },
+    "specifications": {
+      "abv": "4.2%",
+      "ibu": "45",
+      "style": "Irish Dry Stout",
+      "brewery": "Guinness (Diageo)"
+    },
+    "tastingNotes": "Roasted barley, coffee, dark chocolate, slight bitterness, creamy mouthfeel with a dry finish",
+    "pairings": ["Beef stew", "Oysters", "Dark chocolate", "Irish cheddar"],
+    "history": "Arthur Guinness signed a 9,000-year lease on St. James's Gate in 1759. The brewery has been producing its famous stout ever since, becoming synonymous with Irish culture worldwide.",
+    "servingRecommendation": "Serve at 42-46°F in a proper pint glass with a two-part pour to achieve the perfect creamy head.",
+    "universalCoords": { "x": 65, "y": 55 }
+  },
+  {
+    "id": "beer-002",
+    "name": "Sierra Nevada Pale Ale",
+    "category": "beer",
+    "subcategory": "Pale Ale",
+    "type": "American Pale Ale",
+    "origin": "Chico, California, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The craft beer that launched a revolution, Sierra Nevada Pale Ale set the standard for American pale ales with its bold Cascade hops.",
+    "price": "$$",
+    "about": "First brewed in 1980, this beer helped define the American craft beer movement and remains one of the best-selling craft beers in the United States.",
+    "flavorProfile": {
+      "bitterness": 55,
+      "body": 45
+    },
+    "specifications": {
+      "abv": "5.6%",
+      "ibu": "38",
+      "style": "American Pale Ale",
+      "brewery": "Sierra Nevada Brewing Co."
+    },
+    "tastingNotes": "Citrus, pine, floral hops, biscuity malt, clean finish with lingering bitterness",
+    "pairings": ["Grilled chicken", "Fish tacos", "Aged cheddar", "Spicy Thai food"],
+    "history": "Ken Grossman founded Sierra Nevada in 1979 and released this pale ale in 1980. It pioneered the use of whole-cone Cascade hops and helped spark the American craft beer revolution.",
+    "servingRecommendation": "Serve at 45-50°F in a pint glass or tulip to appreciate the hop aromatics.",
+    "universalCoords": { "x": 45, "y": 45 }
+  },
+  {
+    "id": "beer-003",
+    "name": "Pilsner Urquell",
+    "category": "beer",
+    "subcategory": "Pilsner",
+    "type": "Czech Pilsner",
+    "origin": "Plzen, Czech Republic",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The original golden lager that created the pilsner style in 1842, still brewed using traditional methods in triple-decoction mash.",
+    "price": "$$",
+    "about": "Created in 1842 by Bavarian brewer Josef Groll, this was the world's first clear golden lager and established the pilsner style that now accounts for most beer consumed worldwide.",
+    "flavorProfile": {
+      "bitterness": 40,
+      "body": 35
+    },
+    "specifications": {
+      "abv": "4.4%",
+      "ibu": "40",
+      "style": "Czech Premium Pale Lager",
+      "brewery": "Plzensky Prazdroj"
+    },
+    "tastingNotes": "Saaz hops, fresh bread, honey sweetness, soft bitterness, clean crisp finish",
+    "pairings": ["Roast pork", "Sausages", "Creamy cheeses", "Light salads"],
+    "history": "In 1838, Plzen citizens formed a brewery after dumping 36 barrels of substandard beer. They hired Josef Groll, who created the first clear golden lager on October 5, 1842.",
+    "servingRecommendation": "Serve at 40-45°F in a traditional Czech mug or pilsner glass. Best enjoyed fresh.",
+    "universalCoords": { "x": 35, "y": 60 }
+  },
+  {
+    "id": "beer-004",
+    "name": "Weihenstephaner Hefeweissbier",
+    "category": "beer",
+    "subcategory": "Wheat",
+    "type": "German Hefeweizen",
+    "origin": "Freising, Bavaria, Germany",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "From the world's oldest brewery, this classic Bavarian wheat beer offers quintessential banana and clove character.",
+    "price": "$$",
+    "about": "Brewed at the Weihenstephan monastery since 1040, this is considered the world's oldest continuously operating brewery, perfecting wheat beer over nearly a millennium.",
+    "flavorProfile": {
+      "bitterness": 15,
+      "body": 40
+    },
+    "specifications": {
+      "abv": "5.4%",
+      "ibu": "14",
+      "style": "German Hefeweizen",
+      "brewery": "Bayerische Staatsbrauerei Weihenstephan"
+    },
+    "tastingNotes": "Banana, clove, bubblegum, wheat, light citrus, creamy body with effervescent carbonation",
+    "pairings": ["Weisswurst", "Pretzels", "Light salads", "Fruit desserts"],
+    "history": "Benedictine monks established a monastery in Weihenstephan in 725 AD, with documented brewing beginning in 1040, making it the world's oldest brewery.",
+    "servingRecommendation": "Serve at 45-50°F in a traditional tall weizen glass. Swirl before pouring to resuspend yeast.",
+    "universalCoords": { "x": 40, "y": 85 }
+  },
+  {
+    "id": "beer-005",
+    "name": "Chimay Blue",
+    "category": "beer",
+    "subcategory": "Belgian",
+    "type": "Belgian Strong Dark Ale",
+    "origin": "Chimay, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A Trappist masterpiece brewed by monks at Notre-Dame de Scourmont Abbey, offering complex dark fruit and spice notes.",
+    "price": "$$$",
+    "about": "One of only 14 Trappist breweries worldwide, Chimay has been brewing since 1862. The Blue is their strongest and most complex offering.",
+    "flavorProfile": {
+      "bitterness": 30,
+      "body": 75
+    },
+    "specifications": {
+      "abv": "9.0%",
+      "ibu": "35",
+      "style": "Belgian Strong Dark Ale",
+      "brewery": "Abbaye Notre-Dame de Scourmont"
+    },
+    "tastingNotes": "Dark fruit, raisin, fig, caramel, spice, bread crust, warming alcohol with a dry finish",
+    "pairings": ["Blue cheese", "Roasted game", "Chocolate desserts", "Aged gouda"],
+    "history": "Founded in 1850, Scourmont Abbey began brewing in 1862 to fund monastery operations. The monks oversee all production, with profits supporting community works.",
+    "servingRecommendation": "Serve at 50-55°F in a chalice or goblet. Can be cellared for up to 5 years.",
+    "universalCoords": { "x": 75, "y": 70 }
+  },
+  {
+    "id": "beer-006",
+    "name": "Pliny the Elder",
+    "category": "beer",
+    "subcategory": "IPA",
+    "type": "Double IPA",
+    "origin": "Santa Rosa, California, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The legendary double IPA that helped define the style, balancing intense hop character with surprising drinkability.",
+    "price": "$$$",
+    "about": "Created by Vinnie Cilurzo in 1994 (originally at Blind Pig), Pliny moved to Russian River in 2000 and became one of the most sought-after beers in America.",
+    "flavorProfile": {
+      "bitterness": 85,
+      "body": 50
+    },
+    "specifications": {
+      "abv": "8.0%",
+      "ibu": "100",
+      "style": "Double IPA",
+      "brewery": "Russian River Brewing Company"
+    },
+    "tastingNotes": "Citrus, pine, floral hops, caramel malt, grapefruit, resinous finish, balanced bitterness",
+    "pairings": ["Spicy food", "Strong cheeses", "Grilled meats", "Carrot cake"],
+    "history": "Named after the Roman naturalist who wrote extensively about hops, Pliny the Elder was one of the first double IPAs and helped establish the style.",
+    "servingRecommendation": "Drink fresh! Serve at 45-50°F in a tulip glass. Best consumed within 90 days of packaging.",
+    "universalCoords": { "x": 50, "y": 15 }
+  },
+  {
+    "id": "beer-007",
+    "name": "Founders Breakfast Stout",
+    "category": "beer",
+    "subcategory": "Stout",
+    "type": "Oatmeal Coffee Stout",
+    "origin": "Grand Rapids, Michigan, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A double chocolate coffee oatmeal stout that lives up to its name as a meal in a glass.",
+    "price": "$$$",
+    "about": "First brewed in 1999, this imperial stout was initially only served at the taproom. Its cult following led to wider distribution and has become a benchmark for the style.",
+    "flavorProfile": {
+      "bitterness": 60,
+      "body": 85
+    },
+    "specifications": {
+      "abv": "8.3%",
+      "ibu": "60",
+      "style": "Imperial Oatmeal Stout",
+      "brewery": "Founders Brewing Co."
+    },
+    "tastingNotes": "Espresso, dark chocolate, roasted malt, oatmeal smoothness, brown sugar, bitter cocoa finish",
+    "pairings": ["Bacon", "Chocolate cake", "Vanilla ice cream", "Aged cheddar"],
+    "history": "Founders was founded in 1997 and nearly went bankrupt before focusing on bold, flavorful beers. Breakfast Stout helped establish their reputation for imperial stouts.",
+    "servingRecommendation": "Serve at 50-55°F in a snifter or tulip. Allow to warm slightly to reveal complexity.",
+    "universalCoords": { "x": 85, "y": 40 }
+  },
+  {
+    "id": "beer-008",
+    "name": "Duvel",
+    "category": "beer",
+    "subcategory": "Belgian",
+    "type": "Belgian Strong Golden Ale",
+    "origin": "Breendonk, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The 'devil' of Belgian beers - deceptively strong with its golden appearance hiding considerable potency and complexity.",
+    "price": "$$$",
+    "about": "Created in 1923 to celebrate the end of WWI, a local shoemaker declared it 'a real devil' after tasting it, and the name stuck.",
+    "flavorProfile": {
+      "bitterness": 35,
+      "body": 40
+    },
+    "specifications": {
+      "abv": "8.5%",
+      "ibu": "32",
+      "style": "Belgian Strong Golden Ale",
+      "brewery": "Duvel Moortgat"
+    },
+    "tastingNotes": "Pear, spice, white pepper, effervescent, subtle malt sweetness, dry finish with hidden warmth",
+    "pairings": ["Mussels", "Fried foods", "Soft cheeses", "Thai cuisine"],
+    "history": "The Moortgat family began brewing in 1871. After WWI, they created a special beer that earned its devilish name due to its potency hidden beneath a golden appearance.",
+    "servingRecommendation": "Serve at 40-45°F in the signature Duvel tulip glass. Pour in one smooth motion for optimal head.",
+    "universalCoords": { "x": 40, "y": 65 }
+  },
+  {
+    "id": "beer-009",
+    "name": "Samuel Smith's Oatmeal Stout",
+    "category": "beer",
+    "subcategory": "Stout",
+    "type": "Oatmeal Stout",
+    "origin": "Tadcaster, Yorkshire, England",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A silky smooth English oatmeal stout from Yorkshire's oldest brewery, reviving a classic style that had nearly disappeared.",
+    "price": "$$",
+    "about": "Samuel Smith's revived the oatmeal stout style in 1980 after it had nearly gone extinct. Brewed using traditional Yorkshire Square fermenters.",
+    "flavorProfile": {
+      "bitterness": 35,
+      "body": 60
+    },
+    "specifications": {
+      "abv": "5.0%",
+      "ibu": "32",
+      "style": "Oatmeal Stout",
+      "brewery": "Samuel Smith's Old Brewery"
+    },
+    "tastingNotes": "Chocolate, coffee, toffee, silky oat texture, subtle roast, clean dry finish",
+    "pairings": ["Shepherd's pie", "Chocolate desserts", "Stilton cheese", "Roasted meats"],
+    "history": "Founded in 1758, Samuel Smith's is the oldest brewery in Yorkshire. They still draw water from the original well and use traditional slate Yorkshire Squares.",
+    "servingRecommendation": "Serve at 50-55°F in a pint glass or nonic. Pairs wonderfully with desserts.",
+    "universalCoords": { "x": 60, "y": 65 }
+  },
+  {
+    "id": "beer-010",
+    "name": "Lagunitas IPA",
+    "category": "beer",
+    "subcategory": "IPA",
+    "type": "American IPA",
+    "origin": "Petaluma, California, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A well-balanced West Coast IPA that showcases the bitter, floral, and citrus character of American hops.",
+    "price": "$$",
+    "about": "Lagunitas started in 1993 in a kitchen, eventually becoming one of America's largest craft breweries while maintaining its rebellious spirit.",
+    "flavorProfile": {
+      "bitterness": 65,
+      "body": 45
+    },
+    "specifications": {
+      "abv": "6.2%",
+      "ibu": "51",
+      "style": "American IPA",
+      "brewery": "Lagunitas Brewing Company"
+    },
+    "tastingNotes": "Citrus, pine, caramel malt, grapefruit, resinous hops, clean bitter finish",
+    "pairings": ["Burgers", "Mexican food", "Sharp cheddar", "Grilled salmon"],
+    "history": "Founded by Tony Magee in 1993, Lagunitas grew from a kitchen hobby to one of America's top craft breweries, known for its irreverent labels and strong IPAs.",
+    "servingRecommendation": "Serve at 45-50°F in a pint glass. Best enjoyed fresh to appreciate the hop character.",
+    "universalCoords": { "x": 45, "y": 35 }
+  },
+  {
+    "id": "beer-011",
+    "name": "Orval",
+    "category": "beer",
+    "subcategory": "Belgian",
+    "type": "Belgian Pale Ale",
+    "origin": "Villers-devant-Orval, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A unique Trappist ale with Brettanomyces character that continues to evolve in the bottle, offering a dry, complex, and earthy experience.",
+    "price": "$$$",
+    "about": "Orval has been brewed by Trappist monks since 1931. It's the only Trappist brewery to use wild Brettanomyces yeast and dry-hopping in their main beer.",
+    "flavorProfile": {
+      "bitterness": 45,
+      "body": 35
+    },
+    "specifications": {
+      "abv": "6.2%",
+      "ibu": "36",
+      "style": "Belgian Pale Ale",
+      "brewery": "Brasserie d'Orval"
+    },
+    "tastingNotes": "Earthy, leather, citrus hops, hay, white wine, bone dry finish, complex and evolving",
+    "pairings": ["Washed-rind cheese", "Roast chicken", "Charcuterie", "Mushroom dishes"],
+    "history": "Legend says a countess dropped her ring in a spring, and a trout returned it. The monastery was founded in 1070, with brewing beginning in 1931 for monastery support.",
+    "servingRecommendation": "Serve at 50-55°F in an Orval chalice. Fresh bottles are hoppy; aged bottles (2-5 years) develop Brett character.",
+    "universalCoords": { "x": 35, "y": 55 }
+  },
+  {
+    "id": "beer-012",
+    "name": "Anchor Steam Beer",
+    "category": "beer",
+    "subcategory": "Lager",
+    "type": "California Common",
+    "origin": "San Francisco, California, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "America's original craft beer, a unique California Common that ferments lager yeast at ale temperatures.",
+    "price": "$$",
+    "about": "Anchor Brewing has been making this distinctive beer since 1896, using a process unique to San Francisco where lager yeast is fermented warm.",
+    "flavorProfile": {
+      "bitterness": 40,
+      "body": 45
+    },
+    "specifications": {
+      "abv": "4.9%",
+      "ibu": "35",
+      "style": "California Common / Steam Beer",
+      "brewery": "Anchor Brewing Company"
+    },
+    "tastingNotes": "Toasted bread, caramel, woody hops, mint, clean finish with moderate bitterness",
+    "pairings": ["Sourdough bread", "Grilled sausages", "Monterey Jack", "Cioppino"],
+    "history": "Anchor traces its roots to the Gold Rush era. Fritz Maytag purchased the failing brewery in 1965 and revived it, launching the American craft beer movement.",
+    "servingRecommendation": "Serve at 45-50°F in a standard pint glass. A versatile beer for any occasion.",
+    "universalCoords": { "x": 45, "y": 60 }
+  },
+  {
+    "id": "beer-013",
+    "name": "Rodenbach Grand Cru",
+    "category": "beer",
+    "subcategory": "Sour",
+    "type": "Flanders Red Ale",
+    "origin": "Roeselare, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The benchmark for Flanders red ales, aged in massive oak foeders for a complex wine-like sourness.",
+    "price": "$$$",
+    "about": "Rodenbach has been aging beer in oak since 1836. Grand Cru is a blend of young and two-year-aged beer from their collection of 294 oak foeders.",
+    "flavorProfile": {
+      "bitterness": 20,
+      "body": 45
+    },
+    "specifications": {
+      "abv": "6.0%",
+      "ibu": "17",
+      "style": "Flanders Red Ale",
+      "brewery": "Brouwerij Rodenbach"
+    },
+    "tastingNotes": "Cherry, balsamic, oak, plum, vanilla, sour cherry, tart finish with subtle sweetness",
+    "pairings": ["Rabbit", "Duck", "Strong blue cheese", "Dark chocolate"],
+    "history": "Founded in 1821, Rodenbach became famous for oak aging. The brewery contains 294 oak foeders, some over 150 years old, where beer develops its character.",
+    "servingRecommendation": "Serve at 50-55°F in a goblet or wine glass. Excellent as an aperitif or with food.",
+    "universalCoords": { "x": 45, "y": 80 }
+  },
+  {
+    "id": "beer-014",
+    "name": "Fuller's London Pride",
+    "category": "beer",
+    "subcategory": "Pale Ale",
+    "type": "English Bitter",
+    "origin": "London, England",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The quintessential English bitter, perfectly balanced with malt and hops in the traditional London style.",
+    "price": "$$",
+    "about": "Fuller's has been brewing in Chiswick since 1845. London Pride became their flagship, named after the resilient flower that bloomed in WWII bomb craters.",
+    "flavorProfile": {
+      "bitterness": 35,
+      "body": 40
+    },
+    "specifications": {
+      "abv": "4.7%",
+      "ibu": "32",
+      "style": "English Bitter / Best Bitter",
+      "brewery": "Fuller's Griffin Brewery"
+    },
+    "tastingNotes": "Biscuit malt, marmalade, toffee, floral hops, earthy, balanced finish",
+    "pairings": ["Fish and chips", "Roast beef", "Cheddar cheese", "Meat pies"],
+    "history": "The Griffin Brewery site has brewed beer since the 17th century. Fuller's was formed in 1845, and London Pride became their flagship after WWII.",
+    "servingRecommendation": "Best served at cellar temperature (50-55°F) via cask, or slightly cooler from bottle.",
+    "universalCoords": { "x": 40, "y": 65 }
+  },
+  {
+    "id": "beer-015",
+    "name": "Bell's Two Hearted Ale",
+    "category": "beer",
+    "subcategory": "IPA",
+    "type": "American IPA",
+    "origin": "Comstock, Michigan, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "Named after the Two Hearted River in Michigan's Upper Peninsula, this single-hop IPA showcases the beauty of Centennial hops.",
+    "price": "$$",
+    "about": "Bell's Brewery, founded in 1985, created this IPA to celebrate Michigan's fishing culture. It has consistently ranked as one of America's best IPAs.",
+    "flavorProfile": {
+      "bitterness": 70,
+      "body": 50
+    },
+    "specifications": {
+      "abv": "7.0%",
+      "ibu": "55",
+      "style": "American IPA",
+      "brewery": "Bell's Brewery"
+    },
+    "tastingNotes": "Grapefruit, pine, floral, honey malt, citrus peel, clean balanced bitterness",
+    "pairings": ["Grilled fish", "Indian curry", "Gorgonzola", "Carrot cake"],
+    "history": "Larry Bell founded his brewery in 1985 with a 15-gallon soup pot. Two Hearted was introduced in 1997 and has since won multiple 'Best Beer in America' awards.",
+    "servingRecommendation": "Serve at 45-50°F in a pint glass or tulip. Best enjoyed fresh.",
+    "universalCoords": { "x": 50, "y": 30 }
+  },
+  {
+    "id": "beer-016",
+    "name": "Paulaner Salvator",
+    "category": "beer",
+    "subcategory": "Lager",
+    "type": "Doppelbock",
+    "origin": "Munich, Germany",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The original doppelbock, created by monks as 'liquid bread' for Lenten fasting, rich with malty goodness.",
+    "price": "$$",
+    "about": "Paulaner monks created this beer in the 17th century for sustenance during Lent. It established the doppelbock style, with all others ending in '-ator' in tribute.",
+    "flavorProfile": {
+      "bitterness": 25,
+      "body": 80
+    },
+    "specifications": {
+      "abv": "7.9%",
+      "ibu": "28",
+      "style": "Doppelbock",
+      "brewery": "Paulaner Brauerei"
+    },
+    "tastingNotes": "Dark bread, caramel, plum, raisin, toffee, dried fruit, warming finish",
+    "pairings": ["Roast pork", "Aged gouda", "Chocolate torte", "Smoked meats"],
+    "history": "Paulaner monks began brewing in 1634. They created Salvator ('Savior') for fasting periods. The Pope's approval came after a cask survived the journey to Rome.",
+    "servingRecommendation": "Serve at 45-50°F in a traditional dimpled mug or goblet.",
+    "universalCoords": { "x": 80, "y": 75 }
+  },
+  {
+    "id": "beer-017",
+    "name": "Westmalle Tripel",
+    "category": "beer",
+    "subcategory": "Belgian",
+    "type": "Belgian Tripel",
+    "origin": "Westmalle, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The Trappist beer that defined the tripel style, offering complex fruity esters and spice with deceptive drinkability.",
+    "price": "$$$",
+    "about": "Westmalle has been brewing since 1836, and their tripel recipe from 1934 established the modern style that countless breweries have since emulated.",
+    "flavorProfile": {
+      "bitterness": 30,
+      "body": 45
+    },
+    "specifications": {
+      "abv": "9.5%",
+      "ibu": "36",
+      "style": "Belgian Tripel",
+      "brewery": "Brouwerij der Trappisten van Westmalle"
+    },
+    "tastingNotes": "Banana, clove, pear, orange peel, honey, spice, dry warming finish",
+    "pairings": ["Seafood", "Poultry", "Gruyere", "Fruit tarts"],
+    "history": "Monks have brewed at Westmalle since 1836. The current tripel recipe dates to 1956 and is the template against which all tripels are measured.",
+    "servingRecommendation": "Serve at 46-54°F in a Westmalle chalice. Pour leaving some yeast sediment in bottle.",
+    "universalCoords": { "x": 45, "y": 70 }
+  },
+  {
+    "id": "beer-018",
+    "name": "Ayinger Celebrator",
+    "category": "beer",
+    "subcategory": "Lager",
+    "type": "Doppelbock",
+    "origin": "Aying, Bavaria, Germany",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A world-class doppelbock from a small Bavarian village, known for its signature goat mascot and silky richness.",
+    "price": "$$",
+    "about": "The Inselkammer family has brewed in Aying since 1878. Celebrator is their flagship, consistently rated among the world's finest doppelbocks.",
+    "flavorProfile": {
+      "bitterness": 25,
+      "body": 75
+    },
+    "specifications": {
+      "abv": "6.7%",
+      "ibu": "24",
+      "style": "Doppelbock",
+      "brewery": "Ayinger Privatbrauerei"
+    },
+    "tastingNotes": "Dark bread, chocolate, coffee, toffee, dried fruit, smooth velvety finish",
+    "pairings": ["Roasted duck", "Aged cheese", "Bread pudding", "Venison"],
+    "history": "Ayinger began in 1878 in the village of Aying, 25 km from Munich. The plastic goat hanging from each bottle became their beloved trademark.",
+    "servingRecommendation": "Serve at 45-50°F in a goblet. Allow to warm slightly to reveal full complexity.",
+    "universalCoords": { "x": 75, "y": 75 }
+  },
+  {
+    "id": "beer-019",
+    "name": "Cantillon Gueuze",
+    "category": "beer",
+    "subcategory": "Sour",
+    "type": "Lambic",
+    "origin": "Brussels, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The gold standard of spontaneous fermentation, this gueuze blends young and aged lambics for complex, tart brilliance.",
+    "price": "$$$$",
+    "about": "Cantillon has been brewing traditional lambic in Brussels since 1900, using only wild yeast and bacteria from their coolship and ancient barrels.",
+    "flavorProfile": {
+      "bitterness": 15,
+      "body": 30
+    },
+    "specifications": {
+      "abv": "5.0%",
+      "ibu": "15",
+      "style": "Gueuze",
+      "brewery": "Brasserie Cantillon"
+    },
+    "tastingNotes": "Tart lemon, green apple, hay, horse blanket, champagne-like effervescence, bone dry",
+    "pairings": ["Oysters", "Mussels", "Goat cheese", "Sushi"],
+    "history": "Cantillon was founded in 1900 and remains one of the last breweries making traditional lambic. The Senne Valley's wild microbiome creates their signature character.",
+    "servingRecommendation": "Serve at 50-55°F in a tulip glass or champagne flute. Can be cellared for decades.",
+    "universalCoords": { "x": 30, "y": 85 }
+  },
+  {
+    "id": "beer-020",
+    "name": "Trappistes Rochefort 10",
+    "category": "beer",
+    "subcategory": "Belgian",
+    "type": "Belgian Strong Dark Ale",
+    "origin": "Rochefort, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The most powerful of Rochefort's three beers, offering incredible depth of dark fruit, chocolate, and warming alcohol.",
+    "price": "$$$",
+    "about": "Rochefort has been brewing since 1595 at the Abbey of Notre-Dame de Saint-Remy. The '10' refers to the original Belgian degree system for wort density.",
+    "flavorProfile": {
+      "bitterness": 25,
+      "body": 85
+    },
+    "specifications": {
+      "abv": "11.3%",
+      "ibu": "27",
+      "style": "Belgian Quadrupel",
+      "brewery": "Abbaye Notre-Dame de Saint-Remy"
+    },
+    "tastingNotes": "Dark fruit, fig, plum, dark chocolate, brown sugar, port wine, long warming finish",
+    "pairings": ["Blue cheese", "Dark chocolate", "Tiramisu", "Roasted game"],
+    "history": "Monks have been at Rochefort since 1230 and brewing since 1595. After near extinction in WWII, the brewery was rebuilt and production carefully expanded.",
+    "servingRecommendation": "Serve at 54-57°F in a goblet or chalice. Excellent for cellaring up to 25 years.",
+    "universalCoords": { "x": 85, "y": 75 }
+  },
+  {
+    "id": "beer-021",
+    "name": "Dogfish Head 60 Minute IPA",
+    "category": "beer",
+    "subcategory": "IPA",
+    "type": "American IPA",
+    "origin": "Milton, Delaware, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A continuously hopped IPA with hops added every minute for 60 minutes, creating a beautifully balanced hop experience.",
+    "price": "$$",
+    "about": "Sam Calagione founded Dogfish Head in 1995 and pioneered continuous hopping. The 60 Minute uses over 60 hop additions for smooth, integrated bitterness.",
+    "flavorProfile": {
+      "bitterness": 60,
+      "body": 50
+    },
+    "specifications": {
+      "abv": "6.0%",
+      "ibu": "60",
+      "style": "American IPA",
+      "brewery": "Dogfish Head Craft Brewery"
+    },
+    "tastingNotes": "Citrus, pine, biscuit malt, floral hops, subtle sweetness, clean bitter finish",
+    "pairings": ["Grilled shrimp", "Thai food", "Sharp cheddar", "Pizza"],
+    "history": "Sam Calagione started Dogfish Head in 1995 and invented continuous hopping after watching a cooking show. The 60 Minute has been a flagship since 2003.",
+    "servingRecommendation": "Serve at 45-50°F in a tulip or pint glass. Best enjoyed fresh.",
+    "universalCoords": { "x": 50, "y": 40 }
+  },
+  {
+    "id": "beer-022",
+    "name": "Schneider Weisse Aventinus",
+    "category": "beer",
+    "subcategory": "Wheat",
+    "type": "Weizenbock",
+    "origin": "Kelheim, Bavaria, Germany",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The world's original wheat doppelbock, combining the flavors of wheat beer with the strength of a bock.",
+    "price": "$$",
+    "about": "Created in 1907, Aventinus was the first weizenbock and remains the benchmark. Schneider is the world's oldest wheat beer brewery.",
+    "flavorProfile": {
+      "bitterness": 20,
+      "body": 70
+    },
+    "specifications": {
+      "abv": "8.2%",
+      "ibu": "16",
+      "style": "Weizenbock",
+      "brewery": "Schneider Weisse"
+    },
+    "tastingNotes": "Banana, clove, dark fruit, chocolate, caramel, plum, warming finish",
+    "pairings": ["Roast pork", "Banana desserts", "Camembert", "Chocolate mousse"],
+    "history": "Georg Schneider I acquired the royal wheat beer rights from King Ludwig II in 1872. Aventinus was created in 1907 and named after a Bavarian historian.",
+    "servingRecommendation": "Serve at 45-50°F in a weizen glass. Can be cellared for several years.",
+    "universalCoords": { "x": 70, "y": 80 }
+  },
+  {
+    "id": "beer-023",
+    "name": "North Coast Old Rasputin",
+    "category": "beer",
+    "subcategory": "Stout",
+    "type": "Russian Imperial Stout",
+    "origin": "Fort Bragg, California, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A bold Russian imperial stout that delivers intense roasted character and complexity worthy of the mad monk.",
+    "price": "$$",
+    "about": "North Coast has been brewing since 1988 in a small coastal town. Old Rasputin has won numerous awards and is considered a benchmark for the style.",
+    "flavorProfile": {
+      "bitterness": 75,
+      "body": 85
+    },
+    "specifications": {
+      "abv": "9.0%",
+      "ibu": "75",
+      "style": "Russian Imperial Stout",
+      "brewery": "North Coast Brewing Company"
+    },
+    "tastingNotes": "Dark chocolate, espresso, licorice, dark fruit, roasted malt, warming alcohol, long finish",
+    "pairings": ["Chocolate desserts", "Blue cheese", "Braised short ribs", "Tiramisu"],
+    "history": "The Russian Imperial Stout style was originally brewed strong for export to the Russian Imperial Court. North Coast revived the style in 1988.",
+    "servingRecommendation": "Serve at 50-55°F in a snifter. Excellent for cellaring and develops with age.",
+    "universalCoords": { "x": 85, "y": 25 }
+  },
+  {
+    "id": "beer-024",
+    "name": "Allagash White",
+    "category": "beer",
+    "subcategory": "Wheat",
+    "type": "Belgian Witbier",
+    "origin": "Portland, Maine, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "An American interpretation of Belgian witbier, featuring Curaçao orange peel and coriander for refreshing complexity.",
+    "price": "$$",
+    "about": "Rob Tod founded Allagash in 1995 specifically to brew Belgian-style beers in America. White has become their signature and a classic of the style.",
+    "flavorProfile": {
+      "bitterness": 15,
+      "body": 35
+    },
+    "specifications": {
+      "abv": "5.2%",
+      "ibu": "13",
+      "style": "Belgian Witbier",
+      "brewery": "Allagash Brewing Company"
+    },
+    "tastingNotes": "Orange peel, coriander, wheat, subtle banana, light spice, refreshing finish",
+    "pairings": ["Seafood", "Salads", "Goat cheese", "Light Thai dishes"],
+    "history": "Rob Tod founded Allagash in 1995, inspired by Belgian brewing traditions. White was their first beer and remains their flagship.",
+    "servingRecommendation": "Serve at 40-45°F in a tulip or weizen glass. Garnish with an orange slice optional.",
+    "universalCoords": { "x": 35, "y": 85 }
+  },
+  {
+    "id": "beer-025",
+    "name": "Augustiner Helles",
+    "category": "beer",
+    "subcategory": "Lager",
+    "type": "Munich Helles",
+    "origin": "Munich, Germany",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "Munich's oldest brewery produces this quintessential helles - a perfectly balanced golden lager with subtle malt sweetness.",
+    "price": "$$",
+    "about": "Augustiner has been brewing since 1328, making it Munich's oldest brewery. They remain independent and are beloved by locals for their traditional approach.",
+    "flavorProfile": {
+      "bitterness": 20,
+      "body": 40
+    },
+    "specifications": {
+      "abv": "5.2%",
+      "ibu": "18",
+      "style": "Munich Helles",
+      "brewery": "Augustiner-Bräu"
+    },
+    "tastingNotes": "Fresh bread, light honey, subtle hops, clean malt, crisp finish",
+    "pairings": ["Weisswurst", "Pretzels", "Schnitzel", "Light salads"],
+    "history": "Founded in 1328 by Augustinian monks, the brewery passed to private hands in 1803. They continue to use traditional wooden barrels for their Edelstoff line.",
+    "servingRecommendation": "Serve at 40-45°F in a traditional Munich masskrug or half-liter glass.",
+    "universalCoords": { "x": 40, "y": 80 }
+  },
+  {
+    "id": "beer-026",
+    "name": "Stone IPA",
+    "category": "beer",
+    "subcategory": "IPA",
+    "type": "American IPA",
+    "origin": "Escondido, California, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "An aggressively hopped West Coast IPA that helped define the bold, bitter style San Diego became famous for.",
+    "price": "$$",
+    "about": "Stone was founded in 1996 and quickly became known for their 'arrogant' approach to brewing intensely hoppy beers that challenged mainstream tastes.",
+    "flavorProfile": {
+      "bitterness": 75,
+      "body": 50
+    },
+    "specifications": {
+      "abv": "6.9%",
+      "ibu": "71",
+      "style": "American IPA",
+      "brewery": "Stone Brewing"
+    },
+    "tastingNotes": "Tropical fruit, pine, citrus, caramel malt, dank hops, assertive bitterness",
+    "pairings": ["Spicy Mexican food", "Strong cheeses", "Grilled meats", "Indian curry"],
+    "history": "Greg Koch and Steve Wagner founded Stone in 1996. Their aggressive approach to hoppy beers and irreverent marketing helped build San Diego's reputation as an IPA capital.",
+    "servingRecommendation": "Serve at 45-50°F in a pint glass or tulip. Best consumed fresh.",
+    "universalCoords": { "x": 50, "y": 25 }
+  },
+  {
+    "id": "beer-027",
+    "name": "Deschutes Black Butte Porter",
+    "category": "beer",
+    "subcategory": "Porter",
+    "type": "American Porter",
+    "origin": "Bend, Oregon, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "America's best-selling craft porter, offering creamy chocolate and coffee notes in a supremely drinkable package.",
+    "price": "$$",
+    "about": "Deschutes opened in 1988 in Bend, Oregon. Black Butte Porter was their first recipe and has been their flagship since day one.",
+    "flavorProfile": {
+      "bitterness": 35,
+      "body": 55
+    },
+    "specifications": {
+      "abv": "5.5%",
+      "ibu": "30",
+      "style": "American Porter",
+      "brewery": "Deschutes Brewery"
+    },
+    "tastingNotes": "Chocolate, coffee, light roast, caramel, subtle hop bitterness, smooth finish",
+    "pairings": ["BBQ ribs", "Chocolate cake", "Aged cheddar", "Grilled salmon"],
+    "history": "Gary Fish founded Deschutes in 1988. Black Butte Porter was the first beer they brewed and is named after a volcanic butte near Bend.",
+    "servingRecommendation": "Serve at 45-50°F in a pint glass. A great gateway to darker beers.",
+    "universalCoords": { "x": 55, "y": 65 }
+  },
+  {
+    "id": "beer-028",
+    "name": "Saison Dupont",
+    "category": "beer",
+    "subcategory": "Belgian",
+    "type": "Saison",
+    "origin": "Tourpes, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The definitive farmhouse ale that established the saison style, bone dry with complex yeast character and spice.",
+    "price": "$$",
+    "about": "Brewed at a working farm since 1844, Saison Dupont is the benchmark against which all other saisons are measured. The brewery still produces cheese alongside beer.",
+    "flavorProfile": {
+      "bitterness": 35,
+      "body": 30
+    },
+    "specifications": {
+      "abv": "6.5%",
+      "ibu": "31",
+      "style": "Belgian Saison",
+      "brewery": "Brasserie Dupont"
+    },
+    "tastingNotes": "Peppery spice, citrus, hay, earthy hops, effervescent, bone dry finish",
+    "pairings": ["Grilled chicken", "Mussels", "Soft cheeses", "Spring vegetables"],
+    "history": "The Rimaux-Derrider family has operated the farm brewery since 1844. Originally brewed for farm workers, saison means 'season' in French.",
+    "servingRecommendation": "Serve at 45-50°F in a tulip glass. Highly carbonated - pour carefully.",
+    "universalCoords": { "x": 30, "y": 65 }
+  },
+  {
+    "id": "beer-029",
+    "name": "Great Lakes Edmund Fitzgerald Porter",
+    "category": "beer",
+    "subcategory": "Porter",
+    "type": "Robust Porter",
+    "origin": "Cleveland, Ohio, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A richly roasted porter named after the famous shipwreck, offering complex chocolate and coffee notes.",
+    "price": "$$",
+    "about": "Great Lakes Brewing opened in 1988 in Cleveland's Ohio City neighborhood. Their porter honors the SS Edmund Fitzgerald, which sank in Lake Superior in 1975.",
+    "flavorProfile": {
+      "bitterness": 50,
+      "body": 60
+    },
+    "specifications": {
+      "abv": "6.0%",
+      "ibu": "37",
+      "style": "Robust Porter",
+      "brewery": "Great Lakes Brewing Company"
+    },
+    "tastingNotes": "Dark chocolate, espresso, roasted malt, caramel, subtle hop bitterness",
+    "pairings": ["Grilled steak", "Chocolate desserts", "Aged gouda", "Smoked meats"],
+    "history": "Named after the ore carrier that sank in 1975, immortalized in Gordon Lightfoot's song. Great Lakes has won multiple awards for this porter.",
+    "servingRecommendation": "Serve at 45-50°F in a pint glass or tulip.",
+    "universalCoords": { "x": 60, "y": 50 }
+  },
+  {
+    "id": "beer-030",
+    "name": "Firestone Walker Union Jack",
+    "category": "beer",
+    "subcategory": "IPA",
+    "type": "West Coast IPA",
+    "origin": "Paso Robles, California, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A hop-forward West Coast IPA that showcases American hops with citrus and pine character.",
+    "price": "$$",
+    "about": "Firestone Walker started in 1996 using a unique barrel fermentation system. Union Jack represents their dedication to hop-forward West Coast brewing.",
+    "flavorProfile": {
+      "bitterness": 70,
+      "body": 45
+    },
+    "specifications": {
+      "abv": "7.5%",
+      "ibu": "70",
+      "style": "West Coast IPA",
+      "brewery": "Firestone Walker Brewing Company"
+    },
+    "tastingNotes": "Grapefruit, tangerine, pine, grass, light malt backbone, clean bitter finish",
+    "pairings": ["Fish tacos", "Thai curry", "Sharp cheddar", "Grilled vegetables"],
+    "history": "Adam Firestone and David Walker founded the brewery in 1996. Named for the British flag as a nod to the IPA's English origins.",
+    "servingRecommendation": "Serve at 45-50°F in a tulip or pint glass. Best enjoyed fresh.",
+    "universalCoords": { "x": 45, "y": 30 }
+  },
+  {
+    "id": "beer-031",
+    "name": "Left Hand Milk Stout",
+    "category": "beer",
+    "subcategory": "Stout",
+    "type": "Milk Stout",
+    "origin": "Longmont, Colorado, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A creamy, smooth milk stout made with lactose for subtle sweetness and silky body.",
+    "price": "$$",
+    "about": "Left Hand has been brewing in Colorado since 1993. Their Milk Stout is one of America's best-selling craft stouts, available in both regular and nitro versions.",
+    "flavorProfile": {
+      "bitterness": 30,
+      "body": 60
+    },
+    "specifications": {
+      "abv": "6.0%",
+      "ibu": "25",
+      "style": "Milk Stout / Sweet Stout",
+      "brewery": "Left Hand Brewing Company"
+    },
+    "tastingNotes": "Chocolate, coffee, caramel, cream, hints of vanilla, smooth sweet finish",
+    "pairings": ["Chocolate cake", "Vanilla ice cream", "Cheesecake", "Fresh berries"],
+    "history": "Founded in 1993, Left Hand pioneered the nitrogen widget in bottles with their Milk Stout Nitro, bringing draft-quality stout to retail.",
+    "servingRecommendation": "Serve at 45-50°F. For nitro version, pour hard into glass for creamy cascade.",
+    "universalCoords": { "x": 60, "y": 70 }
+  },
+  {
+    "id": "beer-032",
+    "name": "Brooklyn Lager",
+    "category": "beer",
+    "subcategory": "Lager",
+    "type": "Vienna Lager",
+    "origin": "Brooklyn, New York, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A revival of pre-Prohibition Brooklyn brewing traditions, amber and dry-hopped in the 19th-century style.",
+    "price": "$$",
+    "about": "Steve Hindy and Tom Potter founded Brooklyn Brewery in 1988 to revive the borough's brewing heritage. Brooklyn Lager was their first beer.",
+    "flavorProfile": {
+      "bitterness": 35,
+      "body": 45
+    },
+    "specifications": {
+      "abv": "5.2%",
+      "ibu": "32",
+      "style": "Vienna Lager",
+      "brewery": "Brooklyn Brewery"
+    },
+    "tastingNotes": "Toasted malt, caramel, floral hops, biscuit, clean crisp finish",
+    "pairings": ["Pizza", "Burgers", "Mild cheeses", "Grilled sausages"],
+    "history": "Brooklyn was once America's brewing capital with 48 breweries. Brooklyn Brewery revived this tradition in 1988 with a recipe developed by Garrett Oliver.",
+    "servingRecommendation": "Serve at 40-45°F in a pint glass. Versatile with many foods.",
+    "universalCoords": { "x": 45, "y": 65 }
+  },
+  {
+    "id": "beer-033",
+    "name": "Hitachino Nest White Ale",
+    "category": "beer",
+    "subcategory": "Wheat",
+    "type": "Belgian-style Witbier",
+    "origin": "Ibaraki, Japan",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A Japanese interpretation of Belgian witbier using coriander, orange peel, and nutmeg for a unique spin on the style.",
+    "price": "$$$",
+    "about": "Kiuchi Brewery has been making sake since 1823 and began brewing beer in 1996. Their Nest beers have won international acclaim.",
+    "flavorProfile": {
+      "bitterness": 15,
+      "body": 40
+    },
+    "specifications": {
+      "abv": "5.5%",
+      "ibu": "13",
+      "style": "Belgian-style Witbier",
+      "brewery": "Kiuchi Brewery"
+    },
+    "tastingNotes": "Orange, coriander, nutmeg, wheat, subtle spice, refreshing citrus finish",
+    "pairings": ["Sushi", "Light seafood", "Asian salads", "Tempura"],
+    "history": "The Kiuchi family has brewed sake in Ibaraki since 1823. In 1996, they began brewing beer, combining Belgian techniques with Japanese precision.",
+    "servingRecommendation": "Serve at 40-45°F in a tulip glass. Pairs beautifully with Japanese cuisine.",
+    "universalCoords": { "x": 40, "y": 85 }
+  },
+  {
+    "id": "beer-034",
+    "name": "Unibroue La Fin du Monde",
+    "category": "beer",
+    "subcategory": "Belgian",
+    "type": "Belgian Tripel",
+    "origin": "Chambly, Quebec, Canada",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A Canadian take on the Belgian tripel, named 'The End of the World' for the early explorers who thought they'd reached it in Quebec.",
+    "price": "$$",
+    "about": "Unibroue was founded in 1990 by Belgian-influenced Quebec brewers. La Fin du Monde has won numerous world beer championships.",
+    "flavorProfile": {
+      "bitterness": 25,
+      "body": 50
+    },
+    "specifications": {
+      "abv": "9.0%",
+      "ibu": "19",
+      "style": "Belgian Tripel",
+      "brewery": "Unibroue"
+    },
+    "tastingNotes": "Honey, spice, malt, citrus, pepper, complex yeast character, dry finish",
+    "pairings": ["Lobster", "Poultry", "Aged cheese", "Apple desserts"],
+    "history": "Named for early explorers who believed they'd reached the end of the world in Quebec. La Fin du Monde has won multiple World Beer Cup awards.",
+    "servingRecommendation": "Serve at 46-54°F in a tulip glass or goblet. Pour leaving yeast sediment.",
+    "universalCoords": { "x": 50, "y": 75 }
+  },
+  {
+    "id": "beer-035",
+    "name": "Spaten Oktoberfest",
+    "category": "beer",
+    "subcategory": "Lager",
+    "type": "Märzen",
+    "origin": "Munich, Germany",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The original Oktoberfest beer, created in 1841 and still served at Munich's famous festival.",
+    "price": "$$",
+    "about": "Spaten created the amber Märzen style in 1841 that defined Oktoberfest beer. They remain one of the six breweries allowed to pour at the Munich festival.",
+    "flavorProfile": {
+      "bitterness": 25,
+      "body": 55
+    },
+    "specifications": {
+      "abv": "5.9%",
+      "ibu": "21",
+      "style": "Märzen / Oktoberfest",
+      "brewery": "Spaten-Franziskaner-Bräu"
+    },
+    "tastingNotes": "Toasted bread, caramel, honey, noble hops, clean malt finish",
+    "pairings": ["Roast chicken", "Pretzels", "Bratwurst", "Schweinebraten"],
+    "history": "Gabriel Sedlmayr II created the original Märzen in 1841. Spaten has been brewing in Munich since 1397 and helped pioneer lager brewing techniques.",
+    "servingRecommendation": "Serve at 40-45°F in a traditional Munich masskrug.",
+    "universalCoords": { "x": 55, "y": 75 }
+  },
+  {
+    "id": "beer-036",
+    "name": "Three Floyds Zombie Dust",
+    "category": "beer",
+    "subcategory": "Pale Ale",
+    "type": "American Pale Ale",
+    "origin": "Munster, Indiana, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A cult-favorite single-hop pale ale showcasing Citra hops with intense tropical and citrus character.",
+    "price": "$$$",
+    "about": "Three Floyds has been brewing since 1996 in Northwest Indiana. Zombie Dust's intense hop character and limited distribution created a cult following.",
+    "flavorProfile": {
+      "bitterness": 55,
+      "body": 40
+    },
+    "specifications": {
+      "abv": "6.2%",
+      "ibu": "50",
+      "style": "American Pale Ale",
+      "brewery": "Three Floyds Brewing Co."
+    },
+    "tastingNotes": "Mango, citrus, grapefruit, tropical fruit, light malt, clean finish",
+    "pairings": ["Grilled fish", "Tacos", "Gouda", "Fruit salad"],
+    "history": "Three Floyds was founded by Nick Floyd in 1996. Zombie Dust was released in 2011 and quickly became one of America's most sought-after pale ales.",
+    "servingRecommendation": "Serve at 45-50°F in a tulip glass. Best consumed fresh.",
+    "universalCoords": { "x": 40, "y": 45 }
+  },
+  {
+    "id": "beer-037",
+    "name": "De Struise Black Albert",
+    "category": "beer",
+    "subcategory": "Stout",
+    "type": "Belgian Imperial Stout",
+    "origin": "Oostvleteren, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A massive Belgian imperial stout with intense roasted character and Belgian yeast complexity.",
+    "price": "$$$$",
+    "about": "De Struise Brouwers started in 2003 and quickly gained fame for their bold, extreme beers. Black Albert is named after King Albert I.",
+    "flavorProfile": {
+      "bitterness": 70,
+      "body": 90
+    },
+    "specifications": {
+      "abv": "13.0%",
+      "ibu": "60",
+      "style": "Belgian Imperial Stout",
+      "brewery": "De Struise Brouwers"
+    },
+    "tastingNotes": "Dark chocolate, espresso, dark fruit, molasses, warming alcohol, complex finish",
+    "pairings": ["Blue cheese", "Dark chocolate", "Tiramisu", "Aged gouda"],
+    "history": "De Struise means 'the sturdy one' in Flemish. The brewery is known for pushing boundaries with high-alcohol, intensely flavored beers.",
+    "servingRecommendation": "Serve at 50-55°F in a snifter. Excellent for cellaring.",
+    "universalCoords": { "x": 90, "y": 30 }
+  },
+  {
+    "id": "beer-038",
+    "name": "Hofbräu Original",
+    "category": "beer",
+    "subcategory": "Lager",
+    "type": "Munich Helles",
+    "origin": "Munich, Germany",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The state-owned Munich brewery's flagship helles, served in the famous Hofbräuhaus beer hall.",
+    "price": "$$",
+    "about": "Founded by Duke Wilhelm V in 1589, Hofbräu remains state-owned by Bavaria. The Hofbräuhaus is one of the world's most famous beer halls.",
+    "flavorProfile": {
+      "bitterness": 20,
+      "body": 40
+    },
+    "specifications": {
+      "abv": "5.1%",
+      "ibu": "18",
+      "style": "Munich Helles",
+      "brewery": "Staatliches Hofbräuhaus"
+    },
+    "tastingNotes": "Light malt sweetness, fresh bread, subtle noble hops, clean crisp finish",
+    "pairings": ["Weisswurst", "Soft pretzels", "Obatzda", "Schweinebraten"],
+    "history": "Duke Wilhelm V founded Hofbräu in 1589 to supply the royal court. The Hofbräuhaus beer hall was built in 1644 and has hosted famous visitors including Mozart.",
+    "servingRecommendation": "Serve at 40-45°F in a traditional mass or stein.",
+    "universalCoords": { "x": 40, "y": 80 }
+  },
+  {
+    "id": "beer-039",
+    "name": "Mikkeller Beer Geek Breakfast",
+    "category": "beer",
+    "subcategory": "Stout",
+    "type": "Oatmeal Coffee Stout",
+    "origin": "Copenhagen, Denmark",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A gypsy-brewed oatmeal stout made with Mikkeller's signature breakfast coffee beans for intense java character.",
+    "price": "$$$",
+    "about": "Mikkeller was founded in 2006 by Mikkel Borg Bjergsø, a former physics teacher. They pioneered the 'gypsy brewing' model, creating recipes brewed at partner facilities.",
+    "flavorProfile": {
+      "bitterness": 55,
+      "body": 70
+    },
+    "specifications": {
+      "abv": "7.5%",
+      "ibu": "45",
+      "style": "Oatmeal Coffee Stout",
+      "brewery": "Mikkeller"
+    },
+    "tastingNotes": "Intense coffee, dark chocolate, oatmeal smoothness, roasted barley, slight bitterness",
+    "pairings": ["Chocolate croissants", "Bacon", "Vanilla ice cream", "Tiramisu"],
+    "history": "Mikkel Borg Bjergsø started homebrewing with his friend Kristian Keller. Mikkeller has become one of the world's most prolific and innovative breweries.",
+    "servingRecommendation": "Serve at 50-55°F in a snifter or tulip glass.",
+    "universalCoords": { "x": 70, "y": 45 }
+  },
+  {
+    "id": "beer-040",
+    "name": "Bitburger Premium Pils",
+    "category": "beer",
+    "subcategory": "Pilsner",
+    "type": "German Pilsner",
+    "origin": "Bitburg, Germany",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "Germany's best-selling draft beer, a crisp pilsner with pronounced hop bitterness and a clean finish.",
+    "price": "$$",
+    "about": "Bitburger has been brewing since 1817 in the Eifel region of Germany. They are known for their dedication to German pilsner tradition.",
+    "flavorProfile": {
+      "bitterness": 40,
+      "body": 30
+    },
+    "specifications": {
+      "abv": "4.8%",
+      "ibu": "38",
+      "style": "German Pilsner",
+      "brewery": "Bitburger Braugruppe"
+    },
+    "tastingNotes": "Herbal hops, light malt, grassy, crisp, clean bitter finish",
+    "pairings": ["Schnitzel", "Light salads", "Seafood", "Mild cheeses"],
+    "history": "Johann Wallenborn founded the brewery in 1817. The phrase 'Bitte ein Bit' (A Bit, please) became one of Germany's most famous advertising slogans.",
+    "servingRecommendation": "Serve at 40-45°F in a pilsner glass or traditional German pokal.",
+    "universalCoords": { "x": 30, "y": 60 }
+  },
+  {
+    "id": "beer-041",
+    "name": "Brasserie de la Senne Taras Boulba",
+    "category": "beer",
+    "subcategory": "Pale Ale",
+    "type": "Belgian Session Ale",
+    "origin": "Brussels, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A highly hopped yet refreshing session ale from Brussels, named after a Gogol novel character.",
+    "price": "$$",
+    "about": "Founded in 2006, Brasserie de la Senne focuses on bitter, dry, refreshing beers that challenge Belgian brewing conventions.",
+    "flavorProfile": {
+      "bitterness": 55,
+      "body": 25
+    },
+    "specifications": {
+      "abv": "4.5%",
+      "ibu": "45",
+      "style": "Belgian Pale Ale",
+      "brewery": "Brasserie de la Senne"
+    },
+    "tastingNotes": "Citrus hops, herbal, light malt, dry, refreshingly bitter finish",
+    "pairings": ["Mussels", "Salads", "Light seafood", "Goat cheese"],
+    "history": "Bernard Leboucq and Yvan De Baets founded the brewery to create bitter, dry beers as an alternative to sweeter Belgian styles.",
+    "servingRecommendation": "Serve at 40-45°F in a tulip glass. A perfect session beer.",
+    "universalCoords": { "x": 25, "y": 45 }
+  },
+  {
+    "id": "beer-042",
+    "name": "Goose Island Bourbon County Stout",
+    "category": "beer",
+    "subcategory": "Stout",
+    "type": "Barrel-Aged Imperial Stout",
+    "origin": "Chicago, Illinois, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The beer that pioneered bourbon barrel aging, released annually on Black Friday to eager fans.",
+    "price": "$$$$",
+    "about": "Goose Island created the first bourbon barrel-aged beer in 1992. The annual Black Friday release has become a cultural phenomenon.",
+    "flavorProfile": {
+      "bitterness": 60,
+      "body": 95
+    },
+    "specifications": {
+      "abv": "14.0%",
+      "ibu": "60",
+      "style": "Bourbon Barrel-Aged Imperial Stout",
+      "brewery": "Goose Island Beer Company"
+    },
+    "tastingNotes": "Bourbon, vanilla, chocolate, caramel, oak, dark fruit, long warming finish",
+    "pairings": ["Dark chocolate", "Blue cheese", "Vanilla desserts", "Smoked meats"],
+    "history": "Brewmaster Greg Hall put a batch of imperial stout in Jim Beam barrels in 1992, creating a new category of beer. Black Friday releases draw thousands.",
+    "servingRecommendation": "Serve at 50-55°F in a snifter. Excellent for cellaring up to 5+ years.",
+    "universalCoords": { "x": 95, "y": 40 }
+  },
+  {
+    "id": "beer-043",
+    "name": "Rothaus Tannenzäpfle",
+    "category": "beer",
+    "subcategory": "Pilsner",
+    "type": "German Pilsner",
+    "origin": "Black Forest, Germany",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A cult-favorite pilsner from the Black Forest, known for its distinctive green bottle and woman in traditional dress.",
+    "price": "$$",
+    "about": "Rothaus has been brewing in the Black Forest since 1791. Despite limited export, Tannenzäpfle has gained a devoted international following.",
+    "flavorProfile": {
+      "bitterness": 35,
+      "body": 30
+    },
+    "specifications": {
+      "abv": "5.1%",
+      "ibu": "32",
+      "style": "German Pilsner",
+      "brewery": "Badische Staatsbrauerei Rothaus"
+    },
+    "tastingNotes": "Crisp malt, floral hops, subtle honey, clean, refreshing finish",
+    "pairings": ["Light salads", "Grilled fish", "Fresh bread", "Mild cheeses"],
+    "history": "The state-owned brewery is located at 1000m elevation in the Black Forest. The name means 'little fir cone' and the woman on the label is called Biergit.",
+    "servingRecommendation": "Serve at 40-45°F in a pilsner glass. Best enjoyed fresh and cold.",
+    "universalCoords": { "x": 30, "y": 65 }
+  },
+  {
+    "id": "beer-044",
+    "name": "The Alchemist Heady Topper",
+    "category": "beer",
+    "subcategory": "IPA",
+    "type": "Double IPA",
+    "origin": "Stowe, Vermont, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The legendary Vermont DIPA that ignited the haze craze, offering intensely juicy hop character.",
+    "price": "$$$",
+    "about": "John and Jen Kimmich created Heady Topper at their Waterbury brewpub. After a devastating flood, they rebuilt focused entirely on this one beer.",
+    "flavorProfile": {
+      "bitterness": 75,
+      "body": 55
+    },
+    "specifications": {
+      "abv": "8.0%",
+      "ibu": "75",
+      "style": "Double IPA",
+      "brewery": "The Alchemist"
+    },
+    "tastingNotes": "Tropical fruit, citrus, pine, juicy, smooth bitterness, hazy appearance",
+    "pairings": ["Spicy food", "Soft cheeses", "Grilled chicken", "Fresh fruit"],
+    "history": "Originally brewed at their Waterbury pub in 2003, demand exploded after ratebeer named it the world's best beer. The can famously says 'Drink From The Can.'",
+    "servingRecommendation": "Drink fresh! Can be consumed from the can as recommended, or poured into a tulip at 45-50°F.",
+    "universalCoords": { "x": 55, "y": 25 }
+  },
+  {
+    "id": "beer-045",
+    "name": "De Ranke XX Bitter",
+    "category": "beer",
+    "subcategory": "Belgian",
+    "type": "Belgian Blonde Ale",
+    "origin": "Dottignies, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A pioneering Belgian hoppy ale that challenged the notion that Belgian beers can't be hop-forward.",
+    "price": "$$",
+    "about": "De Ranke was founded in 1994 by Nino Bacelle and Guido Devos. They focus on bitter, hop-forward Belgian ales that buck traditional sweet Belgian styles.",
+    "flavorProfile": {
+      "bitterness": 65,
+      "body": 35
+    },
+    "specifications": {
+      "abv": "6.2%",
+      "ibu": "65",
+      "style": "Belgian Blonde Ale",
+      "brewery": "De Ranke"
+    },
+    "tastingNotes": "Floral hops, herbal, light malt, yeast spice, dry bitter finish",
+    "pairings": ["Mussels", "Grilled fish", "Fresh salads", "Soft cheeses"],
+    "history": "XX Bitter was revolutionary in Belgium for putting hops front and center in a country known for malt-forward and sweet beers.",
+    "servingRecommendation": "Serve at 45-50°F in a tulip glass.",
+    "universalCoords": { "x": 35, "y": 35 }
+  },
+  {
+    "id": "beer-046",
+    "name": "Oskar Blues Dale's Pale Ale",
+    "category": "beer",
+    "subcategory": "Pale Ale",
+    "type": "American Pale Ale",
+    "origin": "Longmont, Colorado, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "America's first craft beer in a can, proving that quality beer could come in aluminum.",
+    "price": "$$",
+    "about": "Oskar Blues pioneered canning craft beer in 2002 when the format was considered inferior. They proved cans actually protect beer better than bottles.",
+    "flavorProfile": {
+      "bitterness": 60,
+      "body": 45
+    },
+    "specifications": {
+      "abv": "6.5%",
+      "ibu": "65",
+      "style": "American Pale Ale",
+      "brewery": "Oskar Blues Brewery"
+    },
+    "tastingNotes": "Citrus, floral hops, caramel malt, pine, balanced bitter finish",
+    "pairings": ["Burgers", "BBQ", "Cheddar cheese", "Spicy wings"],
+    "history": "Dale Katechis founded Oskar Blues in 1997 and made craft beer history in 2002 by canning Dale's Pale Ale. The brewery has since grown nationwide.",
+    "servingRecommendation": "Serve at 45-50°F in a pint glass. Perfectly portable in the iconic can.",
+    "universalCoords": { "x": 45, "y": 40 }
+  },
+  {
+    "id": "beer-047",
+    "name": "Westvleteren 12",
+    "category": "beer",
+    "subcategory": "Belgian",
+    "type": "Belgian Quadrupel",
+    "origin": "Vleteren, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "Often called the world's best beer, this rare Trappist quad is only sold at the monastery or its adjacent cafe.",
+    "price": "$$$$",
+    "about": "Brewed by monks at St. Sixtus Abbey since 1838, Westvleteren 12 is intentionally rare. Production is limited to monastery needs, not commercial demand.",
+    "flavorProfile": {
+      "bitterness": 20,
+      "body": 90
+    },
+    "specifications": {
+      "abv": "10.2%",
+      "ibu": "35",
+      "style": "Belgian Quadrupel",
+      "brewery": "Brouwerij de Sint-Sixtusabdij van Westvleteren"
+    },
+    "tastingNotes": "Dark fruit, caramel, brown sugar, bread, warming alcohol, endless complexity",
+    "pairings": ["Blue cheese", "Dark chocolate", "Fruit desserts", "Roasted nuts"],
+    "history": "The Trappist monks began brewing in 1838. They famously state they brew to live, not live to brew, keeping production minimal.",
+    "servingRecommendation": "Serve at 54-57°F in a chalice. Can be cellared for 10+ years.",
+    "universalCoords": { "x": 90, "y": 80 }
+  },
+  {
+    "id": "beer-048",
+    "name": "Tree House Julius",
+    "category": "beer",
+    "subcategory": "IPA",
+    "type": "New England IPA",
+    "origin": "Charlton, Massachusetts, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A hazy, juicy New England IPA that helped define the modern Northeast style with its pillowy body.",
+    "price": "$$$",
+    "about": "Tree House opened in 2011 and quickly became one of America's most hyped breweries. Long lines form for their on-site-only releases.",
+    "flavorProfile": {
+      "bitterness": 45,
+      "body": 55
+    },
+    "specifications": {
+      "abv": "6.8%",
+      "ibu": "45",
+      "style": "New England IPA",
+      "brewery": "Tree House Brewing Company"
+    },
+    "tastingNotes": "Orange, mango, passionfruit, pillowy body, soft bitterness, hazy golden",
+    "pairings": ["Light cheeses", "Grilled seafood", "Citrus salads", "Sushi"],
+    "history": "Founded in 2011 in a barn, Tree House has grown into one of America's most sought-after breweries. Julius is named after founder Nathan Lanier's cat.",
+    "servingRecommendation": "Drink fresh! Serve at 45-50°F in a tulip glass.",
+    "universalCoords": { "x": 55, "y": 55 }
+  },
+  {
+    "id": "beer-049",
+    "name": "Lindemans Oude Gueuze Cuvée René",
+    "category": "beer",
+    "subcategory": "Sour",
+    "type": "Gueuze",
+    "origin": "Vlezenbeek, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "Lindemans' traditional unsweetened gueuze, a complex blend of lambics aged up to 3 years.",
+    "price": "$$$",
+    "about": "While Lindemans is known for sweetened fruit lambics, Cuvée René represents their traditional gueuze, named for René Lindemans who maintained old methods.",
+    "flavorProfile": {
+      "bitterness": 15,
+      "body": 30
+    },
+    "specifications": {
+      "abv": "5.5%",
+      "ibu": "10",
+      "style": "Gueuze",
+      "brewery": "Brouwerij Lindemans"
+    },
+    "tastingNotes": "Tart apple, lemon, oak, hay, funky, dry, champagne-like effervescence",
+    "pairings": ["Oysters", "Mussels", "Fresh chevre", "Light seafood"],
+    "history": "The Lindemans family has brewed lambic since 1822. Cuvée René honors René Lindemans who preserved traditional methods alongside commercial fruit beers.",
+    "servingRecommendation": "Serve at 50-55°F in a tulip or champagne flute. Can age for decades.",
+    "universalCoords": { "x": 30, "y": 85 }
+  },
+  {
+    "id": "beer-050",
+    "name": "Victory Prima Pils",
+    "category": "beer",
+    "subcategory": "Pilsner",
+    "type": "German Pilsner",
+    "origin": "Downingtown, Pennsylvania, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "An American craft pilsner hopped with German varieties for a clean, crisp, hop-forward experience.",
+    "price": "$$",
+    "about": "Victory was founded in 1996 by childhood friends Ron Barchet and Bill Covaleski. Prima Pils showcases their German brewing training.",
+    "flavorProfile": {
+      "bitterness": 45,
+      "body": 30
+    },
+    "specifications": {
+      "abv": "5.3%",
+      "ibu": "44",
+      "style": "German Pilsner",
+      "brewery": "Victory Brewing Company"
+    },
+    "tastingNotes": "Floral noble hops, biscuit malt, grassy, dry, crisp bitter finish",
+    "pairings": ["Seafood", "Salads", "Mild cheeses", "Grilled vegetables"],
+    "history": "Ron Barchet and Bill Covaleski trained in Germany before founding Victory. Prima Pils reflects their appreciation for German pilsner tradition.",
+    "servingRecommendation": "Serve at 40-45°F in a pilsner glass.",
+    "universalCoords": { "x": 30, "y": 55 }
+  },
+  {
+    "id": "beer-051",
+    "name": "Ommegang Three Philosophers",
+    "category": "beer",
+    "subcategory": "Belgian",
+    "type": "Belgian Strong Dark Ale",
+    "origin": "Cooperstown, New York, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A unique Belgian quad blended with cherry lambic, creating complex fruit and dark malt interplay.",
+    "price": "$$$",
+    "about": "Ommegang was founded in 1997 to brew Belgian-style beers in America. Three Philosophers blends their quad with authentic cherry lambic from Belgium.",
+    "flavorProfile": {
+      "bitterness": 25,
+      "body": 75
+    },
+    "specifications": {
+      "abv": "9.7%",
+      "ibu": "20",
+      "style": "Belgian Quadrupel with Lambic",
+      "brewery": "Brewery Ommegang"
+    },
+    "tastingNotes": "Cherry, dark fruit, chocolate, caramel, subtle tartness, warming finish",
+    "pairings": ["Duck", "Chocolate desserts", "Blue cheese", "Cherries"],
+    "history": "Ommegang opened in 1997 in a purpose-built Belgian-style farmhouse. Three Philosophers is a blend of their quad with Liefmans Kriek.",
+    "servingRecommendation": "Serve at 50-55°F in a chalice or goblet. Excellent for cellaring.",
+    "universalCoords": { "x": 75, "y": 75 }
+  },
+  {
+    "id": "beer-052",
+    "name": "AleSmith Speedway Stout",
+    "category": "beer",
+    "subcategory": "Stout",
+    "type": "Coffee Imperial Stout",
+    "origin": "San Diego, California, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A massive coffee imperial stout brewed with locally roasted beans for intense java and chocolate character.",
+    "price": "$$$",
+    "about": "AleSmith has been brewing in San Diego since 1995. Speedway Stout is named after Speedway Boulevard and features cold-brewed coffee.",
+    "flavorProfile": {
+      "bitterness": 70,
+      "body": 90
+    },
+    "specifications": {
+      "abv": "12.0%",
+      "ibu": "70",
+      "style": "Coffee Imperial Stout",
+      "brewery": "AleSmith Brewing Company"
+    },
+    "tastingNotes": "Intense espresso, dark chocolate, roasted malt, molasses, warming alcohol",
+    "pairings": ["Chocolate truffles", "Tiramisu", "Aged cheddar", "Vanilla ice cream"],
+    "history": "AleSmith started in 1995. Speedway Stout debuted in 2002 and has spawned many variants including barrel-aged and Vietnamese coffee versions.",
+    "servingRecommendation": "Serve at 50-55°F in a snifter. Excellent for cellaring.",
+    "universalCoords": { "x": 90, "y": 30 }
+  },
+  {
+    "id": "beer-053",
+    "name": "Sapporo Premium Beer",
+    "category": "beer",
+    "subcategory": "Lager",
+    "type": "Japanese Rice Lager",
+    "origin": "Sapporo, Japan",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "Japan's oldest beer brand, a crisp and clean rice lager with subtle sweetness.",
+    "price": "$$",
+    "about": "Sapporo was founded in 1876 as Japan's first beer brand. The iconic silver can and star logo represent the pioneering spirit of Hokkaido.",
+    "flavorProfile": {
+      "bitterness": 20,
+      "body": 30
+    },
+    "specifications": {
+      "abv": "5.0%",
+      "ibu": "18",
+      "style": "Japanese Rice Lager",
+      "brewery": "Sapporo Breweries Ltd."
+    },
+    "tastingNotes": "Clean malt, rice sweetness, light hops, crisp dry finish",
+    "pairings": ["Sushi", "Ramen", "Yakitori", "Tempura"],
+    "history": "Founded in 1876 by Seibei Nakagawa, trained in Germany. Sapporo was the first Japanese beer brand and pioneered commercial brewing in Japan.",
+    "servingRecommendation": "Serve at 38-42°F in its iconic silver can or a pilsner glass.",
+    "universalCoords": { "x": 30, "y": 80 }
+  },
+  {
+    "id": "beer-054",
+    "name": "Cigar City Jai Alai IPA",
+    "category": "beer",
+    "subcategory": "IPA",
+    "type": "American IPA",
+    "origin": "Tampa, Florida, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A bold American IPA named after the fast-paced sport popular in Tampa's past, balancing citrus and malt.",
+    "price": "$$",
+    "about": "Cigar City was founded in 2009 in Tampa's Ybor City. Jai Alai became their flagship, named for the Basque sport once popular in Florida.",
+    "flavorProfile": {
+      "bitterness": 70,
+      "body": 50
+    },
+    "specifications": {
+      "abv": "7.5%",
+      "ibu": "70",
+      "style": "American IPA",
+      "brewery": "Cigar City Brewing"
+    },
+    "tastingNotes": "Citrus, tropical fruit, caramel malt, pine, assertive but balanced bitterness",
+    "pairings": ["Cuban sandwich", "Spicy food", "Strong cheeses", "Citrus desserts"],
+    "history": "Joey Redner founded Cigar City in 2009, naming beers after Tampa history. Jai alai was popular in Florida from the 1920s-80s.",
+    "servingRecommendation": "Serve at 45-50°F in a pint glass or tulip. Best enjoyed fresh.",
+    "universalCoords": { "x": 50, "y": 30 }
+  },
+  {
+    "id": "beer-055",
+    "name": "Einbecker Mai-Ur-Bock",
+    "category": "beer",
+    "subcategory": "Lager",
+    "type": "Maibock",
+    "origin": "Einbeck, Germany",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A spring bock from the town that invented the style, lighter than winter bocks with more hop presence.",
+    "price": "$$",
+    "about": "Einbeck is the birthplace of bock beer, which takes its name from the town. The brewery dates to at least 1378 and defines the original style.",
+    "flavorProfile": {
+      "bitterness": 30,
+      "body": 55
+    },
+    "specifications": {
+      "abv": "6.5%",
+      "ibu": "28",
+      "style": "Maibock / Helles Bock",
+      "brewery": "Einbecker Brauhaus"
+    },
+    "tastingNotes": "Bready malt, honey, floral noble hops, clean, slightly sweet finish",
+    "pairings": ["Spring lamb", "Fresh vegetables", "Mild cheeses", "Asparagus"],
+    "history": "The word 'bock' derives from Einbeck. When Munich brewers made the style, the local pronunciation turned 'Einbeck' into 'ein Bock' (a goat).",
+    "servingRecommendation": "Serve at 45-50°F in a traditional bock glass or ceramic stein.",
+    "universalCoords": { "x": 55, "y": 70 }
+  },
+  {
+    "id": "beer-056",
+    "name": "Ballast Point Sculpin",
+    "category": "beer",
+    "subcategory": "IPA",
+    "type": "American IPA",
+    "origin": "San Diego, California, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "Named after a venomous fish, this San Diego IPA delivers a sting of tropical and citrus hops.",
+    "price": "$$",
+    "about": "Ballast Point started as a homebrew shop in 1996 and began brewing in 2005. Sculpin became one of San Diego's most acclaimed IPAs.",
+    "flavorProfile": {
+      "bitterness": 70,
+      "body": 45
+    },
+    "specifications": {
+      "abv": "7.0%",
+      "ibu": "70",
+      "style": "American IPA",
+      "brewery": "Ballast Point Brewing Company"
+    },
+    "tastingNotes": "Apricot, mango, lemon, peach, pine, light malt, clean bitter finish",
+    "pairings": ["Fish tacos", "Thai food", "Citrus salads", "Manchego cheese"],
+    "history": "Ballast Point started as Home Brew Mart in 1992. The brewery was founded in 2005 and sold to Constellation Brands in 2015 for $1 billion.",
+    "servingRecommendation": "Serve at 45-50°F in a pint glass or tulip. Best enjoyed fresh.",
+    "universalCoords": { "x": 45, "y": 30 }
+  },
+  {
+    "id": "beer-057",
+    "name": "Pilsner Urquell Tank Fresh",
+    "category": "beer",
+    "subcategory": "Pilsner",
+    "type": "Czech Pilsner",
+    "origin": "Plzen, Czech Republic",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "Unpasteurized Pilsner Urquell delivered in specially cooled tanks to select locations for ultimate freshness.",
+    "price": "$$$",
+    "about": "Tank beer represents Pilsner Urquell at its freshest, unfiltered and unpasteurized, delivered to select bars in specially designed copper tanks.",
+    "flavorProfile": {
+      "bitterness": 40,
+      "body": 35
+    },
+    "specifications": {
+      "abv": "4.4%",
+      "ibu": "40",
+      "style": "Czech Premium Pale Lager (Tankova)",
+      "brewery": "Plzensky Prazdroj"
+    },
+    "tastingNotes": "Fresh bread, rich Saaz hops, butter notes, soft bitterness, exceptionally smooth",
+    "pairings": ["Czech cuisine", "Roast pork", "Pickled cheese", "Sausages"],
+    "history": "Tank beer was how all Pilsner Urquell was once served. The modern tank program began in 2012, bringing this tradition to select bars worldwide.",
+    "servingRecommendation": "Best experienced at certified tank locations. Serve at 40-44°F in a Czech half-liter glass.",
+    "universalCoords": { "x": 35, "y": 60 }
+  },
+  {
+    "id": "beer-058",
+    "name": "Evil Twin Femme Fatale Brett",
+    "category": "beer",
+    "subcategory": "Sour",
+    "type": "Brett Saison",
+    "origin": "New York, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A funky, wild saison refermented with Brettanomyces for earthy, complex farmhouse character.",
+    "price": "$$$",
+    "about": "Evil Twin was founded by Jeppe Jarnit-Bjergsø (Mikkeller founder's twin brother) in 2010. They specialize in creative, boundary-pushing beers.",
+    "flavorProfile": {
+      "bitterness": 25,
+      "body": 30
+    },
+    "specifications": {
+      "abv": "6.5%",
+      "ibu": "22",
+      "style": "Brett Saison",
+      "brewery": "Evil Twin Brewing"
+    },
+    "tastingNotes": "Earthy funk, leather, hay, citrus, peppery spice, bone dry finish",
+    "pairings": ["Charcuterie", "Aged cheeses", "Roast chicken", "Mushroom dishes"],
+    "history": "Jeppe Jarnit-Bjergsø started Evil Twin in 2010 after years working with his twin brother at Mikkeller. The brewery operates as a gypsy brewer.",
+    "servingRecommendation": "Serve at 50-55°F in a tulip glass. Develops further complexity with age.",
+    "universalCoords": { "x": 30, "y": 75 }
+  },
+  {
+    "id": "beer-059",
+    "name": "Köstritzer Schwarzbier",
+    "category": "beer",
+    "subcategory": "Lager",
+    "type": "German Schwarzbier",
+    "origin": "Bad Köstritz, Germany",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "Germany's most famous black lager, light-bodied despite its dark color with subtle chocolate notes.",
+    "price": "$$",
+    "about": "Köstritzer has been brewing schwarzbier since 1543. Goethe was a known fan, having it delivered to him regularly.",
+    "flavorProfile": {
+      "bitterness": 25,
+      "body": 35
+    },
+    "specifications": {
+      "abv": "4.8%",
+      "ibu": "22",
+      "style": "German Schwarzbier",
+      "brewery": "Köstritzer Schwarzbierbrauerei"
+    },
+    "tastingNotes": "Light chocolate, coffee hints, subtle roast, clean lager finish, surprisingly light body",
+    "pairings": ["Grilled sausages", "Smoked meats", "Dark bread", "Mild cheeses"],
+    "history": "First documented in 1543, Köstritzer became famous when Goethe declared it his favorite beer. The brewery survived East German nationalization.",
+    "servingRecommendation": "Serve at 42-46°F in a tall pilsner glass or traditional German stein.",
+    "universalCoords": { "x": 35, "y": 75 }
+  },
+  {
+    "id": "beer-060",
+    "name": "Anderson Valley Boont Amber Ale",
+    "category": "beer",
+    "subcategory": "Amber",
+    "type": "American Amber Ale",
+    "origin": "Boonville, California, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A balanced amber ale from the Anderson Valley, named in Boontling, the region's unique folk language.",
+    "price": "$$",
+    "about": "Anderson Valley has been brewing in Mendocino County since 1987. Many of their beers use Boontling, a local jargon developed in the 1880s.",
+    "flavorProfile": {
+      "bitterness": 35,
+      "body": 50
+    },
+    "specifications": {
+      "abv": "5.8%",
+      "ibu": "16",
+      "style": "American Amber Ale",
+      "brewery": "Anderson Valley Brewing Company"
+    },
+    "tastingNotes": "Caramel, toffee, light roast, floral hops, balanced finish",
+    "pairings": ["Roast chicken", "BBQ", "Cheddar cheese", "Grilled vegetables"],
+    "history": "Founded in 1987 in the Anderson Valley, the brewery embraces local Boontling dialect. 'Boont' means Boonville in this nearly extinct language.",
+    "servingRecommendation": "Serve at 45-50°F in a pint glass. A food-friendly amber.",
+    "universalCoords": { "x": 50, "y": 65 }
+  },
+  {
+    "id": "beer-061",
+    "name": "Hair of the Dog Adam",
+    "category": "beer",
+    "subcategory": "Belgian",
+    "type": "Old Ale",
+    "origin": "Portland, Oregon, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A recreation of a historic Dortmund-style adambier, intensely malty and meant for aging.",
+    "price": "$$$$",
+    "about": "Alan Sprints founded Hair of the Dog in 1993. Adam is his recreation of a German adambier style that died out in the early 20th century.",
+    "flavorProfile": {
+      "bitterness": 65,
+      "body": 85
+    },
+    "specifications": {
+      "abv": "10.0%",
+      "ibu": "65",
+      "style": "Old Ale / Adambier",
+      "brewery": "Hair of the Dog Brewing Company"
+    },
+    "tastingNotes": "Dark fruit, molasses, smoke, chocolate, complex malt, warming finish",
+    "pairings": ["Aged cheeses", "Dark chocolate", "Smoked meats", "Rich stews"],
+    "history": "Adam recreates a historic German style using research from beer historian Fred Eckhardt. Hair of the Dog pioneered craft beer aging programs.",
+    "servingRecommendation": "Serve at 50-55°F in a snifter. Excellent for cellaring 10+ years.",
+    "universalCoords": { "x": 85, "y": 35 }
+  },
+  {
+    "id": "beer-062",
+    "name": "Modern Times Black House",
+    "category": "beer",
+    "subcategory": "Stout",
+    "type": "Oatmeal Coffee Stout",
+    "origin": "San Diego, California, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "An oatmeal stout brewed with house-roasted coffee for rich java character and silky body.",
+    "price": "$$",
+    "about": "Modern Times was founded in 2013 as a worker-owned cooperative. They roast their own coffee and make many coffee beers.",
+    "flavorProfile": {
+      "bitterness": 45,
+      "body": 60
+    },
+    "specifications": {
+      "abv": "5.8%",
+      "ibu": "40",
+      "style": "Oatmeal Coffee Stout",
+      "brewery": "Modern Times Beer"
+    },
+    "tastingNotes": "Coffee, chocolate, oats, caramel, smooth roast, clean finish",
+    "pairings": ["Breakfast foods", "Chocolate desserts", "Vanilla ice cream", "Berries"],
+    "history": "Jacob McKean founded Modern Times in 2013 with a focus on sustainability and worker ownership. They roast all coffee beans in-house.",
+    "servingRecommendation": "Serve at 45-50°F in a pint glass or tulip.",
+    "universalCoords": { "x": 60, "y": 55 }
+  },
+  {
+    "id": "beer-063",
+    "name": "Jever Pilsener",
+    "category": "beer",
+    "subcategory": "Pilsner",
+    "type": "German Pilsner",
+    "origin": "Jever, Germany",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The driest, most bitter of the German pilsners, with pronounced hop character from Germany's Frisian coast.",
+    "price": "$$",
+    "about": "Jever has been brewing since 1848 in the Frisian town of the same name. Their pilsner is known for its extreme dryness and bitter finish.",
+    "flavorProfile": {
+      "bitterness": 50,
+      "body": 25
+    },
+    "specifications": {
+      "abv": "4.9%",
+      "ibu": "44",
+      "style": "German Pilsner",
+      "brewery": "Friesisches Brauhaus zu Jever"
+    },
+    "tastingNotes": "Herbal hops, grassy, mineral water, bone dry, long bitter finish",
+    "pairings": ["Raw oysters", "Fresh seafood", "Light salads", "Fresh bread"],
+    "history": "Founded in 1848, Jever represents the bitter northern German pilsner style. The brewery is known for using particularly hard water.",
+    "servingRecommendation": "Serve at 40-45°F in a pilsner glass or traditional Jever stange.",
+    "universalCoords": { "x": 25, "y": 50 }
+  },
+  {
+    "id": "beer-064",
+    "name": "Tripel Karmeliet",
+    "category": "beer",
+    "subcategory": "Belgian",
+    "type": "Belgian Tripel",
+    "origin": "Buggenhout, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A unique tripel brewed with wheat, oats, and barley based on a 17th-century Carmelite monastery recipe.",
+    "price": "$$$",
+    "about": "Brewed by Bosteels since 1996, Tripel Karmeliet is based on a 1679 recipe from the Carmelite monastery of Dendermonde.",
+    "flavorProfile": {
+      "bitterness": 25,
+      "body": 50
+    },
+    "specifications": {
+      "abv": "8.4%",
+      "ibu": "20",
+      "style": "Belgian Tripel",
+      "brewery": "Brouwerij Bosteels"
+    },
+    "tastingNotes": "Vanilla, banana, citrus, honey, gentle spice, creamy mouthfeel, dry finish",
+    "pairings": ["Seafood", "Poultry", "Creamy cheeses", "Fruit desserts"],
+    "history": "The Bosteels family found a 1679 recipe in the archives of the Carmelite monastery. They revived it in 1996 using wheat, oats, and barley.",
+    "servingRecommendation": "Serve at 46-54°F in the signature Tripel Karmeliet glass.",
+    "universalCoords": { "x": 50, "y": 75 }
+  },
+  {
+    "id": "beer-065",
+    "name": "Surly Furious",
+    "category": "beer",
+    "subcategory": "IPA",
+    "type": "American IPA",
+    "origin": "Minneapolis, Minnesota, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "An aggressive American IPA that helped put Minnesota on the craft beer map with its bold hop character.",
+    "price": "$$",
+    "about": "Omar Ansari founded Surly in 2006. Furious was their flagship and helped change Minnesota law to allow brewery taprooms.",
+    "flavorProfile": {
+      "bitterness": 75,
+      "body": 55
+    },
+    "specifications": {
+      "abv": "6.2%",
+      "ibu": "99",
+      "style": "American IPA",
+      "brewery": "Surly Brewing Company"
+    },
+    "tastingNotes": "Grapefruit, pine, floral, caramel malt, aggressive bitterness, dry finish",
+    "pairings": ["Spicy food", "Strong cheeses", "Grilled meats", "Indian curry"],
+    "history": "Surly was founded in 2006 and was instrumental in changing Minnesota law to allow breweries to sell on-site. The 'Surly Bill' passed in 2011.",
+    "servingRecommendation": "Serve at 45-50°F in a pint glass or tulip.",
+    "universalCoords": { "x": 55, "y": 25 }
+  },
+  {
+    "id": "beer-066",
+    "name": "De Halve Maan Brugse Zot Blond",
+    "category": "beer",
+    "subcategory": "Belgian",
+    "type": "Belgian Blonde Ale",
+    "origin": "Bruges, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "The city beer of Bruges, brewed at the only remaining brewery in the historic center, with a gentle blend of malt and hops.",
+    "price": "$$",
+    "about": "De Halve Maan (The Half Moon) has brewed in Bruges since 1856. Brugse Zot means 'Bruges Fool,' referencing the city's medieval jesters.",
+    "flavorProfile": {
+      "bitterness": 25,
+      "body": 40
+    },
+    "specifications": {
+      "abv": "6.0%",
+      "ibu": "22",
+      "style": "Belgian Blonde Ale",
+      "brewery": "Huisbrouwerij De Halve Maan"
+    },
+    "tastingNotes": "Honey, citrus, yeast spice, light malt, refreshing dry finish",
+    "pairings": ["Mussels", "Light seafood", "Soft cheeses", "Belgian frites"],
+    "history": "The brewery built a 3km underground pipeline in 2016 to transport beer from the historic city center to a bottling facility outside town.",
+    "servingRecommendation": "Serve at 45-50°F in a tulip glass.",
+    "universalCoords": { "x": 40, "y": 75 }
+  },
+  {
+    "id": "beer-067",
+    "name": "Founders KBS",
+    "category": "beer",
+    "subcategory": "Stout",
+    "type": "Bourbon Barrel Imperial Stout",
+    "origin": "Grand Rapids, Michigan, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "Kentucky Breakfast Stout - Founders' Breakfast Stout aged in bourbon barrels with coffee and chocolate for ultimate decadence.",
+    "price": "$$$$",
+    "about": "KBS is Founders' annual release of Breakfast Stout aged in bourbon barrels. First released in 2003, it has become one of America's most sought-after releases.",
+    "flavorProfile": {
+      "bitterness": 70,
+      "body": 95
+    },
+    "specifications": {
+      "abv": "12.0%",
+      "ibu": "70",
+      "style": "Bourbon Barrel-Aged Imperial Stout",
+      "brewery": "Founders Brewing Co."
+    },
+    "tastingNotes": "Bourbon, vanilla, oak, espresso, dark chocolate, brown sugar, endless complexity",
+    "pairings": ["Dark chocolate", "Vanilla desserts", "Blue cheese", "Tiramisu"],
+    "history": "KBS began as a happy accident when Founders put leftover Breakfast Stout in bourbon barrels. The annual release draws long lines nationwide.",
+    "servingRecommendation": "Serve at 50-55°F in a snifter. Excellent for cellaring up to 5+ years.",
+    "universalCoords": { "x": 95, "y": 30 }
+  },
+  {
+    "id": "beer-068",
+    "name": "Paulaner Hefe-Weissbier",
+    "category": "beer",
+    "subcategory": "Wheat",
+    "type": "German Hefeweizen",
+    "origin": "Munich, Germany",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "Munich's beloved wheat beer with classic banana and clove character from the monastery brewing tradition.",
+    "price": "$$",
+    "about": "Paulaner monks began brewing in 1634. Their hefeweizen is one of Munich's most popular wheat beers, exemplifying the Bavarian style.",
+    "flavorProfile": {
+      "bitterness": 15,
+      "body": 40
+    },
+    "specifications": {
+      "abv": "5.5%",
+      "ibu": "12",
+      "style": "German Hefeweizen",
+      "brewery": "Paulaner Brauerei"
+    },
+    "tastingNotes": "Banana, clove, wheat, vanilla, light citrus, effervescent finish",
+    "pairings": ["Weisswurst", "Pretzels", "Light salads", "Fruit desserts"],
+    "history": "Paulaner monks of the Neudeck cloister began brewing in 1634. The brewery has grown from humble monastery beginnings to worldwide distribution.",
+    "servingRecommendation": "Serve at 45-50°F in a traditional tall weizen glass. Swirl bottle to resuspend yeast.",
+    "universalCoords": { "x": 40, "y": 85 }
+  },
+  {
+    "id": "beer-069",
+    "name": "New Belgium Fat Tire",
+    "category": "beer",
+    "subcategory": "Amber",
+    "type": "Belgian-style Amber Ale",
+    "origin": "Fort Collins, Colorado, USA",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "America's first Belgian-inspired amber ale, named after a bicycle trip through Belgium that inspired the brewery.",
+    "price": "$$",
+    "about": "Jeff Lebesch founded New Belgium in 1991 after a bike trip through Belgium. Fat Tire remains their flagship and is America's first Belgian-amber.",
+    "flavorProfile": {
+      "bitterness": 25,
+      "body": 45
+    },
+    "specifications": {
+      "abv": "5.2%",
+      "ibu": "22",
+      "style": "Belgian-style Amber Ale",
+      "brewery": "New Belgium Brewing Company"
+    },
+    "tastingNotes": "Biscuit malt, toasted bread, subtle fruit, light hops, balanced finish",
+    "pairings": ["Burgers", "Roast chicken", "Gruyere cheese", "Grilled vegetables"],
+    "history": "Jeff Lebesch started brewing Fat Tire in his basement in 1991, inspired by Belgian beers he discovered while bicycle touring. New Belgium became a pioneer of sustainability.",
+    "servingRecommendation": "Serve at 45-50°F in a pint glass. A perfect everyday drinking beer.",
+    "universalCoords": { "x": 45, "y": 75 }
+  },
+  {
+    "id": "beer-070",
+    "name": "Rodenbach Vintage",
+    "category": "beer",
+    "subcategory": "Sour",
+    "type": "Flanders Red Ale",
+    "origin": "Roeselare, Belgium",
+    "image": "/images/beer/placeholder.jpg",
+    "description": "A limited annual release of pure two-year-aged Flanders red, unblended for maximum complexity and oak character.",
+    "price": "$$$$",
+    "about": "Unlike Grand Cru which blends young and old beer, Vintage is 100% two-year-aged beer from a single foeder, selected for exceptional quality.",
+    "flavorProfile": {
+      "bitterness": 15,
+      "body": 50
+    },
+    "specifications": {
+      "abv": "7.0%",
+      "ibu": "15",
+      "style": "Flanders Red Ale",
+      "brewery": "Brouwerij Rodenbach"
+    },
+    "tastingNotes": "Cherry, balsamic, oak, vanilla, leather, complex acidity, long tart finish",
+    "pairings": ["Duck confit", "Strong cheeses", "Dark chocolate", "Dried fruit"],
+    "history": "Rodenbach selects exceptional foeders each year for unblended release as Vintage. Each year's release reflects the character of a single massive oak barrel.",
+    "servingRecommendation": "Serve at 50-55°F in a wine glass or goblet. Can age for 10+ years.",
+    "universalCoords": { "x": 50, "y": 85 }
+  }
+]

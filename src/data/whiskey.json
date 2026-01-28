@@ -1,0 +1,1954 @@
+[
+  {
+    "name": "Ardbeg 10 Year Old",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Islay, Scotland",
+    "about": "One of the peatiest whiskies in the world, Ardbeg 10 delivers intense smoke balanced with surprising sweetness and complexity.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 92,
+      "sweetness": 45
+    },
+    "specifications": {
+      "abv": "46%",
+      "age": "10 Years",
+      "caskType": "Ex-Bourbon",
+      "region": "Islay"
+    },
+    "tastingNotes": "Intense peat smoke, tar, espresso, lemon zest, black pepper, hints of vanilla and toffee",
+    "pairings": [
+      "Dark chocolate",
+      "Blue cheese",
+      "Smoked salmon",
+      "Grilled lamb"
+    ],
+    "history": "Ardbeg distillery dates to 1815 and nearly closed in the 1980s before being revived by Glenmorangie.",
+    "servingRecommendation": "Neat or with a few drops of water to open up the sweetness. Serve at room temperature.",
+    "id": "whiskey-001",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "One of the peatiest whiskies in the world, Ardbeg 10 delivers intense smoke balanced with surprising sweetness and complexity.",
+    "universalCoords": { "x": 92, "y": 45 }
+  },
+  {
+    "name": "Laphroaig 10 Year Old",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Islay, Scotland",
+    "about": "Famous for its medicinal, iodine character, Laphroaig divides opinion but has a devoted following including the Prince of Wales.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 95,
+      "sweetness": 35
+    },
+    "specifications": {
+      "abv": "40%",
+      "age": "10 Years",
+      "caskType": "Ex-Bourbon",
+      "region": "Islay"
+    },
+    "tastingNotes": "Seaweed, iodine, medicinal peat, smoke, salt, hint of sweetness underneath",
+    "pairings": [
+      "Oysters",
+      "Smoked fish",
+      "Sharp cheddar",
+      "Dark chocolate"
+    ],
+    "history": "Founded in 1815, Laphroaig has held a Royal Warrant since 1994. The only Scotch whisky to carry this honor.",
+    "servingRecommendation": "Best neat. Water can help tame the intensity for newcomers.",
+    "id": "whiskey-002",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Famous for its medicinal, iodine character, Laphroaig divides opinion but has a devoted following including the Prince of Wales.",
+    "universalCoords": { "x": 95, "y": 35 }
+  },
+  {
+    "name": "Lagavulin 16 Year Old",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Islay, Scotland",
+    "about": "The quintessential Islay malt, Lagavulin 16 balances intense peat with rich sherry cask influence.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 88,
+      "sweetness": 55
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "16 Years",
+      "caskType": "Ex-Sherry & Ex-Bourbon",
+      "region": "Islay"
+    },
+    "tastingNotes": "Peat smoke, dried fruit, sea salt, wood smoke, sherry sweetness, long finish",
+    "pairings": [
+      "Haggis",
+      "Aged gouda",
+      "Grilled steak",
+      "Pecan pie"
+    ],
+    "history": "Established in 1816, Lagavulin sits next to the ruins of Dunyvaig Castle. It's been called 'the definitive Islay malt.'",
+    "servingRecommendation": "Neat at room temperature. A drop of water reveals hidden sweetness.",
+    "id": "whiskey-003",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "The quintessential Islay malt, Lagavulin 16 balances intense peat with rich sherry cask influence.",
+    "universalCoords": { "x": 88, "y": 55 }
+  },
+  {
+    "name": "Bruichladdich Port Charlotte 10",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Islay, Scotland",
+    "about": "Bruichladdich's heavily peated expression, named after the nearby village. Robust and maritime.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 85,
+      "sweetness": 42
+    },
+    "specifications": {
+      "abv": "50%",
+      "age": "10 Years",
+      "caskType": "Mixed",
+      "region": "Islay"
+    },
+    "tastingNotes": "Bonfire smoke, tar, vanilla, honey, black pepper, maritime salt",
+    "pairings": [
+      "Smoked meats",
+      "Aged cheddar",
+      "Dark chocolate",
+      "Grilled seafood"
+    ],
+    "history": "Port Charlotte represents Bruichladdich's heavily peated range, reviving the style of a lost Islay distillery.",
+    "servingRecommendation": "Neat or with a splash of water to tame the high ABV.",
+    "id": "whiskey-004",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Bruichladdich's heavily peated expression, named after the nearby village. Robust and maritime.",
+    "universalCoords": { "x": 85, "y": 42 }
+  },
+  {
+    "name": "Caol Ila 12 Year Old",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Islay, Scotland",
+    "about": "The most produced Islay malt, Caol Ila offers a lighter, more approachable peat profile with citrus notes.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 72,
+      "sweetness": 48
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "12 Years",
+      "caskType": "Ex-Bourbon",
+      "region": "Islay"
+    },
+    "tastingNotes": "Light peat, lemon oil, green apple, olive brine, gentle smoke, malty sweetness",
+    "pairings": [
+      "Grilled fish",
+      "Lemon tart",
+      "Mild cheese",
+      "Sushi"
+    ],
+    "history": "Built in 1846, Caol Ila (Gaelic for 'Sound of Islay') overlooks the strait between Islay and Jura.",
+    "servingRecommendation": "Excellent neat or in a highball with soda water.",
+    "id": "whiskey-005",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "The most produced Islay malt, Caol Ila offers a lighter, more approachable peat profile with citrus notes.",
+    "universalCoords": { "x": 72, "y": 48 }
+  },
+  {
+    "name": "Bowmore 15 Year Old",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Islay, Scotland",
+    "about": "One of the oldest distilleries in Scotland, Bowmore offers a balanced, medium-peated style with sherry influence.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 65,
+      "sweetness": 58
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "15 Years",
+      "caskType": "Ex-Sherry",
+      "region": "Islay"
+    },
+    "tastingNotes": "Heather honey, dark chocolate, peat smoke, dried fruit, sea salt, oak spice",
+    "pairings": [
+      "Chocolate desserts",
+      "Smoked duck",
+      "Aged manchego",
+      "Honey cake"
+    ],
+    "history": "Founded in 1779, Bowmore is the oldest licensed distillery on Islay and maintains its own floor maltings.",
+    "servingRecommendation": "Neat or with a few drops of water.",
+    "id": "whiskey-006",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "One of the oldest distilleries in Scotland, Bowmore offers a balanced, medium-peated style with sherry influence.",
+    "universalCoords": { "x": 65, "y": 58 }
+  },
+  {
+    "name": "The Macallan 18 Year Old Sherry Oak",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Speyside, Scotland",
+    "about": "The benchmark for sherry-matured Scotch, Macallan 18 is rich, complex, and highly sought after.",
+    "price": "$$$$",
+    "flavorProfile": {
+      "smoke": 8,
+      "sweetness": 82
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "18 Years",
+      "caskType": "100% Sherry Oak",
+      "region": "Speyside"
+    },
+    "tastingNotes": "Dried fruit, orange peel, ginger, wood spice, chocolate, oak, long sherry finish",
+    "pairings": [
+      "Christmas cake",
+      "Dark chocolate truffles",
+      "Aged gouda",
+      "Crème brûlée"
+    ],
+    "history": "The Macallan has been distilling since 1824 and is known for its exceptional sherry cask program sourced from Spain.",
+    "servingRecommendation": "Neat at room temperature to fully appreciate the sherry influence.",
+    "id": "whiskey-007",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "The benchmark for sherry-matured Scotch, Macallan 18 is rich, complex, and highly sought after.",
+    "universalCoords": { "x": 8, "y": 82 }
+  },
+  {
+    "name": "The Macallan 12 Year Old Double Cask",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Speyside, Scotland",
+    "about": "A marriage of American and European sherry-seasoned oak casks, creating a balanced, honeyed whisky.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 5,
+      "sweetness": 75
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "12 Years",
+      "caskType": "Sherry Seasoned American & European Oak",
+      "region": "Speyside"
+    },
+    "tastingNotes": "Honey, citrus, vanilla, dried fruit, subtle oak spice, creamy texture",
+    "pairings": [
+      "Apple pie",
+      "Vanilla ice cream",
+      "Brie",
+      "Shortbread"
+    ],
+    "history": "Double Cask was introduced in 2016 and has become one of Macallan's most popular expressions.",
+    "servingRecommendation": "Neat or on the rocks. Versatile enough for cocktails.",
+    "id": "whiskey-008",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "A marriage of American and European sherry-seasoned oak casks, creating a balanced, honeyed whisky.",
+    "universalCoords": { "x": 5, "y": 75 }
+  },
+  {
+    "name": "Glenfiddich 18 Year Old",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Speyside, Scotland",
+    "about": "Matured in Oloroso sherry and bourbon casks, Glenfiddich 18 is fruity, rich, and elegant.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 6,
+      "sweetness": 72
+    },
+    "specifications": {
+      "abv": "40%",
+      "age": "18 Years",
+      "caskType": "Oloroso Sherry & Bourbon",
+      "region": "Speyside"
+    },
+    "tastingNotes": "Baked apple, oak, dried fruit, robust oak, hints of toasted almonds",
+    "pairings": [
+      "Roasted nuts",
+      "Toffee pudding",
+      "Apple crumble",
+      "Mild blue cheese"
+    ],
+    "history": "Glenfiddich was founded in 1887 and pioneered single malt marketing, becoming the world's best-selling single malt.",
+    "servingRecommendation": "Best enjoyed neat to appreciate the balance of fruit and oak.",
+    "id": "whiskey-009",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Matured in Oloroso sherry and bourbon casks, Glenfiddich 18 is fruity, rich, and elegant.",
+    "universalCoords": { "x": 6, "y": 72 }
+  },
+  {
+    "name": "Glenfiddich 21 Year Old Reserva Rum Cask Finish",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Speyside, Scotland",
+    "about": "Finished in Caribbean rum casks, this unique expression adds tropical sweetness to classic Speyside character.",
+    "price": "$$$$",
+    "flavorProfile": {
+      "smoke": 4,
+      "sweetness": 85
+    },
+    "specifications": {
+      "abv": "40%",
+      "age": "21 Years",
+      "caskType": "Rum Cask Finish",
+      "region": "Speyside"
+    },
+    "tastingNotes": "Banana, toffee, lime zest, ginger, vanilla, brown sugar, fig",
+    "pairings": [
+      "Bananas foster",
+      "Rum cake",
+      "Tropical fruit",
+      "Caramel desserts"
+    ],
+    "history": "First released in 2002, the Gran Reserva pioneered rum cask finishing in Scotch whisky.",
+    "servingRecommendation": "Neat, or in tropical-inspired cocktails.",
+    "id": "whiskey-010",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Finished in Caribbean rum casks, this unique expression adds tropical sweetness to classic Speyside character.",
+    "universalCoords": { "x": 4, "y": 85 }
+  },
+  {
+    "name": "The Glenlivet 18 Year Old",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Speyside, Scotland",
+    "about": "A classic Speyside expression with elegant fruit and floral notes, matured in first and second fill American oak.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 5,
+      "sweetness": 68
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "18 Years",
+      "caskType": "First & Second Fill American Oak",
+      "region": "Speyside"
+    },
+    "tastingNotes": "Orange blossom, toffee apple, spice, dried fruit, elegant oak",
+    "pairings": [
+      "Orange desserts",
+      "Almond biscotti",
+      "Gruyère",
+      "Poached pears"
+    ],
+    "history": "The Glenlivet was the first licensed distillery in the Speyside region (1824) and set the standard for the region's style.",
+    "servingRecommendation": "Neat or with a small splash of water.",
+    "id": "whiskey-011",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "A classic Speyside expression with elegant fruit and floral notes, matured in first and second fill American oak.",
+    "universalCoords": { "x": 5, "y": 68 }
+  },
+  {
+    "name": "Balvenie 14 Year Old Caribbean Cask",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Speyside, Scotland",
+    "about": "Finished in rum casks from the Caribbean, creating a uniquely sweet and tropical Speyside malt.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 3,
+      "sweetness": 80
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "14 Years",
+      "caskType": "Rum Cask Finish",
+      "region": "Speyside"
+    },
+    "tastingNotes": "Toffee, vanilla, tropical fruit, butterscotch, sweet oak, golden syrup",
+    "pairings": [
+      "Crème brûlée",
+      "Banana bread",
+      "Coconut desserts",
+      "White chocolate"
+    ],
+    "history": "Balvenie is unique for maintaining traditional floor maltings and its own cooperage.",
+    "servingRecommendation": "Neat. The sweetness makes it an excellent dessert whisky.",
+    "id": "whiskey-012",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Finished in rum casks from the Caribbean, creating a uniquely sweet and tropical Speyside malt.",
+    "universalCoords": { "x": 3, "y": 80 }
+  },
+  {
+    "name": "Balvenie 12 Year Old DoubleWood",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Speyside, Scotland",
+    "about": "Matured in bourbon and finished in sherry casks, DoubleWood is honeyed, smooth, and approachable.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 4,
+      "sweetness": 70
+    },
+    "specifications": {
+      "abv": "40%",
+      "age": "12 Years",
+      "caskType": "Bourbon & Sherry",
+      "region": "Speyside"
+    },
+    "tastingNotes": "Honey, vanilla, cinnamon, nutmeg, sherry sweetness, dried fruit",
+    "pairings": [
+      "Honey cake",
+      "Baked apples",
+      "Mild cheese",
+      "Shortbread"
+    ],
+    "history": "DoubleWood, launched in 1993, pioneered the 'wood finishing' technique now common in Scotch.",
+    "servingRecommendation": "Neat or with a drop of water.",
+    "id": "whiskey-013",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Matured in bourbon and finished in sherry casks, DoubleWood is honeyed, smooth, and approachable.",
+    "universalCoords": { "x": 4, "y": 70 }
+  },
+  {
+    "name": "Aberlour A'Bunadh",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Speyside, Scotland",
+    "about": "Cask strength, sherry-bomb whisky matured exclusively in Oloroso sherry butts. Intense and rich.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 8,
+      "sweetness": 78
+    },
+    "specifications": {
+      "abv": "59-62% (varies by batch)",
+      "age": "NAS",
+      "caskType": "Oloroso Sherry Butts",
+      "region": "Speyside"
+    },
+    "tastingNotes": "Dark chocolate, Christmas cake, orange peel, spice, dried fruit, powerful sherry",
+    "pairings": [
+      "Dark chocolate",
+      "Christmas pudding",
+      "Blue cheese",
+      "Dried fruits"
+    ],
+    "history": "A'Bunadh (Gaelic for 'original') was launched in 1998 as an homage to the distillery's 19th-century style.",
+    "servingRecommendation": "Neat or with water to tame the cask strength. Opens up beautifully.",
+    "id": "whiskey-014",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Cask strength, sherry-bomb whisky matured exclusively in Oloroso sherry butts. Intense and rich.",
+    "universalCoords": { "x": 8, "y": 78 }
+  },
+  {
+    "name": "GlenDronach 18 Year Old Allardice",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Highland, Scotland",
+    "about": "Named after the distillery's founder, this is a masterclass in Oloroso sherry cask maturation.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 6,
+      "sweetness": 76
+    },
+    "specifications": {
+      "abv": "46%",
+      "age": "18 Years",
+      "caskType": "Oloroso Sherry",
+      "region": "Highland"
+    },
+    "tastingNotes": "Dried fruit, dark chocolate, leather, oak spice, sherry, walnut",
+    "pairings": [
+      "Chocolate torte",
+      "Aged manchego",
+      "Dried figs",
+      "Pecan pie"
+    ],
+    "history": "GlenDronach was founded in 1826 and is renowned for its traditional sherry cask maturation program.",
+    "servingRecommendation": "Neat at room temperature.",
+    "id": "whiskey-015",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Named after the distillery's founder, this is a masterclass in Oloroso sherry cask maturation.",
+    "universalCoords": { "x": 6, "y": 76 }
+  },
+  {
+    "name": "Oban 14 Year Old",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Highland, Scotland",
+    "about": "A West Highland malt bridging the styles of Highlands and Islands, with maritime and fruity character.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 35,
+      "sweetness": 55
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "14 Years",
+      "caskType": "Ex-Bourbon",
+      "region": "Highland"
+    },
+    "tastingNotes": "Sea salt, honey, orange peel, light smoke, dried fruit, oak",
+    "pairings": [
+      "Seafood",
+      "Honey-glazed ham",
+      "Orange desserts",
+      "Mild cheese"
+    ],
+    "history": "One of the oldest distilleries in Scotland (1794), Oban's cramped town-center location limits production.",
+    "servingRecommendation": "Neat or with a splash of water.",
+    "id": "whiskey-016",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "A West Highland malt bridging the styles of Highlands and Islands, with maritime and fruity character.",
+    "universalCoords": { "x": 35, "y": 55 }
+  },
+  {
+    "name": "Dalmore 18 Year Old",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Highland, Scotland",
+    "about": "Rich and opulent, Dalmore 18 showcases exceptional sherry cask influence and chocolate notes.",
+    "price": "$$$$",
+    "flavorProfile": {
+      "smoke": 10,
+      "sweetness": 78
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "18 Years",
+      "caskType": "Matusalem & Apostoles Sherry",
+      "region": "Highland"
+    },
+    "tastingNotes": "Dark chocolate, orange marmalade, coffee, dried fruit, spice, vanilla",
+    "pairings": [
+      "Chocolate desserts",
+      "Coffee cake",
+      "Orange zest dishes",
+      "Rich cheese"
+    ],
+    "history": "Founded in 1839, Dalmore is known for its stag emblem and exceptional sherry cask program.",
+    "servingRecommendation": "Neat to appreciate the complex sherry influence.",
+    "id": "whiskey-017",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Rich and opulent, Dalmore 18 showcases exceptional sherry cask influence and chocolate notes.",
+    "universalCoords": { "x": 10, "y": 78 }
+  },
+  {
+    "name": "Glenmorangie 18 Year Old",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Highland, Scotland",
+    "about": "Elegant and refined, matured in the tallest stills in Scotland producing a delicate, floral spirit.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 5,
+      "sweetness": 65
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "18 Years",
+      "caskType": "Ex-Bourbon & Oloroso Sherry",
+      "region": "Highland"
+    },
+    "tastingNotes": "Dried flowers, raisins, honey, oak, hints of dark chocolate, elegant finish",
+    "pairings": [
+      "Honey desserts",
+      "Dried fruit",
+      "Mild cheese",
+      "Almond pastries"
+    ],
+    "history": "Glenmorangie has used the same tall stills since 1843, creating an exceptionally pure spirit.",
+    "servingRecommendation": "Neat, slightly below room temperature.",
+    "id": "whiskey-018",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Elegant and refined, matured in the tallest stills in Scotland producing a delicate, floral spirit.",
+    "universalCoords": { "x": 5, "y": 65 }
+  },
+  {
+    "name": "Highland Park 18 Year Old Viking Pride",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Orkney, Scotland",
+    "about": "From Orkney's windswept islands, Highland Park balances heathery peat with sherry sweetness.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 45,
+      "sweetness": 62
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "18 Years",
+      "caskType": "Sherry Seasoned",
+      "region": "Islands"
+    },
+    "tastingNotes": "Heather honey, aromatic smoke, dried fruit, dark chocolate, spice, maritime",
+    "pairings": [
+      "Honey-roasted meats",
+      "Smoked salmon",
+      "Dark chocolate",
+      "Blue cheese"
+    ],
+    "history": "Founded in 1798, Highland Park maintains traditional floor maltings using Orkney peat.",
+    "servingRecommendation": "Neat at room temperature.",
+    "id": "whiskey-019",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "From Orkney's windswept islands, Highland Park balances heathery peat with sherry sweetness.",
+    "universalCoords": { "x": 45, "y": 62 }
+  },
+  {
+    "name": "Clynelish 14 Year Old",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Highland, Scotland",
+    "about": "A cult favorite among whisky enthusiasts, known for its distinctive waxy, coastal character.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 22,
+      "sweetness": 52
+    },
+    "specifications": {
+      "abv": "46%",
+      "age": "14 Years",
+      "caskType": "Ex-Bourbon",
+      "region": "Highland"
+    },
+    "tastingNotes": "Candle wax, tropical fruit, sea spray, honey, subtle smoke, citrus",
+    "pairings": [
+      "Grilled fish",
+      "Citrus desserts",
+      "Mild cheese",
+      "Fruit tarts"
+    ],
+    "history": "Built in 1967 adjacent to the original Brora distillery, Clynelish is prized by whisky connoisseurs.",
+    "servingRecommendation": "Neat to appreciate the waxy texture.",
+    "id": "whiskey-020",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "A cult favorite among whisky enthusiasts, known for its distinctive waxy, coastal character.",
+    "universalCoords": { "x": 22, "y": 52 }
+  },
+  {
+    "name": "Auchentoshan Three Wood",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Lowland, Scotland",
+    "about": "Triple distilled Lowland malt matured in bourbon, Oloroso, and Pedro Ximénez sherry casks.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 2,
+      "sweetness": 75
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "NAS",
+      "caskType": "Bourbon, Oloroso & PX Sherry",
+      "region": "Lowland"
+    },
+    "tastingNotes": "Toffee, butterscotch, dark fruit, hazelnut, orange, sherry sweetness",
+    "pairings": [
+      "Toffee desserts",
+      "Dark chocolate",
+      "Dried fruit",
+      "Hazelnut pastries"
+    ],
+    "history": "The only Scottish distillery to triple distill all its whisky, creating a lighter, smoother style.",
+    "servingRecommendation": "Neat or on the rocks.",
+    "id": "whiskey-021",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Triple distilled Lowland malt matured in bourbon, Oloroso, and Pedro Ximénez sherry casks.",
+    "universalCoords": { "x": 2, "y": 75 }
+  },
+  {
+    "name": "Springbank 15 Year Old",
+    "type": "Single Malt Scotch",
+    "subcategory": "Scotch",
+    "origin": "Campbeltown, Scotland",
+    "about": "From the last family-owned distillery in Campbeltown, Springbank 15 is complex and maritime.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 42,
+      "sweetness": 58
+    },
+    "specifications": {
+      "abv": "46%",
+      "age": "15 Years",
+      "caskType": "Bourbon & Sherry",
+      "region": "Campbeltown"
+    },
+    "tastingNotes": "Sea salt, vanilla, peat smoke, sherry fruit, leather, oak spice",
+    "pairings": [
+      "Seafood",
+      "Aged cheese",
+      "Smoked meats",
+      "Dried fruit"
+    ],
+    "history": "Springbank has been family-owned since 1828, maintaining complete in-house production from barley to bottle.",
+    "servingRecommendation": "Neat at room temperature.",
+    "id": "whiskey-022",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "From the last family-owned distillery in Campbeltown, Springbank 15 is complex and maritime.",
+    "universalCoords": { "x": 42, "y": 58 }
+  },
+  {
+    "name": "Pappy Van Winkle's Family Reserve 15 Year",
+    "type": "Bourbon",
+    "subcategory": "Bourbon",
+    "origin": "Kentucky, USA",
+    "about": "The most sought-after bourbon in the world, Pappy 15 offers exceptional depth and smoothness.",
+    "price": "$$$$$",
+    "flavorProfile": {
+      "smoke": 12,
+      "sweetness": 85
+    },
+    "specifications": {
+      "abv": "53.5%",
+      "age": "15 Years",
+      "caskType": "New Charred American Oak",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Caramel, vanilla, oak, cherry, leather, tobacco, long smooth finish",
+    "pairings": [
+      "Pecan pie",
+      "Dark chocolate",
+      "Aged steak",
+      "Caramel desserts"
+    ],
+    "history": "Julian 'Pappy' Van Winkle Sr. started his bourbon career in 1893. The modern legend was born in the 1990s.",
+    "servingRecommendation": "Neat at room temperature. Adding anything would be sacrilege to most fans.",
+    "id": "whiskey-023",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "The most sought-after bourbon in the world, Pappy 15 offers exceptional depth and smoothness.",
+    "universalCoords": { "x": 12, "y": 85 }
+  },
+  {
+    "name": "Pappy Van Winkle's Family Reserve 20 Year",
+    "type": "Bourbon",
+    "subcategory": "Bourbon",
+    "origin": "Kentucky, USA",
+    "about": "Even rarer than the 15-year, this bourbon pushes the boundaries of oak aging without becoming over-oaked.",
+    "price": "$$$$$",
+    "flavorProfile": {
+      "smoke": 15,
+      "sweetness": 82
+    },
+    "specifications": {
+      "abv": "45.2%",
+      "age": "20 Years",
+      "caskType": "New Charred American Oak",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Deep caramel, leather, tobacco, dark fruit, vanilla, complex oak",
+    "pairings": [
+      "Fine cigars",
+      "Rich chocolate desserts",
+      "Prime aged beef",
+      "Crème brûlée"
+    ],
+    "history": "20 years in Kentucky's climate is extraordinary for bourbon, resulting in exceptional complexity.",
+    "servingRecommendation": "Neat only.",
+    "id": "whiskey-024",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Even rarer than the 15-year, this bourbon pushes the boundaries of oak aging without becoming over-oaked.",
+    "universalCoords": { "x": 15, "y": 82 }
+  },
+  {
+    "name": "Buffalo Trace",
+    "type": "Bourbon",
+    "subcategory": "Bourbon",
+    "origin": "Kentucky, USA",
+    "about": "The flagship bourbon from the distillery that makes Pappy, an exceptional value at its price point.",
+    "price": "$",
+    "flavorProfile": {
+      "smoke": 8,
+      "sweetness": 72
+    },
+    "specifications": {
+      "abv": "45%",
+      "age": "NAS (estimated 8-9 years)",
+      "caskType": "New Charred American Oak",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Caramel, vanilla, brown sugar, mint, oak, hint of dark fruit",
+    "pairings": [
+      "BBQ",
+      "Apple pie",
+      "Vanilla ice cream",
+      "Sharp cheddar"
+    ],
+    "history": "Buffalo Trace distillery has been making whiskey on the same site since 1775, surviving prohibition as a 'medicinal' producer.",
+    "servingRecommendation": "Neat, on the rocks, or in classic cocktails like an Old Fashioned.",
+    "id": "whiskey-025",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "The flagship bourbon from the distillery that makes Pappy, an exceptional value at its price point.",
+    "universalCoords": { "x": 8, "y": 72 }
+  },
+  {
+    "name": "Blanton's Original Single Barrel",
+    "type": "Bourbon",
+    "subcategory": "Bourbon",
+    "origin": "Kentucky, USA",
+    "about": "The first commercially marketed single barrel bourbon, each bottle comes from one exceptional cask.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 10,
+      "sweetness": 68
+    },
+    "specifications": {
+      "abv": "46.5%",
+      "age": "NAS (estimated 6-8 years)",
+      "caskType": "New Charred American Oak",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Citrus, honey, vanilla, caramel, hint of spice, smooth finish",
+    "pairings": [
+      "Grilled chicken",
+      "Honey desserts",
+      "Mild cheese",
+      "Citrus salads"
+    ],
+    "history": "Named after Colonel Albert B. Blanton, who introduced single barrel selection at Buffalo Trace in the 1980s.",
+    "servingRecommendation": "Neat or with a single large ice cube.",
+    "id": "whiskey-026",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "The first commercially marketed single barrel bourbon, each bottle comes from one exceptional cask.",
+    "universalCoords": { "x": 10, "y": 68 }
+  },
+  {
+    "name": "Woodford Reserve",
+    "type": "Bourbon",
+    "subcategory": "Bourbon",
+    "origin": "Kentucky, USA",
+    "about": "Craft bourbon from one of Kentucky's most beautiful distilleries, known for its rich, balanced profile.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 6,
+      "sweetness": 65
+    },
+    "specifications": {
+      "abv": "45.2%",
+      "age": "NAS (6-7 years)",
+      "caskType": "New Charred American Oak",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Dried fruit, vanilla, tobacco, chocolate, orange peel, spice",
+    "pairings": [
+      "Dark chocolate",
+      "Orange desserts",
+      "Aged cheese",
+      "Bourbon balls"
+    ],
+    "history": "The Woodford Reserve Distillery has been making whiskey since 1812 on the site of Elijah Pepper's distillery.",
+    "servingRecommendation": "Neat, or makes an excellent Old Fashioned or Manhattan.",
+    "id": "whiskey-027",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Craft bourbon from one of Kentucky's most beautiful distilleries, known for its rich, balanced profile.",
+    "universalCoords": { "x": 6, "y": 65 }
+  },
+  {
+    "name": "Maker's Mark",
+    "type": "Bourbon",
+    "subcategory": "Bourbon",
+    "origin": "Kentucky, USA",
+    "about": "A wheated bourbon known for its soft, approachable character and iconic hand-dipped red wax seal.",
+    "price": "$",
+    "flavorProfile": {
+      "smoke": 4,
+      "sweetness": 70
+    },
+    "specifications": {
+      "abv": "45%",
+      "age": "NAS (5-7 years)",
+      "caskType": "New Charred American Oak",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Caramel, vanilla, wheat bread, honey, orange, gentle spice",
+    "pairings": [
+      "Bread pudding",
+      "Vanilla desserts",
+      "Mild BBQ",
+      "Peaches"
+    ],
+    "history": "Bill Samuels Sr. created Maker's Mark in 1953 using soft red winter wheat instead of rye for a gentler flavor.",
+    "servingRecommendation": "Very versatile - neat, rocks, or cocktails. Great for Mint Juleps.",
+    "id": "whiskey-028",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "A wheated bourbon known for its soft, approachable character and iconic hand-dipped red wax seal.",
+    "universalCoords": { "x": 4, "y": 70 }
+  },
+  {
+    "name": "Maker's Mark Cask Strength",
+    "type": "Bourbon",
+    "subcategory": "Bourbon",
+    "origin": "Kentucky, USA",
+    "about": "Full-proof version of the classic wheated bourbon, intense but retaining the signature smoothness.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 6,
+      "sweetness": 75
+    },
+    "specifications": {
+      "abv": "54-56% (varies by batch)",
+      "age": "NAS",
+      "caskType": "New Charred American Oak",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Intense caramel, baking spices, vanilla, oak char, brown sugar, long warm finish",
+    "pairings": [
+      "Pecan pie",
+      "Caramel apple",
+      "Smoked meats",
+      "Rich desserts"
+    ],
+    "history": "Released in 2014, Cask Strength brings the barrel-proof experience while maintaining Maker's soft wheated character.",
+    "servingRecommendation": "Neat or with a few drops of water to open it up.",
+    "id": "whiskey-029",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Full-proof version of the classic wheated bourbon, intense but retaining the signature smoothness.",
+    "universalCoords": { "x": 6, "y": 75 }
+  },
+  {
+    "name": "Wild Turkey 101",
+    "type": "Bourbon",
+    "subcategory": "Bourbon",
+    "origin": "Kentucky, USA",
+    "about": "A bold, spicy bourbon that has remained unchanged for decades. The bartender's choice.",
+    "price": "$",
+    "flavorProfile": {
+      "smoke": 15,
+      "sweetness": 55
+    },
+    "specifications": {
+      "abv": "50.5%",
+      "age": "NAS (6-8 years)",
+      "caskType": "New Charred American Oak (#4 Char)",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Vanilla, caramel, rye spice, tobacco, charred oak, bold and spicy",
+    "pairings": [
+      "BBQ ribs",
+      "Spicy food",
+      "Strong cheese",
+      "Pecan pie"
+    ],
+    "history": "Master Distiller Jimmy Russell has been crafting Wild Turkey since 1954, maintaining its bold character.",
+    "servingRecommendation": "Great neat, on rocks, or in cocktails. Perfect for an Old Fashioned.",
+    "id": "whiskey-030",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "A bold, spicy bourbon that has remained unchanged for decades. The bartender's choice.",
+    "universalCoords": { "x": 15, "y": 55 }
+  },
+  {
+    "name": "Wild Turkey Rare Breed",
+    "type": "Bourbon",
+    "subcategory": "Bourbon",
+    "origin": "Kentucky, USA",
+    "about": "Barrel-proof small batch bourbon blending 6, 8, and 12-year old stocks for maximum complexity.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 18,
+      "sweetness": 62
+    },
+    "specifications": {
+      "abv": "56.4%",
+      "age": "Blend of 6-12 Years",
+      "caskType": "New Charred American Oak (#4 Char)",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Intense vanilla, dark caramel, tobacco, leather, baking spices, powerful oak",
+    "pairings": [
+      "Smoked brisket",
+      "Dark chocolate",
+      "Sharp cheddar",
+      "Pecan desserts"
+    ],
+    "history": "Rare Breed was introduced in 1991 as a barrel-proof expression showcasing the depth of Wild Turkey's warehouses.",
+    "servingRecommendation": "Neat with optional water. Too good to mix.",
+    "id": "whiskey-031",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Barrel-proof small batch bourbon blending 6, 8, and 12-year old stocks for maximum complexity.",
+    "universalCoords": { "x": 18, "y": 62 }
+  },
+  {
+    "name": "Four Roses Single Barrel",
+    "type": "Bourbon",
+    "subcategory": "Bourbon",
+    "origin": "Kentucky, USA",
+    "about": "Each bottle represents one of Four Roses' ten distinct bourbon recipes, selected for excellence.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 8,
+      "sweetness": 60
+    },
+    "specifications": {
+      "abv": "50%",
+      "age": "NAS (7-8 years average)",
+      "caskType": "New Charred American Oak",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Ripe plum, cherry, spice, vanilla, oak, maple syrup",
+    "pairings": [
+      "Stone fruit desserts",
+      "Maple-glazed ham",
+      "Cherry pie",
+      "Mild cheese"
+    ],
+    "history": "Four Roses uses two mashbills and five yeast strains to create ten distinct recipes, each numbered and tracked.",
+    "servingRecommendation": "Neat to appreciate the unique single barrel character.",
+    "id": "whiskey-032",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Each bottle represents one of Four Roses' ten distinct bourbon recipes, selected for excellence.",
+    "universalCoords": { "x": 8, "y": 60 }
+  },
+  {
+    "name": "Elijah Craig Small Batch",
+    "type": "Bourbon",
+    "subcategory": "Bourbon",
+    "origin": "Kentucky, USA",
+    "about": "Named after the Baptist minister credited with charring the first bourbon barrels, rich and oaky.",
+    "price": "$",
+    "flavorProfile": {
+      "smoke": 14,
+      "sweetness": 62
+    },
+    "specifications": {
+      "abv": "47%",
+      "age": "NAS (8-12 years)",
+      "caskType": "New Charred American Oak",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Vanilla, caramel, charred oak, spice, dark fruit, smoke",
+    "pairings": [
+      "Smoked meats",
+      "Vanilla desserts",
+      "Strong cheese",
+      "Chocolate"
+    ],
+    "history": "Heaven Hill created Elijah Craig in 1986, naming it after the legendary Kentucky distiller and minister.",
+    "servingRecommendation": "Neat, rocks, or in an Old Fashioned.",
+    "id": "whiskey-033",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Named after the Baptist minister credited with charring the first bourbon barrels, rich and oaky.",
+    "universalCoords": { "x": 14, "y": 62 }
+  },
+  {
+    "name": "Elijah Craig Barrel Proof",
+    "type": "Bourbon",
+    "subcategory": "Bourbon",
+    "origin": "Kentucky, USA",
+    "about": "Uncut and unfiltered, one of the best values in barrel-proof bourbon with exceptional complexity.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 18,
+      "sweetness": 70
+    },
+    "specifications": {
+      "abv": "60-68% (varies by batch)",
+      "age": "12 Years",
+      "caskType": "New Charred American Oak",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Intense caramel, dark chocolate, leather, char, vanilla, powerful oak",
+    "pairings": [
+      "Rich chocolate desserts",
+      "Smoked brisket",
+      "Strong cheese",
+      "Cigars"
+    ],
+    "history": "Barrel Proof was introduced in 2012 and has won numerous awards for its exceptional quality-to-price ratio.",
+    "servingRecommendation": "Neat or with a splash of water. Each batch is slightly different.",
+    "id": "whiskey-034",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Uncut and unfiltered, one of the best values in barrel-proof bourbon with exceptional complexity.",
+    "universalCoords": { "x": 18, "y": 70 }
+  },
+  {
+    "name": "Angel's Envy",
+    "type": "Bourbon",
+    "subcategory": "Bourbon",
+    "origin": "Kentucky, USA",
+    "about": "Finished in port wine casks, creating a uniquely fruity and smooth bourbon experience.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 5,
+      "sweetness": 78
+    },
+    "specifications": {
+      "abv": "43.3%",
+      "age": "4-6 Years + Port Finish",
+      "caskType": "New American Oak + Port Cask Finish",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Dark fruit, vanilla, maple, cherry, port wine sweetness, gentle oak",
+    "pairings": [
+      "Berry desserts",
+      "Dark chocolate",
+      "Cheese plates",
+      "Stone fruits"
+    ],
+    "history": "Created by Lincoln Henderson (former Woodford Reserve Master Distiller) and his son in 2010.",
+    "servingRecommendation": "Neat to appreciate the port influence.",
+    "id": "whiskey-035",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Finished in port wine casks, creating a uniquely fruity and smooth bourbon experience.",
+    "universalCoords": { "x": 5, "y": 78 }
+  },
+  {
+    "name": "Booker's Bourbon",
+    "type": "Bourbon",
+    "subcategory": "Bourbon",
+    "origin": "Kentucky, USA",
+    "about": "Uncut and unfiltered small batch bourbon created by legendary Beam distiller Booker Noe.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 20,
+      "sweetness": 68
+    },
+    "specifications": {
+      "abv": "62-64% (varies by batch)",
+      "age": "6-8 Years",
+      "caskType": "New Charred American Oak",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Vanilla, peanut, oak, caramel, tobacco, intense and powerful",
+    "pairings": [
+      "Peanut brittle",
+      "Smoked meats",
+      "Strong cheese",
+      "Dark chocolate"
+    ],
+    "history": "Booker Noe created this bourbon to share with friends, bottled straight from the barrel without dilution.",
+    "servingRecommendation": "Neat or with water. Named batches released quarterly.",
+    "id": "whiskey-036",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Uncut and unfiltered small batch bourbon created by legendary Beam distiller Booker Noe.",
+    "universalCoords": { "x": 20, "y": 68 }
+  },
+  {
+    "name": "Knob Creek 9 Year",
+    "type": "Bourbon",
+    "subcategory": "Bourbon",
+    "origin": "Kentucky, USA",
+    "about": "Pre-Prohibition style bourbon aged longer than typical for a full-flavored, robust experience.",
+    "price": "$",
+    "flavorProfile": {
+      "smoke": 12,
+      "sweetness": 58
+    },
+    "specifications": {
+      "abv": "50%",
+      "age": "9 Years",
+      "caskType": "New Charred American Oak",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Maple, toasted nuts, vanilla, oak, caramel, rich and chewy",
+    "pairings": [
+      "Maple desserts",
+      "Roasted nuts",
+      "BBQ",
+      "Strong cheese"
+    ],
+    "history": "Part of Jim Beam's Small Batch Collection, Knob Creek revives the rich, full-bodied pre-Prohibition style.",
+    "servingRecommendation": "Neat or on the rocks. Robust enough for cocktails.",
+    "id": "whiskey-037",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Pre-Prohibition style bourbon aged longer than typical for a full-flavored, robust experience.",
+    "universalCoords": { "x": 12, "y": 58 }
+  },
+  {
+    "name": "WhistlePig 10 Year",
+    "type": "Rye Whiskey",
+    "subcategory": "Rye",
+    "origin": "Vermont, USA",
+    "about": "100% rye whiskey aged in new American oak, leading the American rye renaissance.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 15,
+      "sweetness": 45
+    },
+    "specifications": {
+      "abv": "50%",
+      "age": "10 Years",
+      "caskType": "New American Oak",
+      "region": "Vermont"
+    },
+    "tastingNotes": "Allspice, clove, mint, caramel, vanilla, rye bread, bold spice",
+    "pairings": [
+      "Pastrami",
+      "Rye bread",
+      "Strong cheese",
+      "Spiced desserts"
+    ],
+    "history": "Founded in 2010 on a Vermont farm, WhistlePig helped revive American rye whiskey's prestige.",
+    "servingRecommendation": "Neat or in a classic Manhattan.",
+    "id": "whiskey-038",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "100% rye whiskey aged in new American oak, leading the American rye renaissance.",
+    "universalCoords": { "x": 15, "y": 45 }
+  },
+  {
+    "name": "WhistlePig 15 Year Estate Oak",
+    "type": "Rye Whiskey",
+    "subcategory": "Rye",
+    "origin": "Vermont, USA",
+    "about": "Finished in Vermont estate oak barrels made from trees on the distillery farm.",
+    "price": "$$$$",
+    "flavorProfile": {
+      "smoke": 12,
+      "sweetness": 52
+    },
+    "specifications": {
+      "abv": "46%",
+      "age": "15 Years",
+      "caskType": "Vermont Estate Oak Finish",
+      "region": "Vermont"
+    },
+    "tastingNotes": "Caramel, maple, baking spices, orange peel, honey, elegant oak",
+    "pairings": [
+      "Maple desserts",
+      "Foie gras",
+      "Orange-glazed duck",
+      "Fine chocolate"
+    ],
+    "history": "The Estate Oak is made from Vermont White Oak harvested from the WhistlePig farm in Shoreham.",
+    "servingRecommendation": "Neat to appreciate the unique Vermont oak character.",
+    "id": "whiskey-039",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Finished in Vermont estate oak barrels made from trees on the distillery farm.",
+    "universalCoords": { "x": 12, "y": 52 }
+  },
+  {
+    "name": "Sazerac Rye",
+    "type": "Rye Whiskey",
+    "subcategory": "Rye",
+    "origin": "Kentucky, USA",
+    "about": "The official whiskey of the Sazerac cocktail, spicy and complex with excellent value.",
+    "price": "$",
+    "flavorProfile": {
+      "smoke": 8,
+      "sweetness": 48
+    },
+    "specifications": {
+      "abv": "45%",
+      "age": "6 Years",
+      "caskType": "New Charred American Oak",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Clove, vanilla, pepper, anise, rye spice, caramel, crisp finish",
+    "pairings": [
+      "Cured meats",
+      "Spiced dishes",
+      "Dark chocolate",
+      "Apple desserts"
+    ],
+    "history": "Named after the famous New Orleans cocktail created in the 1850s at the Sazerac Coffee House.",
+    "servingRecommendation": "Essential in a Sazerac cocktail or excellent neat.",
+    "id": "whiskey-040",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "The official whiskey of the Sazerac cocktail, spicy and complex with excellent value.",
+    "universalCoords": { "x": 8, "y": 48 }
+  },
+  {
+    "name": "Rittenhouse Rye Bottled in Bond",
+    "type": "Rye Whiskey",
+    "subcategory": "Rye",
+    "origin": "Kentucky, USA",
+    "about": "A bartender favorite, this bottled-in-bond rye delivers spice and value.",
+    "price": "$",
+    "flavorProfile": {
+      "smoke": 10,
+      "sweetness": 42
+    },
+    "specifications": {
+      "abv": "50%",
+      "age": "4 Years",
+      "caskType": "New Charred American Oak",
+      "region": "Kentucky"
+    },
+    "tastingNotes": "Rye spice, cherry, oak, pepper, toffee, dry finish",
+    "pairings": [
+      "Rye bread sandwiches",
+      "Cured meats",
+      "Spiced nuts",
+      "Cherry pie"
+    ],
+    "history": "Named after Philadelphia's Rittenhouse Square, home to many 19th-century rye distilleries.",
+    "servingRecommendation": "The go-to rye for Manhattans and whiskey sours.",
+    "id": "whiskey-041",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "A bartender favorite, this bottled-in-bond rye delivers spice and value.",
+    "universalCoords": { "x": 10, "y": 42 }
+  },
+  {
+    "name": "High West Double Rye",
+    "type": "Rye Whiskey",
+    "subcategory": "Rye",
+    "origin": "Utah, USA",
+    "about": "A blend of two ryes - a spicy younger MGP rye and a mellower older rye.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 12,
+      "sweetness": 50
+    },
+    "specifications": {
+      "abv": "46%",
+      "age": "Blend (2 & 16 Year)",
+      "caskType": "New Charred American Oak",
+      "region": "Utah"
+    },
+    "tastingNotes": "Mint, clove, cinnamon, licorice, honey, rye spice",
+    "pairings": [
+      "Spiced lamb",
+      "Honey desserts",
+      "Dark chocolate mint",
+      "Charcuterie"
+    ],
+    "history": "High West in Park City was Utah's first distillery since Prohibition and pioneered rye blending.",
+    "servingRecommendation": "Excellent neat or in classic rye cocktails.",
+    "id": "whiskey-042",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "A blend of two ryes - a spicy younger MGP rye and a mellower older rye.",
+    "universalCoords": { "x": 12, "y": 50 }
+  },
+  {
+    "name": "Yamazaki 18 Year Old",
+    "type": "Single Malt Japanese",
+    "subcategory": "Japanese",
+    "origin": "Osaka, Japan",
+    "about": "Japan's most prestigious whisky from the country's first malt distillery, awarded World's Best Whisky.",
+    "price": "$$$$$",
+    "flavorProfile": {
+      "smoke": 15,
+      "sweetness": 72
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "18 Years",
+      "caskType": "Mizunara, Sherry & American Oak",
+      "region": "Osaka"
+    },
+    "tastingNotes": "Dried fruit, dark chocolate, sandalwood, incense, honey, Mizunara oak",
+    "pairings": [
+      "Wagyu beef",
+      "Dark chocolate",
+      "Japanese cuisine",
+      "Dried fruits"
+    ],
+    "history": "Yamazaki was founded by Shinjiro Torii in 1923, making it Japan's first commercial whisky distillery.",
+    "servingRecommendation": "Neat at room temperature to appreciate the Mizunara influence.",
+    "id": "whiskey-043",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Japan's most prestigious whisky from the country's first malt distillery, awarded World's Best Whisky.",
+    "universalCoords": { "x": 15, "y": 72 }
+  },
+  {
+    "name": "Yamazaki 12 Year Old",
+    "type": "Single Malt Japanese",
+    "subcategory": "Japanese",
+    "origin": "Osaka, Japan",
+    "about": "The flagship expression of Japan's oldest distillery, elegant and fruity.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 10,
+      "sweetness": 65
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "12 Years",
+      "caskType": "American, Sherry & Mizunara Oak",
+      "region": "Osaka"
+    },
+    "tastingNotes": "Peach, pineapple, vanilla, coconut, hint of Mizunara spice",
+    "pairings": [
+      "Sushi",
+      "Light seafood",
+      "Fruit desserts",
+      "White chocolate"
+    ],
+    "history": "Yamazaki 12 introduced the world to Japanese single malts and remains the benchmark.",
+    "servingRecommendation": "Neat or with a few drops of water. Excellent in a highball.",
+    "id": "whiskey-044",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "The flagship expression of Japan's oldest distillery, elegant and fruity.",
+    "universalCoords": { "x": 10, "y": 65 }
+  },
+  {
+    "name": "Hakushu 12 Year Old",
+    "type": "Single Malt Japanese",
+    "subcategory": "Japanese",
+    "origin": "Yamanashi, Japan",
+    "about": "From Japan's forest distillery, Hakushu is fresh, green, and subtly smoky.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 25,
+      "sweetness": 55
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "12 Years",
+      "caskType": "American Oak",
+      "region": "Yamanashi"
+    },
+    "tastingNotes": "Fresh mint, cucumber, green apple, light smoke, citrus, herbaceous",
+    "pairings": [
+      "Fresh salads",
+      "Grilled vegetables",
+      "Sashimi",
+      "Light desserts"
+    ],
+    "history": "Built in 1973 in the Japanese Alps, Hakushu is known as the 'mountain forest' distillery.",
+    "servingRecommendation": "Excellent in a highball with soda water. Also great neat.",
+    "id": "whiskey-045",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "From Japan's forest distillery, Hakushu is fresh, green, and subtly smoky.",
+    "universalCoords": { "x": 25, "y": 55 }
+  },
+  {
+    "name": "Hibiki 21 Year Old",
+    "type": "Blended Japanese",
+    "subcategory": "Japanese",
+    "origin": "Japan",
+    "about": "The pinnacle of Japanese blending, combining Yamazaki, Hakushu, and Chita whiskies.",
+    "price": "$$$$$",
+    "flavorProfile": {
+      "smoke": 18,
+      "sweetness": 75
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "21 Years",
+      "caskType": "Multiple Oak Types",
+      "region": "Japan"
+    },
+    "tastingNotes": "Rose, Mizunara oak, dried fruit, sandalwood, honey, extraordinarily complex",
+    "pairings": [
+      "Kaiseki cuisine",
+      "Fine chocolate",
+      "Foie gras",
+      "Truffle dishes"
+    ],
+    "history": "Hibiki means 'harmony' and represents Suntory's art of blending at its highest level.",
+    "servingRecommendation": "Neat only. Treat with reverence.",
+    "id": "whiskey-046",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "The pinnacle of Japanese blending, combining Yamazaki, Hakushu, and Chita whiskies.",
+    "universalCoords": { "x": 18, "y": 75 }
+  },
+  {
+    "name": "Hibiki Japanese Harmony",
+    "type": "Blended Japanese",
+    "subcategory": "Japanese",
+    "origin": "Japan",
+    "about": "Accessible entry to Hibiki, blending malt and grain whiskies in perfect harmony.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 12,
+      "sweetness": 68
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "NAS",
+      "caskType": "American, Sherry & Mizunara Oak",
+      "region": "Japan"
+    },
+    "tastingNotes": "Orange peel, honey, white chocolate, sandalwood, subtle oak",
+    "pairings": [
+      "Asian cuisine",
+      "Light desserts",
+      "Mild cheese",
+      "Fruit tarts"
+    ],
+    "history": "Japanese Harmony was introduced in 2015 to meet global demand while aged stocks rebuild.",
+    "servingRecommendation": "Neat, on the rocks, or in a highball.",
+    "id": "whiskey-047",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Accessible entry to Hibiki, blending malt and grain whiskies in perfect harmony.",
+    "universalCoords": { "x": 12, "y": 68 }
+  },
+  {
+    "name": "Nikka From The Barrel",
+    "type": "Blended Japanese",
+    "subcategory": "Japanese",
+    "origin": "Japan",
+    "about": "A cult favorite, bottled at cask strength and blending Yoichi and Miyagikyo malts.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 28,
+      "sweetness": 62
+    },
+    "specifications": {
+      "abv": "51.4%",
+      "age": "NAS",
+      "caskType": "Various",
+      "region": "Japan"
+    },
+    "tastingNotes": "Apple, spice, caramel, oak, hint of peat, powerful but balanced",
+    "pairings": [
+      "Grilled meats",
+      "Aged cheese",
+      "Apple desserts",
+      "Rich stews"
+    ],
+    "history": "Created in 1985, From The Barrel has won numerous international awards for its quality and value.",
+    "servingRecommendation": "Neat or with water. Also excellent in a highball.",
+    "id": "whiskey-048",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "A cult favorite, bottled at cask strength and blending Yoichi and Miyagikyo malts.",
+    "universalCoords": { "x": 28, "y": 62 }
+  },
+  {
+    "name": "Nikka Coffey Grain",
+    "type": "Grain Japanese",
+    "subcategory": "Japanese",
+    "origin": "Japan",
+    "about": "Corn-based whisky made in traditional Coffey stills, sweet and bourbon-like.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 5,
+      "sweetness": 82
+    },
+    "specifications": {
+      "abv": "45%",
+      "age": "NAS",
+      "caskType": "American Oak",
+      "region": "Miyagi"
+    },
+    "tastingNotes": "Vanilla, cream, corn sweetness, citrus, tropical fruit, smooth",
+    "pairings": [
+      "Vanilla desserts",
+      "Light pastries",
+      "Fresh fruit",
+      "Coconut dishes"
+    ],
+    "history": "Nikka's Coffey stills date to 1963 and were imported from Scotland, producing unique grain whisky.",
+    "servingRecommendation": "Neat or in cocktails. Excellent in a whisky sour.",
+    "id": "whiskey-049",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Corn-based whisky made in traditional Coffey stills, sweet and bourbon-like.",
+    "universalCoords": { "x": 5, "y": 82 }
+  },
+  {
+    "name": "Nikka Yoichi Single Malt",
+    "type": "Single Malt Japanese",
+    "subcategory": "Japanese",
+    "origin": "Hokkaido, Japan",
+    "about": "From Japan's northernmost distillery, Yoichi has a bold, peaty character unusual for Japanese whisky.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 48,
+      "sweetness": 52
+    },
+    "specifications": {
+      "abv": "45%",
+      "age": "NAS",
+      "caskType": "Various",
+      "region": "Hokkaido"
+    },
+    "tastingNotes": "Peat smoke, brine, orchard fruit, malt, maritime, complex",
+    "pairings": [
+      "Smoked fish",
+      "Grilled meats",
+      "Strong cheese",
+      "Sea food"
+    ],
+    "history": "Founded by Masataka Taketsuru in 1934, who chose Hokkaido for its climate similarity to Scotland.",
+    "servingRecommendation": "Neat to appreciate the smoky character.",
+    "id": "whiskey-050",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "From Japan's northernmost distillery, Yoichi has a bold, peaty character unusual for Japanese whisky.",
+    "universalCoords": { "x": 48, "y": 52 }
+  },
+  {
+    "name": "Redbreast 12 Year Old",
+    "type": "Single Pot Still Irish",
+    "subcategory": "Irish",
+    "origin": "Cork, Ireland",
+    "about": "The definitive single pot still Irish whiskey, combining malted and unmalted barley for unique complexity.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 5,
+      "sweetness": 70
+    },
+    "specifications": {
+      "abv": "40%",
+      "age": "12 Years",
+      "caskType": "Bourbon & Sherry",
+      "region": "Cork"
+    },
+    "tastingNotes": "Sherry, dried fruit, toasted wood, spice, pot still creaminess, long finish",
+    "pairings": [
+      "Irish soda bread",
+      "Christmas cake",
+      "Dried fruit",
+      "Chocolate"
+    ],
+    "history": "Redbreast dates to 1903 and represents the pure pot still style that once defined Irish whiskey.",
+    "servingRecommendation": "Neat at room temperature.",
+    "id": "whiskey-051",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "The definitive single pot still Irish whiskey, combining malted and unmalted barley for unique complexity.",
+    "universalCoords": { "x": 5, "y": 70 }
+  },
+  {
+    "name": "Redbreast 15 Year Old",
+    "type": "Single Pot Still Irish",
+    "subcategory": "Irish",
+    "origin": "Cork, Ireland",
+    "about": "Extra aging adds depth and sophistication to the classic Redbreast pot still character.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 6,
+      "sweetness": 72
+    },
+    "specifications": {
+      "abv": "46%",
+      "age": "15 Years",
+      "caskType": "Bourbon & Sherry",
+      "region": "Cork"
+    },
+    "tastingNotes": "Rich fruit, berries, cream, spice, oak, complex and layered",
+    "pairings": [
+      "Berry desserts",
+      "Rich cheese",
+      "Chocolate truffles",
+      "Fruit cake"
+    ],
+    "history": "Redbreast 15 was released in 2005, filling the gap between the 12 and the legendary 21 year old.",
+    "servingRecommendation": "Neat to appreciate the extra complexity.",
+    "id": "whiskey-052",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Extra aging adds depth and sophistication to the classic Redbreast pot still character.",
+    "universalCoords": { "x": 6, "y": 72 }
+  },
+  {
+    "name": "Green Spot",
+    "type": "Single Pot Still Irish",
+    "subcategory": "Irish",
+    "origin": "Cork, Ireland",
+    "about": "Named after the dot system once used by Dublin bonding houses, a lighter pot still style.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 3,
+      "sweetness": 65
+    },
+    "specifications": {
+      "abv": "40%",
+      "age": "7-10 Years",
+      "caskType": "Bourbon & Sherry",
+      "region": "Cork"
+    },
+    "tastingNotes": "Fresh orchard fruit, barley, honey, clove, light spice, crisp",
+    "pairings": [
+      "Apple desserts",
+      "Light cheese",
+      "Shortbread",
+      "Poached pears"
+    ],
+    "history": "Green Spot was created for Mitchell & Son in Dublin over 100 years ago. Only 'Spot' whiskey to survive.",
+    "servingRecommendation": "Neat or with a small splash of water.",
+    "id": "whiskey-053",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Named after the dot system once used by Dublin bonding houses, a lighter pot still style.",
+    "universalCoords": { "x": 3, "y": 65 }
+  },
+  {
+    "name": "Yellow Spot 12 Year Old",
+    "type": "Single Pot Still Irish",
+    "subcategory": "Irish",
+    "origin": "Cork, Ireland",
+    "about": "Green Spot's older sibling, with additional sherry and Malaga wine cask influence.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 4,
+      "sweetness": 75
+    },
+    "specifications": {
+      "abv": "46%",
+      "age": "12 Years",
+      "caskType": "Bourbon, Sherry & Malaga",
+      "region": "Cork"
+    },
+    "tastingNotes": "Honey, apricot, toasted wood, ginger, nutmeg, pot still oils",
+    "pairings": [
+      "Apricot desserts",
+      "Ginger cake",
+      "Honey-based dishes",
+      "Manchego"
+    ],
+    "history": "Yellow Spot was revived in 2012 after decades of absence, named for the historic bonding system.",
+    "servingRecommendation": "Neat at room temperature.",
+    "id": "whiskey-054",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Green Spot's older sibling, with additional sherry and Malaga wine cask influence.",
+    "universalCoords": { "x": 4, "y": 75 }
+  },
+  {
+    "name": "Jameson 18 Year Old",
+    "type": "Blended Irish",
+    "subcategory": "Irish",
+    "origin": "Cork, Ireland",
+    "about": "The premium expression of Ireland's most famous whiskey, aged in two types of casks.",
+    "price": "$$$",
+    "flavorProfile": {
+      "smoke": 2,
+      "sweetness": 68
+    },
+    "specifications": {
+      "abv": "46%",
+      "age": "18 Years",
+      "caskType": "Bourbon & Sherry",
+      "region": "Cork"
+    },
+    "tastingNotes": "Toffee, sherry, leather, wood spice, vanilla, marzipan",
+    "pairings": [
+      "Toffee desserts",
+      "Nuts",
+      "Mild cheese",
+      "Vanilla cake"
+    ],
+    "history": "John Jameson founded his distillery in 1780. Jameson is now the world's best-selling Irish whiskey.",
+    "servingRecommendation": "Neat to appreciate the age and complexity.",
+    "id": "whiskey-055",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "The premium expression of Ireland's most famous whiskey, aged in two types of casks.",
+    "universalCoords": { "x": 2, "y": 68 }
+  },
+  {
+    "name": "Midleton Very Rare",
+    "type": "Blended Irish",
+    "subcategory": "Irish",
+    "origin": "Cork, Ireland",
+    "about": "Ireland's most prestigious whiskey, hand-selected annually by the Master Distiller.",
+    "price": "$$$$",
+    "flavorProfile": {
+      "smoke": 3,
+      "sweetness": 72
+    },
+    "specifications": {
+      "abv": "40%",
+      "age": "12-25 Year Blend",
+      "caskType": "Bourbon",
+      "region": "Cork"
+    },
+    "tastingNotes": "Honey, vanilla, leather, subtle spice, silky texture, exceptional balance",
+    "pairings": [
+      "Fine chocolate",
+      "Aged cheese",
+      "Lobster",
+      "Special occasions"
+    ],
+    "history": "Launched in 1984, each year's Midleton Very Rare is a unique blend, never to be repeated.",
+    "servingRecommendation": "Neat, savored slowly.",
+    "id": "whiskey-056",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Ireland's most prestigious whiskey, hand-selected annually by the Master Distiller.",
+    "universalCoords": { "x": 3, "y": 72 }
+  },
+  {
+    "name": "Connemara Peated Single Malt",
+    "type": "Single Malt Irish",
+    "subcategory": "Irish",
+    "origin": "Cooley, Ireland",
+    "about": "The only peated Irish single malt, reviving a style that predates Scotch whisky.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 55,
+      "sweetness": 48
+    },
+    "specifications": {
+      "abv": "40%",
+      "age": "NAS",
+      "caskType": "Bourbon",
+      "region": "Louth"
+    },
+    "tastingNotes": "Peat smoke, heather honey, green fruit, malt, earthy, unique",
+    "pairings": [
+      "Smoked salmon",
+      "Strong cheese",
+      "Grilled lamb",
+      "Dark chocolate"
+    ],
+    "history": "Connemara was launched in 1996 from Cooley Distillery, Ireland's first new distillery in over a century.",
+    "servingRecommendation": "Neat or with water to explore the smoke.",
+    "id": "whiskey-057",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "The only peated Irish single malt, reviving a style that predates Scotch whisky.",
+    "universalCoords": { "x": 55, "y": 48 }
+  },
+  {
+    "name": "Crown Royal",
+    "type": "Blended Canadian",
+    "subcategory": "Canadian",
+    "origin": "Manitoba, Canada",
+    "about": "Created in 1939 for the royal visit of King George VI, Canada's most famous whisky.",
+    "price": "$",
+    "flavorProfile": {
+      "smoke": 3,
+      "sweetness": 65
+    },
+    "specifications": {
+      "abv": "40%",
+      "age": "NAS",
+      "caskType": "Various",
+      "region": "Manitoba"
+    },
+    "tastingNotes": "Vanilla, maple, light fruit, oak, smooth and easy-drinking",
+    "pairings": [
+      "Maple desserts",
+      "Light appetizers",
+      "Mild cheese",
+      "Apple dishes"
+    ],
+    "history": "Crown Royal was created to commemorate the first visit of a reigning monarch to Canada.",
+    "servingRecommendation": "On the rocks or in cocktails. Very mixable.",
+    "id": "whiskey-058",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Created in 1939 for the royal visit of King George VI, Canada's most famous whisky.",
+    "universalCoords": { "x": 3, "y": 65 }
+  },
+  {
+    "name": "Canadian Club 12 Year Old",
+    "type": "Blended Canadian",
+    "subcategory": "Canadian",
+    "origin": "Ontario, Canada",
+    "about": "Classic Canadian whisky with extra aging for smoothness and complexity.",
+    "price": "$",
+    "flavorProfile": {
+      "smoke": 4,
+      "sweetness": 58
+    },
+    "specifications": {
+      "abv": "40%",
+      "age": "12 Years",
+      "caskType": "American Oak",
+      "region": "Ontario"
+    },
+    "tastingNotes": "Caramel, vanilla, fruit, subtle spice, rye notes, clean finish",
+    "pairings": [
+      "BBQ",
+      "Grilled meats",
+      "Vanilla desserts",
+      "Light cheese"
+    ],
+    "history": "Founded in 1858, Canadian Club was once Al Capone's whisky of choice during Prohibition.",
+    "servingRecommendation": "On the rocks or in a highball with ginger ale.",
+    "id": "whiskey-059",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Classic Canadian whisky with extra aging for smoothness and complexity.",
+    "universalCoords": { "x": 4, "y": 58 }
+  },
+  {
+    "name": "Lot No. 40",
+    "type": "Rye Canadian",
+    "subcategory": "Canadian",
+    "origin": "Ontario, Canada",
+    "about": "100% rye whisky, one of Canada's finest and most awarded rye expressions.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 8,
+      "sweetness": 45
+    },
+    "specifications": {
+      "abv": "43%",
+      "age": "NAS",
+      "caskType": "New & Used American Oak",
+      "region": "Ontario"
+    },
+    "tastingNotes": "Rye spice, clove, pepper, toffee, vanilla, dill, bold and complex",
+    "pairings": [
+      "Rye bread",
+      "Deli meats",
+      "Spiced dishes",
+      "Pickles"
+    ],
+    "history": "Named after the plot of land where the Windham distillery once stood, reviving Canadian rye tradition.",
+    "servingRecommendation": "Neat or in classic rye cocktails.",
+    "id": "whiskey-060",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "100% rye whisky, one of Canada's finest and most awarded rye expressions.",
+    "universalCoords": { "x": 8, "y": 45 }
+  },
+  {
+    "name": "Pike Creek 10 Year Old",
+    "type": "Blended Canadian",
+    "subcategory": "Canadian",
+    "origin": "Ontario, Canada",
+    "about": "Finished in rum barrels, adding Caribbean sweetness to Canadian smoothness.",
+    "price": "$$",
+    "flavorProfile": {
+      "smoke": 2,
+      "sweetness": 72
+    },
+    "specifications": {
+      "abv": "42%",
+      "age": "10 Years",
+      "caskType": "Rum Barrel Finish",
+      "region": "Ontario"
+    },
+    "tastingNotes": "Vanilla, caramel, tropical fruit, rum sweetness, smooth oak",
+    "pairings": [
+      "Tropical desserts",
+      "Rum cake",
+      "Vanilla ice cream",
+      "Light fruit"
+    ],
+    "history": "Pike Creek represents Canadian innovation, borrowing the rum cask finishing technique.",
+    "servingRecommendation": "Neat or on the rocks.",
+    "id": "whiskey-061",
+    "category": "whiskey",
+    "image": "/images/whiskey/placeholder.jpg",
+    "description": "Finished in rum barrels, adding Caribbean sweetness to Canadian smoothness.",
+    "universalCoords": { "x": 2, "y": 72 }
+  }
+]

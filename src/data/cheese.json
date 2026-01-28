@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "cheese-brie-de-meaux",
+    "name": "Brie de Meaux",
+    "category": "cheese",
+    "subcategory": "Soft-ripened",
+    "type": "Soft-ripened",
+    "origin": "France",
+    "image": "",
+    "description": "The king of cheeses from the Ile-de-France region",
+    "price": "$$",
+    "about": "Brie de Meaux is one of France's most celebrated cheeses, often called the 'King of Cheeses.' Made from raw cow's milk in the Ile-de-France region, this AOC-protected cheese has been produced since the 8th century. Its bloomy white rind encases a creamy, straw-colored paste that should be slightly runny when perfectly ripe.",
+    "flavorProfile": {
+      "intensity": 45,
+      "texture": 20
+    },
+    "specifications": {
+      "milkType": "Raw Cow's Milk",
+      "rind": "Bloomy White",
+      "aging": "4-8 weeks",
+      "region": "Ile-de-France"
+    },
+    "tastingNotes": "Earthy mushroom notes with hints of ammonia when ripe, buttery and nutty undertones, smooth creamy texture that melts on the tongue",
+    "pairings": ["Champagne", "Fresh baguette", "Walnuts", "Figs", "Honey"],
+    "history": "Brie de Meaux has been produced since at least 774 AD when Charlemagne supposedly first tasted it. In 1815, at the Congress of Vienna, it was declared the 'King of Cheeses' in a competition among 60 varieties. It received AOC protection in 1980.",
+    "servingRecommendation": "Remove from refrigerator 1-2 hours before serving. Serve at room temperature to fully appreciate its complex flavors and creamy texture. Cut wedges from the center outward.",
+    "universalCoords": { "x": 45, "y": 20 }
+  },
+  {
+    "id": "cheese-camembert-normandie",
+    "name": "Camembert de Normandie",
+    "category": "cheese",
+    "subcategory": "Soft-ripened",
+    "type": "Soft-ripened",
+    "origin": "France",
+    "image": "",
+    "description": "Normandy's famous soft-ripened cheese with a rich history",
+    "price": "$$",
+    "about": "Authentic Camembert de Normandie is made from raw cow's milk and has AOC/AOP protection. Created in 1791 by Marie Harel during the French Revolution, it's characterized by its distinctive round wooden box packaging and complex, earthy flavors.",
+    "flavorProfile": {
+      "intensity": 50,
+      "texture": 15
+    },
+    "specifications": {
+      "milkType": "Raw Cow's Milk",
+      "rind": "Bloomy White",
+      "aging": "3-5 weeks",
+      "region": "Normandy"
+    },
+    "tastingNotes": "Mushroomy and earthy with notes of cauliflower, becomes more pungent and ammonia-rich when fully ripe, rich buttery paste",
+    "pairings": ["Calvados", "Crusty bread", "Green apples", "Cider", "Walnuts"],
+    "history": "Legend attributes its creation to Marie Harel in 1791, who learned the technique from a priest hiding from the Revolution. The famous wooden box was invented in 1890 by engineer Ridel, enabling worldwide shipping.",
+    "servingRecommendation": "Serve at room temperature. For the best experience, let the cheese ripen until the paste is uniformly soft but not runny. Can be baked whole for a delicious warm appetizer.",
+    "universalCoords": { "x": 50, "y": 15 }
+  },
+  {
+    "id": "cheese-roquefort",
+    "name": "Roquefort",
+    "category": "cheese",
+    "subcategory": "Blue",
+    "type": "Blue",
+    "origin": "France",
+    "image": "",
+    "description": "The legendary blue cheese from the caves of Roquefort-sur-Soulzon",
+    "price": "$$$",
+    "about": "Roquefort is one of the world's oldest and most famous blue cheeses, made exclusively from raw sheep's milk and aged in the natural Combalou caves. Its distinctive blue-green veining comes from Penicillium roqueforti mold, which has been cultivated in these caves for centuries.",
+    "flavorProfile": {
+      "intensity": 85,
+      "texture": 35
+    },
+    "specifications": {
+      "milkType": "Raw Sheep's Milk",
+      "rind": "Natural",
+      "aging": "3-9 months",
+      "region": "Aveyron"
+    },
+    "tastingNotes": "Sharp and tangy with complex sweet and salty notes, metallic mineral undertones, creamy yet crumbly texture with pronounced blue veining",
+    "pairings": ["Sauternes", "Port wine", "Pears", "Walnuts", "Honey"],
+    "history": "According to legend, a young shepherd left his bread and cheese in a cave while pursuing a beautiful maiden. When he returned months later, mold had transformed the cheese. Roquefort received the first AOC designation in 1925.",
+    "servingRecommendation": "Serve slightly below room temperature to balance the strong flavors. Excellent crumbled over salads, melted into sauces, or paired with sweet wines and fresh fruit.",
+    "universalCoords": { "x": 85, "y": 35 }
+  },
+  {
+    "id": "cheese-parmigiano-reggiano",
+    "name": "Parmigiano-Reggiano",
+    "category": "cheese",
+    "subcategory": "Hard",
+    "type": "Hard Aged",
+    "origin": "Italy",
+    "image": "",
+    "description": "The undisputed king of Italian cheeses, aged to perfection",
+    "price": "$$$",
+    "about": "Parmigiano-Reggiano is a hard, granular cheese produced in the provinces of Parma, Reggio Emilia, Modena, and parts of Bologna and Mantua. Made from raw cow's milk using techniques unchanged for 900 years, each wheel is individually tested and branded after a minimum of 12 months aging.",
+    "flavorProfile": {
+      "intensity": 75,
+      "texture": 95
+    },
+    "specifications": {
+      "milkType": "Raw Cow's Milk",
+      "rind": "Natural Hard",
+      "aging": "12-36+ months",
+      "region": "Emilia-Romagna"
+    },
+    "tastingNotes": "Complex umami with fruity and nutty notes, crystalline texture from tyrosine amino acid crystals, becomes more intense and granular with age",
+    "pairings": ["Lambrusco", "Balsamic vinegar", "Fresh figs", "Prosciutto", "Aged balsamic"],
+    "history": "Monks in the Middle Ages developed Parmigiano-Reggiano around 900 AD. The long aging process made it ideal for trade. Today, over 3.6 million wheels are produced annually under strict DOP regulations.",
+    "servingRecommendation": "Best enjoyed in chunks with balsamic vinegar, grated over pasta, or shaved onto salads. The rind can be added to soups and broths for extra flavor.",
+    "universalCoords": { "x": 75, "y": 95 }
+  },
+  {
+    "id": "cheese-gruyere",
+    "name": "Gruyere AOP",
+    "category": "cheese",
+    "subcategory": "Hard",
+    "type": "Hard Alpine",
+    "origin": "Switzerland",
+    "image": "",
+    "description": "Switzerland's famous alpine cheese with complex nutty flavors",
+    "price": "$$",
+    "about": "Gruyere AOP is a hard yellow Swiss cheese named after the town of Gruyeres. Made from raw cow's milk, it's known for its rich, creamy, and slightly nutty taste. The cheese develops small cracks and a grainy texture as it ages, with flavors becoming more assertive over time.",
+    "flavorProfile": {
+      "intensity": 60,
+      "texture": 80
+    },
+    "specifications": {
+      "milkType": "Raw Cow's Milk",
+      "rind": "Natural Brushed",
+      "aging": "5-18+ months",
+      "region": "Fribourg"
+    },
+    "tastingNotes": "Sweet and slightly salty with earthy, nutty complexity, hints of fruit and flowers, dense yet creamy texture that melts beautifully",
+    "pairings": ["White Burgundy", "Crusty bread", "Charcuterie", "Apples", "Mustard"],
+    "history": "Gruyere has been made in the region since 1115 AD. Alpine farmers would pool their milk to make large wheels that could be aged and stored through winter. It received AOP status in 2001.",
+    "servingRecommendation": "Essential for fondue and French onion soup. Excellent for gratins and melting. Also delicious on its own with crusty bread and wine.",
+    "universalCoords": { "x": 60, "y": 80 }
+  },
+  {
+    "id": "cheese-manchego",
+    "name": "Manchego DOP",
+    "category": "cheese",
+    "subcategory": "Hard",
+    "type": "Hard Sheep",
+    "origin": "Spain",
+    "image": "",
+    "description": "Spain's most famous cheese from La Mancha",
+    "price": "$$",
+    "about": "Manchego is a pressed paste cheese made from the milk of Manchega sheep in the La Mancha region of Spain. The cheese has a distinctive herringbone pattern on its rind from the traditional esparto grass molds. Aging ranges from 60 days to over 2 years.",
+    "flavorProfile": {
+      "intensity": 55,
+      "texture": 75
+    },
+    "specifications": {
+      "milkType": "Sheep's Milk",
+      "rind": "Natural with Basket Weave",
+      "aging": "2 months-2+ years",
+      "region": "La Mancha"
+    },
+    "tastingNotes": "Tangy and nutty with buttery undertones, slight piquancy in aged versions, firm yet supple texture with occasional small eyes",
+    "pairings": ["Rioja", "Membrillo (quince paste)", "Marcona almonds", "Serrano ham", "Olive oil"],
+    "history": "Manchego has been produced for over 2,000 years in the harsh central plateau of Spain. Don Quixote references the cheese in Cervantes' famous novel. It received DOP status in 1984.",
+    "servingRecommendation": "Traditionally served with membrillo (quince paste) and Marcona almonds. Drizzle with quality olive oil or pair with Spanish wines. Best at room temperature.",
+    "universalCoords": { "x": 55, "y": 75 }
+  },
+  {
+    "id": "cheese-gorgonzola-dolce",
+    "name": "Gorgonzola Dolce",
+    "category": "cheese",
+    "subcategory": "Blue",
+    "type": "Blue",
+    "origin": "Italy",
+    "image": "",
+    "description": "The sweeter, creamier version of Italy's famous blue cheese",
+    "price": "$$",
+    "about": "Gorgonzola Dolce is the milder, younger version of Gorgonzola, aged for only 2-3 months. It has a soft, spreadable texture and sweet, mild blue flavor. Made from pasteurized cow's milk in Lombardy and Piedmont, it's more accessible than its piccante counterpart.",
+    "flavorProfile": {
+      "intensity": 45,
+      "texture": 20
+    },
+    "specifications": {
+      "milkType": "Pasteurized Cow's Milk",
+      "rind": "Natural",
+      "aging": "2-3 months",
+      "region": "Lombardy/Piedmont"
+    },
+    "tastingNotes": "Mild blue tang with sweet, buttery notes, creamy and spreadable texture, subtle mushroom and grass undertones",
+    "pairings": ["Moscato d'Asti", "Fresh pears", "Walnuts", "Risotto", "Gnocchi"],
+    "history": "Gorgonzola originated in the town of the same name near Milan around 879 AD. Legend says it was accidentally created when a tired cheesemaker left his curds overnight. DOP protected since 1996.",
+    "servingRecommendation": "Spread on crostini, melt into risotto or pasta, or serve with fresh fruit and sweet wine. Best at room temperature when it becomes deliciously spreadable.",
+    "universalCoords": { "x": 45, "y": 20 }
+  },
+  {
+    "id": "cheese-gorgonzola-piccante",
+    "name": "Gorgonzola Piccante",
+    "category": "cheese",
+    "subcategory": "Blue",
+    "type": "Blue",
+    "origin": "Italy",
+    "image": "",
+    "description": "The bold, aged version of Italy's classic blue cheese",
+    "price": "$$",
+    "about": "Gorgonzola Piccante is aged for 3-6 months or more, developing a firmer texture and more intense, spicy flavor than its dolce cousin. The blue veining is more pronounced, and the paste is crumbly rather than creamy.",
+    "flavorProfile": {
+      "intensity": 75,
+      "texture": 50
+    },
+    "specifications": {
+      "milkType": "Pasteurized Cow's Milk",
+      "rind": "Natural",
+      "aging": "3-6+ months",
+      "region": "Lombardy/Piedmont"
+    },
+    "tastingNotes": "Bold blue flavor with spicy, peppery notes, firm crumbly texture, complex earthy and metallic undertones",
+    "pairings": ["Barolo", "Honey", "Polenta", "Steak", "Radicchio"],
+    "history": "The piccante style represents the traditional longer-aged Gorgonzola. While dolce became popular in the 20th century, piccante maintains the cheese's historical character.",
+    "servingRecommendation": "Excellent crumbled over salads, melted into sauces for steak, or paired with robust red wines and honey. Best at cool room temperature.",
+    "universalCoords": { "x": 75, "y": 50 }
+  },
+  {
+    "id": "cheese-comte",
+    "name": "Comte AOP",
+    "category": "cheese",
+    "subcategory": "Hard",
+    "type": "Hard Alpine",
+    "origin": "France",
+    "image": "",
+    "description": "France's most popular AOC cheese from the Jura mountains",
+    "price": "$$",
+    "about": "Comte is a pressed, cooked cheese made from raw cow's milk in the Jura Massif region. Each wheel weighs about 40 kg and requires 450 liters of milk. The cheese is aged in special cellars called 'caves d'affinage' where it develops its complex flavors.",
+    "flavorProfile": {
+      "intensity": 55,
+      "texture": 78
+    },
+    "specifications": {
+      "milkType": "Raw Cow's Milk",
+      "rind": "Natural Brushed",
+      "aging": "4-24+ months",
+      "region": "Franche-Comte"
+    },
+    "tastingNotes": "Nutty and fruity with caramel and butter notes, becomes more complex with age, smooth dense texture with occasional tyrosine crystals",
+    "pairings": ["Vin Jaune", "White Burgundy", "Walnuts", "Dried fruit", "Crusty bread"],
+    "history": "Comte has been produced in the Jura mountains for nearly 1,000 years. The cooperative system (fruitieres) where farmers pool milk dates back to the 13th century. It's France's most consumed AOC cheese.",
+    "servingRecommendation": "Excellent for eating on its own, melting in fondue or gratins, or grating over dishes. Try different ages to experience the flavor evolution.",
+    "universalCoords": { "x": 55, "y": 78 }
+  },
+  {
+    "id": "cheese-stilton-blue",
+    "name": "Stilton Blue",
+    "category": "cheese",
+    "subcategory": "Blue",
+    "type": "Blue",
+    "origin": "England",
+    "image": "",
+    "description": "England's king of cheeses with protected status",
+    "price": "$$",
+    "about": "Stilton is a British blue cheese that can only be produced in the counties of Derbyshire, Leicestershire, and Nottinghamshire. Made from local pasteurized cow's milk, it's characterized by its creamy texture and strong, pungent flavor with blue-green veins radiating from the center.",
+    "flavorProfile": {
+      "intensity": 70,
+      "texture": 45
+    },
+    "specifications": {
+      "milkType": "Pasteurized Cow's Milk",
+      "rind": "Natural Crusty",
+      "aging": "9-12 weeks",
+      "region": "East Midlands"
+    },
+    "tastingNotes": "Rich, creamy, and mellow with a tangy, slightly spicy finish, complex nutty undertones, smooth paste with blue-green veining",
+    "pairings": ["Port", "Celery", "Walnuts", "Pears", "Crackers"],
+    "history": "Named after the village of Stilton where it was sold to travelers along the Great North Road in the 18th century. Ironically, it has never actually been made in Stilton village. PDO protected since 1996.",
+    "servingRecommendation": "Traditional to serve with port and crackers. Also excellent crumbled into salads or melted into sauces. Remove from refrigerator 30 minutes before serving.",
+    "universalCoords": { "x": 70, "y": 45 }
+  },
+  {
+    "id": "cheese-epoisses",
+    "name": "Epoisses de Bourgogne",
+    "category": "cheese",
+    "subcategory": "Washed-rind",
+    "type": "Washed-rind",
+    "origin": "France",
+    "image": "",
+    "description": "The notoriously pungent washed-rind cheese from Burgundy",
+    "price": "$$$",
+    "about": "Epoisses is a soft-paste cows-milk cheese with a distinctive orange, sticky rind created by washing in marc de Bourgogne (grape brandy). It's known for its powerful aroma and rich, spicy flavor. The cheese is so pungent it's reportedly banned on French public transport.",
+    "flavorProfile": {
+      "intensity": 90,
+      "texture": 15
+    },
+    "specifications": {
+      "milkType": "Pasteurized Cow's Milk",
+      "rind": "Washed Orange",
+      "aging": "6-8 weeks",
+      "region": "Burgundy"
+    },
+    "tastingNotes": "Intense barnyard and meaty aromas give way to rich, salty, savory flavors with spicy notes from the brandy washing, luxuriously creamy texture",
+    "pairings": ["Burgundy wine", "Champagne", "Crusty bread", "Boiled potatoes", "Chardonnay"],
+    "history": "Created by Cistercian monks in the 16th century, Epoisses nearly went extinct after WWII. It was revived in 1956 by the Berthaut family. Napoleon supposedly loved it, calling it 'the king of all cheeses.'",
+    "servingRecommendation": "Serve at room temperature, scooped with a spoon. The aroma is stronger than the flavor. Pair with white Burgundy or Champagne to cut through the richness.",
+    "universalCoords": { "x": 90, "y": 15 }
+  },
+  {
+    "id": "cheese-taleggio",
+    "name": "Taleggio DOP",
+    "category": "cheese",
+    "subcategory": "Washed-rind",
+    "type": "Washed-rind",
+    "origin": "Italy",
+    "image": "",
+    "description": "A mild washed-rind cheese from the Lombardy valleys",
+    "price": "$$",
+    "about": "Taleggio is a semi-soft, washed-rind cheese from the Val Taleggio in the Lombardy region. Despite its pungent aroma, the flavor is mild and fruity with a tangy finish. The thin orange rind is washed weekly with seawater during aging.",
+    "flavorProfile": {
+      "intensity": 50,
+      "texture": 25
+    },
+    "specifications": {
+      "milkType": "Pasteurized Cow's Milk",
+      "rind": "Washed Orange",
+      "aging": "6-10 weeks",
+      "region": "Lombardy"
+    },
+    "tastingNotes": "Pungent aroma belies a mild, fruity, tangy flavor, buttery and meaty notes, soft creamy texture that becomes runny when ripe",
+    "pairings": ["Prosecco", "Polenta", "Risotto", "Pears", "Walnuts"],
+    "history": "Taleggio has been made since at least the 10th century in the caves of the Val Taleggio. Originally called 'Stracchino' (from 'stracche' meaning tired, referring to the cows' return from alpine pastures), it received DOP status in 1996.",
+    "servingRecommendation": "Excellent melted on polenta or pizza, in risotto, or served at room temperature with crusty bread. The rind is edible but can be removed if preferred.",
+    "universalCoords": { "x": 50, "y": 25 }
+  },
+  {
+    "id": "cheese-mozzarella-bufala",
+    "name": "Mozzarella di Bufala Campana",
+    "category": "cheese",
+    "subcategory": "Fresh",
+    "type": "Fresh Stretched Curd",
+    "origin": "Italy",
+    "image": "",
+    "description": "The authentic buffalo milk mozzarella from Campania",
+    "price": "$$",
+    "about": "Mozzarella di Bufala Campana DOP is made from the rich milk of water buffalo raised in the marshlands of Campania. The cheese is made fresh daily using the pasta filata (stretched curd) technique, resulting in a soft, elastic texture with a rich, tangy flavor.",
+    "flavorProfile": {
+      "intensity": 30,
+      "texture": 10
+    },
+    "specifications": {
+      "milkType": "Water Buffalo Milk",
+      "rind": "None",
+      "aging": "Fresh (1-3 days)",
+      "region": "Campania"
+    },
+    "tastingNotes": "Fresh, milky, and slightly tangy with grassy notes, soft and springy texture that releases milk when cut, delicate and clean finish",
+    "pairings": ["Tomatoes", "Fresh basil", "Olive oil", "Prosciutto", "Fiano wine"],
+    "history": "Water buffalo were brought to Italy in the 7th century. Mozzarella production began in the 12th century at monasteries. The cheese became famous after the draining of the Volturno plain marshes in the 18th century.",
+    "servingRecommendation": "Best consumed within 24-48 hours of production. Serve at room temperature in its whey. Classic in Caprese salad or on pizza Margherita. Never refrigerate if eating same day.",
+    "universalCoords": { "x": 30, "y": 10 }
+  },
+  {
+    "id": "cheese-burrata",
+    "name": "Burrata",
+    "category": "cheese",
+    "subcategory": "Fresh",
+    "type": "Fresh Stretched Curd",
+    "origin": "Italy",
+    "image": "",
+    "description": "Luscious fresh cheese with a creamy stracciatella center",
+    "price": "$$",
+    "about": "Burrata is a fresh Italian cheese made from mozzarella and cream. The outer shell is solid mozzarella, while the inside contains stracciatella (shreds of mozzarella soaked in cream). When cut open, the creamy interior oozes out luxuriously.",
+    "flavorProfile": {
+      "intensity": 25,
+      "texture": 8
+    },
+    "specifications": {
+      "milkType": "Cow's Milk",
+      "rind": "None",
+      "aging": "Fresh (1-2 days)",
+      "region": "Puglia"
+    },
+    "tastingNotes": "Rich, buttery, and milky with fresh dairy sweetness, contrast between the firmer shell and luscious creamy interior, clean grassy finish",
+    "pairings": ["Heirloom tomatoes", "Grilled bread", "Prosciutto", "Olive oil", "Fresh peaches"],
+    "history": "Created in Andria, Puglia in the 1920s as a way to use leftover mozzarella scraps. The name means 'buttered' in Italian. Originally a rare delicacy, it's now produced worldwide.",
+    "servingRecommendation": "Must be consumed within 48 hours. Serve at room temperature, drizzled with excellent olive oil and sea salt. Cut open to release the creamy center.",
+    "universalCoords": { "x": 25, "y": 8 }
+  },
+  {
+    "id": "cheese-ricotta",
+    "name": "Ricotta",
+    "category": "cheese",
+    "subcategory": "Fresh",
+    "type": "Fresh Whey",
+    "origin": "Italy",
+    "image": "",
+    "description": "Creamy Italian whey cheese with endless culinary uses",
+    "price": "$",
+    "about": "Ricotta means 're-cooked' as it's made by reheating the whey leftover from other cheese production. This fresh, creamy cheese has a slightly sweet taste and grainy texture. Traditional ricotta is made from sheep's milk whey, though cow's milk versions are common.",
+    "flavorProfile": {
+      "intensity": 15,
+      "texture": 12
+    },
+    "specifications": {
+      "milkType": "Whey (various milks)",
+      "rind": "None",
+      "aging": "Fresh",
+      "region": "Various"
+    },
+    "tastingNotes": "Mild, sweet, and milky with subtle tang, light grainy texture, clean fresh dairy flavor",
+    "pairings": ["Honey", "Fresh berries", "Lemon zest", "Pasta", "Cannoli shells"],
+    "history": "Ricotta has been made in Italy for millennia as an economical use of whey. Every region has its own variation. It's essential in dishes from lasagna to cannoli.",
+    "servingRecommendation": "Versatile in both sweet and savory dishes. Use in pasta fillings, spread on toast with honey, or as a base for dips. Best used within a week.",
+    "universalCoords": { "x": 15, "y": 12 }
+  },
+  {
+    "id": "cheese-pecorino-romano",
+    "name": "Pecorino Romano DOP",
+    "category": "cheese",
+    "subcategory": "Hard",
+    "type": "Hard Sheep",
+    "origin": "Italy",
+    "image": "",
+    "description": "Ancient Roman sheep's milk cheese with bold flavor",
+    "price": "$$",
+    "about": "Pecorino Romano is one of Italy's oldest cheeses, originally made in Lazio but now primarily produced in Sardinia. Made from whole sheep's milk with lamb rennet, it's aged for at least 8 months, developing a hard, granular texture and sharp, salty flavor.",
+    "flavorProfile": {
+      "intensity": 80,
+      "texture": 90
+    },
+    "specifications": {
+      "milkType": "Sheep's Milk",
+      "rind": "Natural Hard",
+      "aging": "8-12+ months",
+      "region": "Lazio/Sardinia"
+    },
+    "tastingNotes": "Sharp, salty, and tangy with pronounced sheep's milk character, hard granular texture, lingering savory finish",
+    "pairings": ["Pecorino wine", "Fava beans", "Pasta all'amatriciana", "Cacio e pepe", "Honey"],
+    "history": "Roman legionnaires carried Pecorino Romano as a protein source on long marches. It's been continuously produced for over 2,000 years. Essential in classic Roman pasta dishes.",
+    "servingRecommendation": "Primarily used as a grating cheese for pasta dishes like cacio e pepe and carbonara. Also excellent in chunks with honey or fava beans.",
+    "universalCoords": { "x": 80, "y": 90 }
+  },
+  {
+    "id": "cheese-cheddar-aged",
+    "name": "Aged Cheddar",
+    "category": "cheese",
+    "subcategory": "Hard",
+    "type": "Hard Aged",
+    "origin": "England",
+    "image": "",
+    "description": "The world-famous English cheese, aged for bold flavor",
+    "price": "$$",
+    "about": "True cheddar originates from the village of Cheddar in Somerset, England. The 'cheddaring' process involves stacking and turning slabs of curd to expel moisture. Aged cheddar develops complex, sharp flavors and a crumbly texture with calcium lactate crystals.",
+    "flavorProfile": {
+      "intensity": 70,
+      "texture": 85
+    },
+    "specifications": {
+      "milkType": "Cow's Milk",
+      "rind": "Cloth-bound or Waxed",
+      "aging": "12-24+ months",
+      "region": "Somerset"
+    },
+    "tastingNotes": "Sharp and tangy with nutty caramel notes, crumbly texture with satisfying crystals, long savory finish",
+    "pairings": ["Ale", "Crusty bread", "Apple slices", "Chutney", "Port"],
+    "history": "Cheddar has been made in Somerset since at least the 12th century. King Henry II declared it the finest cheese in England. The cheddaring technique was refined over centuries and is now used worldwide.",
+    "servingRecommendation": "Excellent on cheese boards with fruit and chutney, melted in sandwiches, or paired with ale. Best at room temperature to appreciate the crystals and complex flavors.",
+    "universalCoords": { "x": 70, "y": 85 }
+  },
+  {
+    "id": "cheese-gouda-aged",
+    "name": "Aged Gouda",
+    "category": "cheese",
+    "subcategory": "Hard",
+    "type": "Hard Aged",
+    "origin": "Netherlands",
+    "image": "",
+    "description": "Dutch classic aged to develop deep caramel flavors",
+    "price": "$$",
+    "about": "Gouda is named after the city in the Netherlands where it was traditionally traded. While young Gouda is mild and creamy, aged Gouda (1-5+ years) develops intense caramel, butterscotch flavors and a hard, crystalline texture.",
+    "flavorProfile": {
+      "intensity": 65,
+      "texture": 88
+    },
+    "specifications": {
+      "milkType": "Cow's Milk",
+      "rind": "Waxed",
+      "aging": "1-5+ years",
+      "region": "South Holland"
+    },
+    "tastingNotes": "Deep butterscotch and caramel flavors, hints of whiskey and toffee, hard crystalline texture with concentrated richness",
+    "pairings": ["Belgian ale", "Dark bread", "Mustard", "Dried fruits", "Aged balsamic"],
+    "history": "Gouda has been traded at the Gouda market since 1395, making it one of the oldest recorded cheese markets still operating. The cheese accounts for 50-60% of world cheese production in terms of style.",
+    "servingRecommendation": "Serve in chunks as a table cheese with dark bread and mustard. The crystals are a sign of quality aging. Pairs excellently with Belgian ales or whiskey.",
+    "universalCoords": { "x": 65, "y": 88 }
+  },
+  {
+    "id": "cheese-feta",
+    "name": "Feta PDO",
+    "category": "cheese",
+    "subcategory": "Fresh",
+    "type": "Brined",
+    "origin": "Greece",
+    "image": "",
+    "description": "Greece's tangy brined cheese with protected status",
+    "price": "$$",
+    "about": "Authentic Feta PDO must be made in Greece from at least 70% sheep's milk and up to 30% goat's milk. The cheese is cured in brine for at least 2 months, developing its characteristic tangy, salty flavor and crumbly texture.",
+    "flavorProfile": {
+      "intensity": 55,
+      "texture": 35
+    },
+    "specifications": {
+      "milkType": "Sheep's/Goat's Milk",
+      "rind": "None (Brined)",
+      "aging": "2+ months in brine",
+      "region": "Greece"
+    },
+    "tastingNotes": "Tangy and salty with lemony brightness, rich sheep's milk character, creamy yet crumbly texture",
+    "pairings": ["Greek salad", "Watermelon", "Olive oil", "Ouzo", "Fresh herbs"],
+    "history": "Feta appears in Homer's Odyssey when Polyphemus the Cyclops makes cheese. The word 'feta' means 'slice' in Greek. It received PDO status in 2002 after a long legal battle.",
+    "servingRecommendation": "Essential in Greek salad with tomatoes, olives, and oregano. Also delicious drizzled with olive oil and herbs, baked in phyllo, or crumbled over watermelon.",
+    "universalCoords": { "x": 55, "y": 35 }
+  },
+  {
+    "id": "cheese-halloumi",
+    "name": "Halloumi",
+    "category": "cheese",
+    "subcategory": "Semi-soft",
+    "type": "Brined",
+    "origin": "Cyprus",
+    "image": "",
+    "description": "The unique grillable cheese from Cyprus",
+    "price": "$$",
+    "about": "Halloumi is a semi-hard, unripened, brined cheese made from a mixture of goat's and sheep's milk. Its high melting point makes it perfect for grilling or frying, where it develops a golden crust while remaining soft inside.",
+    "flavorProfile": {
+      "intensity": 40,
+      "texture": 55
+    },
+    "specifications": {
+      "milkType": "Goat's/Sheep's Milk",
+      "rind": "None (Brined)",
+      "aging": "Fresh or up to 1 year",
+      "region": "Cyprus"
+    },
+    "tastingNotes": "Mildly salty with fresh dairy flavor, squeaky texture when fresh, develops savory depth when grilled with crispy golden exterior",
+    "pairings": ["Watermelon", "Mint", "Lemon", "Grilled vegetables", "Rose wine"],
+    "history": "Halloumi has been made in Cyprus since the Medieval Byzantine period. It's traditionally made during the spring when sheep and goat milk production peaks. Protected as a traditional specialty.",
+    "servingRecommendation": "Best grilled or pan-fried until golden brown. Serve immediately with lemon juice and mint. Also delicious in salads or alongside grilled meats and vegetables.",
+    "universalCoords": { "x": 40, "y": 55 }
+  },
+  {
+    "id": "cheese-chevre",
+    "name": "Chevre Frais",
+    "category": "cheese",
+    "subcategory": "Fresh",
+    "type": "Fresh Goat",
+    "origin": "France",
+    "image": "",
+    "description": "Classic fresh French goat cheese",
+    "price": "$$",
+    "about": "Chevre simply means 'goat' in French, and chevre frais refers to fresh goat cheese. The Loire Valley is particularly famous for its goat cheeses. Fresh chevre is bright, tangy, and spreadable, with a clean, citrusy flavor.",
+    "flavorProfile": {
+      "intensity": 35,
+      "texture": 15
+    },
+    "specifications": {
+      "milkType": "Goat's Milk",
+      "rind": "None",
+      "aging": "Fresh (1-7 days)",
+      "region": "Loire Valley"
+    },
+    "tastingNotes": "Bright and tangy with lemony citrus notes, clean goat's milk character, smooth creamy texture that spreads easily",
+    "pairings": ["Sauvignon Blanc", "Honey", "Beets", "Walnuts", "Fresh herbs"],
+    "history": "Goat cheese has been made in France since the 8th century when Moors brought goats to the Loire Valley. The region now produces over 100 different goat cheeses.",
+    "servingRecommendation": "Spread on toast or crostini, crumble into salads, or roll in herbs and serve with honey. Excellent warm in tarts or on pizza.",
+    "universalCoords": { "x": 35, "y": 15 }
+  },
+  {
+    "id": "cheese-crottin-chavignol",
+    "name": "Crottin de Chavignol",
+    "category": "cheese",
+    "subcategory": "Soft-ripened",
+    "type": "Aged Goat",
+    "origin": "France",
+    "image": "",
+    "description": "Small aged goat cheese from the Loire Valley",
+    "price": "$$",
+    "about": "Crottin de Chavignol is a small, round goat cheese from the village of Chavignol in the Sancerre wine region. The name comes from the oil lamps the cheeses resemble. As it ages, it becomes harder and more pungent.",
+    "flavorProfile": {
+      "intensity": 60,
+      "texture": 50
+    },
+    "specifications": {
+      "milkType": "Goat's Milk",
+      "rind": "Natural Wrinkled",
+      "aging": "10 days-4 months",
+      "region": "Centre-Val de Loire"
+    },
+    "tastingNotes": "Young: fresh and milky. Aged: nutty and earthy with pronounced goat flavor, develops wrinkled rind and denser texture",
+    "pairings": ["Sancerre", "Green salads", "Walnuts", "Honey", "Crusty bread"],
+    "history": "Crottin has been made in Chavignol since the 16th century. It received AOC status in 1976. The cheese is traditionally enjoyed at different stages of aging.",
+    "servingRecommendation": "Excellent warm on salads (the classic 'salade de chevre chaud'), or served with Sancerre wine from the same region. Also delicious simply with bread and honey.",
+    "universalCoords": { "x": 60, "y": 50 }
+  },
+  {
+    "id": "cheese-pont-leveque",
+    "name": "Pont-l'Eveque",
+    "category": "cheese",
+    "subcategory": "Washed-rind",
+    "type": "Washed-rind",
+    "origin": "France",
+    "image": "",
+    "description": "One of Normandy's oldest and finest cheeses",
+    "price": "$$",
+    "about": "Pont-l'Eveque is one of the oldest Norman cheeses, possibly dating to the 12th century. This square, soft cheese has a washed rind that develops a golden-orange color. The interior is supple and aromatic with a complex, savory flavor.",
+    "flavorProfile": {
+      "intensity": 55,
+      "texture": 30
+    },
+    "specifications": {
+      "milkType": "Cow's Milk",
+      "rind": "Washed Orange",
+      "aging": "2-6 weeks",
+      "region": "Normandy"
+    },
+    "tastingNotes": "Earthy and meaty aromas, rich buttery paste with sweet and savory notes, smooth supple texture",
+    "pairings": ["Calvados", "Cider", "Apples", "Crusty bread", "Pinot Noir"],
+    "history": "Monks in the Pays d'Auge region were making this cheese by the 12th century. It's named after the market town where it was sold. One of the four great Norman cheeses along with Camembert, Livarot, and Neufchatel.",
+    "servingRecommendation": "Serve at room temperature with crusty bread and Calvados or Norman cider. The rind is edible and contributes to the flavor experience.",
+    "universalCoords": { "x": 55, "y": 30 }
+  },
+  {
+    "id": "cheese-reblochon",
+    "name": "Reblochon AOP",
+    "category": "cheese",
+    "subcategory": "Washed-rind",
+    "type": "Washed-rind",
+    "origin": "France",
+    "image": "",
+    "description": "Savoyard mountain cheese essential for tartiflette",
+    "price": "$$",
+    "about": "Reblochon is a soft, washed-rind cheese from the Haute-Savoie region. Its name comes from 'reblocher' meaning 'to pinch a cow's udder again' - farmers would hold back milk during inspection and make cheese from the richer second milking.",
+    "flavorProfile": {
+      "intensity": 45,
+      "texture": 25
+    },
+    "specifications": {
+      "milkType": "Raw Cow's Milk",
+      "rind": "Washed Orange-Pink",
+      "aging": "2-4 weeks",
+      "region": "Haute-Savoie"
+    },
+    "tastingNotes": "Mild, nutty, and slightly fruity with yeasty undertones, supple creamy texture, subtle earthy finish",
+    "pairings": ["Savoie wine", "Potatoes", "Bacon", "Onions", "Light red wine"],
+    "history": "Created in the 13th century by farmers in the Thones valley to avoid paying full tax on their milk. The 'second milking' was richer in cream. Essential ingredient in tartiflette, invented in the 1980s.",
+    "servingRecommendation": "Essential for making tartiflette (baked with potatoes, bacon, and onions). Also excellent on cheese boards at room temperature.",
+    "universalCoords": { "x": 45, "y": 25 }
+  },
+  {
+    "id": "cheese-morbier",
+    "name": "Morbier AOP",
+    "category": "cheese",
+    "subcategory": "Semi-soft",
+    "type": "Semi-soft",
+    "origin": "France",
+    "image": "",
+    "description": "Distinctive French cheese with its signature ash line",
+    "price": "$$",
+    "about": "Morbier is recognized by its distinctive horizontal line of vegetable ash running through the center. Originally, the ash was applied to protect the morning's curds until the evening milking was added on top. Now it's made in a single day but maintains the traditional appearance.",
+    "flavorProfile": {
+      "intensity": 45,
+      "texture": 40
+    },
+    "specifications": {
+      "milkType": "Raw Cow's Milk",
+      "rind": "Natural Brushed",
+      "aging": "2-3 months",
+      "region": "Franche-Comte"
+    },
+    "tastingNotes": "Fruity and grassy with hints of hazelnut, supple elastic texture, mild earthy undertones",
+    "pairings": ["Arbois wine", "Crusty bread", "Salads", "Charcuterie", "Vin Jaune"],
+    "history": "Created in the 19th century in the Morbier commune of the Jura mountains. Farmers would protect the morning curd with ash from the wood fires used to heat the milk. AOP protected since 2000.",
+    "servingRecommendation": "Slice to show the decorative ash line. Excellent on cheese boards, melted in gratins, or served with Jura wines. Best at room temperature.",
+    "universalCoords": { "x": 45, "y": 40 }
+  },
+  {
+    "id": "cheese-fontina-val-aosta",
+    "name": "Fontina Val d'Aosta DOP",
+    "category": "cheese",
+    "subcategory": "Semi-soft",
+    "type": "Semi-soft Alpine",
+    "origin": "Italy",
+    "image": "",
+    "description": "Premium Italian alpine cheese from the Aosta Valley",
+    "price": "$$$",
+    "about": "True Fontina DOP comes only from the Val d'Aosta region in the Italian Alps. Made from raw milk of Valdostana cows, it's aged in natural caves for at least 3 months. The cheese has excellent melting properties and complex, buttery flavor.",
+    "flavorProfile": {
+      "intensity": 50,
+      "texture": 45
+    },
+    "specifications": {
+      "milkType": "Raw Cow's Milk",
+      "rind": "Natural Brushed",
+      "aging": "3+ months",
+      "region": "Val d'Aosta"
+    },
+    "tastingNotes": "Buttery and nutty with hints of herbs and honey, supple texture that melts beautifully, earthy mushroom undertones",
+    "pairings": ["Nebbiolo", "Polenta", "Truffle", "Crusty bread", "Prosciutto"],
+    "history": "Fontina has been made in the Aosta Valley since at least the 12th century. The name may derive from the alpine pasture of Fontin or from the French verb 'fondre' (to melt). DOP protected since 1996.",
+    "servingRecommendation": "Essential for fonduta (Italian fondue), excellent in risotto and polenta. Also delicious on its own with bread and Nebbiolo wine.",
+    "universalCoords": { "x": 50, "y": 45 }
+  },
+  {
+    "id": "cheese-raclette",
+    "name": "Raclette du Valais",
+    "category": "cheese",
+    "subcategory": "Semi-hard",
+    "type": "Semi-hard Alpine",
+    "origin": "Switzerland",
+    "image": "",
+    "description": "The ultimate melting cheese from the Swiss Alps",
+    "price": "$$",
+    "about": "Raclette takes its name from the French 'racler' meaning 'to scrape.' Traditionally, a half wheel is heated by a fire and the melted portion scraped onto plates. This Swiss AOP cheese from the Valais region has been made for centuries by alpine herders.",
+    "flavorProfile": {
+      "intensity": 55,
+      "texture": 65
+    },
+    "specifications": {
+      "milkType": "Raw Cow's Milk",
+      "rind": "Washed",
+      "aging": "3-6 months",
+      "region": "Valais"
+    },
+    "tastingNotes": "Creamy and nutty with earthy, barnyard notes when melted, supple texture that becomes gloriously gooey when heated",
+    "pairings": ["Potatoes", "Cornichons", "Pickled onions", "Fendant wine", "Charcuterie"],
+    "history": "Swiss herders have been melting cheese by campfires for centuries. The dish became popular in the 1900s when raclette grills were invented. The Valais version received AOP protection in 2003.",
+    "servingRecommendation": "Best enjoyed melted using a raclette grill or under a broiler, scraped over boiled potatoes, cornichons, and pickled onions. Pair with Fendant wine.",
+    "universalCoords": { "x": 55, "y": 65 }
+  },
+  {
+    "id": "cheese-asiago-vecchio",
+    "name": "Asiago d'Allevo DOP",
+    "category": "cheese",
+    "subcategory": "Hard",
+    "type": "Hard Aged",
+    "origin": "Italy",
+    "image": "",
+    "description": "Aged Italian cheese from the Asiago plateau",
+    "price": "$$",
+    "about": "Asiago d'Allevo is the aged version of Asiago, made from partially skimmed cow's milk. As it ages from 'mezzano' (4-6 months) to 'vecchio' (10+ months) to 'stravecchio' (15+ months), it develops increasingly complex flavors and harder texture.",
+    "flavorProfile": {
+      "intensity": 65,
+      "texture": 80
+    },
+    "specifications": {
+      "milkType": "Cow's Milk",
+      "rind": "Natural",
+      "aging": "10-15+ months",
+      "region": "Veneto/Trentino"
+    },
+    "tastingNotes": "Sharp and tangy with intense nutty and fruity notes, firm granular texture with protein crystals, long savory finish",
+    "pairings": ["Amarone", "Polenta", "Pears", "Honey", "Walnuts"],
+    "history": "Asiago has been produced on the Asiago plateau since the year 1000. Originally made from sheep's milk, it transitioned to cow's milk in the 16th century. DOP protected for both fresh and aged versions.",
+    "servingRecommendation": "Excellent grated over pasta and risotto, or in chunks on cheese boards. The aged version pairs well with full-bodied red wines like Amarone.",
+    "universalCoords": { "x": 65, "y": 80 }
+  },
+  {
+    "id": "cheese-emmental",
+    "name": "Emmentaler AOP",
+    "category": "cheese",
+    "subcategory": "Hard",
+    "type": "Hard Alpine",
+    "origin": "Switzerland",
+    "image": "",
+    "description": "The original Swiss cheese with distinctive large holes",
+    "price": "$$",
+    "about": "Emmentaler is the original 'Swiss cheese,' named after the Emme valley. Its characteristic large holes (called 'eyes') are formed by bacteria that release carbon dioxide during aging. Each wheel weighs about 80-100 kg and requires 1,200 liters of milk.",
+    "flavorProfile": {
+      "intensity": 45,
+      "texture": 70
+    },
+    "specifications": {
+      "milkType": "Raw Cow's Milk",
+      "rind": "Natural Hard",
+      "aging": "4-14+ months",
+      "region": "Emmental"
+    },
+    "tastingNotes": "Mild and nutty with sweet fruity notes, smooth supple texture with large holes, buttery finish",
+    "pairings": ["White wine", "Crusty bread", "Ham", "Apples", "Mustard"],
+    "history": "Emmentaler has been produced since the 13th century. The large wheels were ideal for trade over alpine passes. Switzerland now produces about 75,000 tons annually.",
+    "servingRecommendation": "Essential for fondue (mixed with Gruyere), excellent for sandwiches and melting. Also delicious on its own with bread and wine.",
+    "universalCoords": { "x": 45, "y": 70 }
+  },
+  {
+    "id": "cheese-munster",
+    "name": "Munster AOP",
+    "category": "cheese",
+    "subcategory": "Washed-rind",
+    "type": "Washed-rind",
+    "origin": "France",
+    "image": "",
+    "description": "Pungent Alsatian cheese with a powerful aroma",
+    "price": "$$",
+    "about": "Munster is a soft, washed-rind cheese from the Vosges mountains in Alsace. Despite its powerful, barnyard aroma, the flavor is relatively mild and savory. The orange rind is developed by washing with brine during the aging process.",
+    "flavorProfile": {
+      "intensity": 70,
+      "texture": 20
+    },
+    "specifications": {
+      "milkType": "Cow's Milk",
+      "rind": "Washed Orange",
+      "aging": "3-8 weeks",
+      "region": "Alsace/Lorraine"
+    },
+    "tastingNotes": "Strong barnyard and ammonia aroma, but flavor is relatively mild with meaty, savory notes, soft creamy texture",
+    "pairings": ["Gewurztraminer", "Boiled potatoes", "Cumin seeds", "Rye bread", "Alsatian wine"],
+    "history": "Munster was created by Benedictine monks in the 7th century in the Vosges mountains. The name comes from the Latin 'monasterium.' It's traditionally served with cumin seeds.",
+    "servingRecommendation": "Traditionally served with boiled potatoes and cumin seeds. Pair with aromatic Alsatian Gewurztraminer. Remove rind if the aroma is too strong.",
+    "universalCoords": { "x": 70, "y": 20 }
+  },
+  {
+    "id": "cheese-cabrales",
+    "name": "Cabrales DOP",
+    "category": "cheese",
+    "subcategory": "Blue",
+    "type": "Blue",
+    "origin": "Spain",
+    "image": "",
+    "description": "Bold Spanish blue cheese aged in mountain caves",
+    "price": "$$",
+    "about": "Cabrales is a powerful blue cheese from the Picos de Europa mountains in Asturias. Made from raw cow's milk (or mixed with goat and sheep), it's aged in natural limestone caves where the blue mold develops naturally from the cave environment.",
+    "flavorProfile": {
+      "intensity": 90,
+      "texture": 40
+    },
+    "specifications": {
+      "milkType": "Cow's Milk (or mixed)",
+      "rind": "Natural",
+      "aging": "2-6 months in caves",
+      "region": "Asturias"
+    },
+    "tastingNotes": "Intensely sharp, spicy, and salty with powerful blue mold character, creamy yet crumbly texture, long pungent finish",
+    "pairings": ["Asturian cider", "Orujo", "Apples", "Honey", "Walnuts"],
+    "history": "Cabrales has been made by shepherd families in the Picos de Europa for centuries. The natural caves at 1,000+ meters altitude provide ideal conditions for the blue mold. DOP protected since 1981.",
+    "servingRecommendation": "Best in small quantities due to intensity. Crumble over steak, serve with honey and walnuts, or pair with sweet Asturian cider. An acquired taste for the bold.",
+    "universalCoords": { "x": 90, "y": 40 }
+  },
+  {
+    "id": "cheese-valdeon",
+    "name": "Valdeon",
+    "category": "cheese",
+    "subcategory": "Blue",
+    "type": "Blue",
+    "origin": "Spain",
+    "image": "",
+    "description": "Leaf-wrapped Spanish blue from the Picos de Europa",
+    "price": "$$",
+    "about": "Valdeon is a creamy blue cheese from Leon province, wrapped in sycamore or chestnut leaves. Made from cow's and goat's milk, it's milder and creamier than nearby Cabrales. The leaf wrapping adds subtle earthy notes to the cheese.",
+    "flavorProfile": {
+      "intensity": 65,
+      "texture": 35
+    },
+    "specifications": {
+      "milkType": "Cow's and Goat's Milk",
+      "rind": "Leaf-wrapped",
+      "aging": "2-3 months",
+      "region": "Castilla y Leon"
+    },
+    "tastingNotes": "Creamy and tangy with moderate blue intensity, spicy and slightly sweet notes, buttery texture with blue veining",
+    "pairings": ["Sherry", "Pears", "Walnuts", "Crusty bread", "Membrillo"],
+    "history": "A more recent creation than Cabrales, Valdeon was developed in the 20th century as a creamier alternative. The distinctive leaf wrapping is both traditional and practical.",
+    "servingRecommendation": "More approachable than Cabrales, excellent for those new to Spanish blues. Serve with membrillo and sherry, or crumble into salads.",
+    "universalCoords": { "x": 65, "y": 35 }
+  },
+  {
+    "id": "cheese-idiazabal",
+    "name": "Idiazabal DOP",
+    "category": "cheese",
+    "subcategory": "Hard",
+    "type": "Hard Smoked",
+    "origin": "Spain",
+    "image": "",
+    "description": "Smoky Basque sheep's milk cheese",
+    "price": "$$",
+    "about": "Idiazabal is a pressed, lightly smoked cheese made from raw Latxa sheep's milk in the Basque Country and Navarra. The smoking is done over cherry or beech wood, giving the cheese its distinctive golden-brown rind and subtle smoky flavor.",
+    "flavorProfile": {
+      "intensity": 60,
+      "texture": 75
+    },
+    "specifications": {
+      "milkType": "Raw Sheep's Milk",
+      "rind": "Natural Smoked",
+      "aging": "2-12+ months",
+      "region": "Basque Country/Navarra"
+    },
+    "tastingNotes": "Nutty and buttery with subtle smoke, pronounced sheep's milk tang, firm compact texture that becomes harder with age",
+    "pairings": ["Txakoli wine", "Membrillo", "Walnuts", "Chorizo", "Cider"],
+    "history": "Basque shepherds have made this cheese for thousands of years. Smoking was originally a preservation technique as cheese was stored in chimneys. DOP protected since 1987.",
+    "servingRecommendation": "Excellent with local txakoli wine and membrillo. Can be served at any age - younger versions are milder, aged versions more intense.",
+    "universalCoords": { "x": 60, "y": 75 }
+  },
+  {
+    "id": "cheese-ossau-iraty",
+    "name": "Ossau-Iraty AOP",
+    "category": "cheese",
+    "subcategory": "Semi-hard",
+    "type": "Semi-hard Sheep",
+    "origin": "France",
+    "image": "",
+    "description": "Basque sheep's milk cheese from the Pyrenees",
+    "price": "$$",
+    "about": "Ossau-Iraty is a traditional Basque cheese made from raw sheep's milk in the French Pyrenees. Named after the Ossau valley and Iraty forest, it's been made by shepherds for thousands of years using time-honored techniques.",
+    "flavorProfile": {
+      "intensity": 55,
+      "texture": 65
+    },
+    "specifications": {
+      "milkType": "Raw Sheep's Milk",
+      "rind": "Natural Brushed",
+      "aging": "3-12+ months",
+      "region": "Basque Country"
+    },
+    "tastingNotes": "Sweet and nutty with hints of brown butter and grass, firm supple texture, long finish with lanolin notes",
+    "pairings": ["Cherry jam", "Walnuts", "Jurancon wine", "Crusty bread", "Honey"],
+    "history": "Sheep have grazed the Basque Pyrenees for 5,000 years. The cheese tradition dates back nearly as far. It's one of only three French sheep's milk cheeses with AOP status.",
+    "servingRecommendation": "Traditionally paired with black cherry jam (the famous Basque combination). Also excellent with Jurancon wine, walnuts, and good bread.",
+    "universalCoords": { "x": 55, "y": 65 }
+  },
+  {
+    "id": "cheese-tetilla",
+    "name": "Queso Tetilla DOP",
+    "category": "cheese",
+    "subcategory": "Semi-soft",
+    "type": "Semi-soft",
+    "origin": "Spain",
+    "image": "",
+    "description": "Galician cheese with distinctive cone shape",
+    "price": "$",
+    "about": "Tetilla is a creamy cow's milk cheese from Galicia, recognizable by its distinctive cone or breast shape (tetilla means 'small breast' in Spanish). The cheese has a thin, straw-colored rind and soft, supple interior.",
+    "flavorProfile": {
+      "intensity": 30,
+      "texture": 30
+    },
+    "specifications": {
+      "milkType": "Cow's Milk",
+      "rind": "Natural Thin",
+      "aging": "1-2 weeks",
+      "region": "Galicia"
+    },
+    "tastingNotes": "Mild, buttery, and slightly tangy with fresh dairy notes, soft creamy texture, clean finish",
+    "pairings": ["Albarino wine", "Membrillo", "Crusty bread", "Honey", "Galician empanada"],
+    "history": "Tetilla has been made in Galicia for centuries. Its unique shape may have originated from molds made from pumpkins or from the shape of butter molds used in the region.",
+    "servingRecommendation": "Serve at room temperature with Albarino wine and membrillo. Also delicious with honey or as part of a Galician meal with seafood.",
+    "universalCoords": { "x": 30, "y": 30 }
+  },
+  {
+    "id": "cheese-beaufort",
+    "name": "Beaufort AOP",
+    "category": "cheese",
+    "subcategory": "Hard",
+    "type": "Hard Alpine",
+    "origin": "France",
+    "image": "",
+    "description": "The 'Prince of Gruyeres' from the French Alps",
+    "price": "$$$",
+    "about": "Beaufort is a firm, dense alpine cheese from the Savoie region, often called the 'Prince of Gruyeres.' Made from raw milk of Tarine and Abondance cows, each wheel weighs 40-75 kg. The concave sides are a result of the unique cheese press used.",
+    "flavorProfile": {
+      "intensity": 60,
+      "texture": 82
+    },
+    "specifications": {
+      "milkType": "Raw Cow's Milk",
+      "rind": "Natural Brushed",
+      "aging": "5-18+ months",
+      "region": "Savoie"
+    },
+    "tastingNotes": "Rich and buttery with fruity and floral notes, hints of honey and hazelnuts, smooth dense texture",
+    "pairings": ["White Burgundy", "Vin Jaune", "Crusty bread", "Charcuterie", "Dried fruits"],
+    "history": "Beaufort has been made in the Beaufortain mountains since Roman times. The cooperative system dates to the 14th century. Summer 'alpage' cheese from mountain pastures is the most prized.",
+    "servingRecommendation": "Excellent for fondue (the Savoyard way), gratins, and eating plain. Look for 'ete' (summer) or 'alpage' for the most complex flavors.",
+    "universalCoords": { "x": 60, "y": 82 }
+  },
+  {
+    "id": "cheese-langres",
+    "name": "Langres AOP",
+    "category": "cheese",
+    "subcategory": "Washed-rind",
+    "type": "Washed-rind",
+    "origin": "France",
+    "image": "",
+    "description": "Champagne-washed cheese with a distinctive crater",
+    "price": "$$",
+    "about": "Langres is a soft, washed-rind cheese from the Champagne region, recognizable by the concave depression (fontaine) on top. Traditionally, Champagne or Marc de Bourgogne is poured into this well before serving, infusing the cheese with additional flavor.",
+    "flavorProfile": {
+      "intensity": 60,
+      "texture": 25
+    },
+    "specifications": {
+      "milkType": "Cow's Milk",
+      "rind": "Washed Orange",
+      "aging": "3-6 weeks",
+      "region": "Champagne"
+    },
+    "tastingNotes": "Complex and slightly smoky with barnyard notes, rich creamy paste, enhanced by the addition of Champagne or brandy",
+    "pairings": ["Champagne", "Marc de Bourgogne", "Crusty bread", "Walnuts", "Fresh fruit"],
+    "history": "Langres has been made in the plateau of Langres since the 18th century. The distinctive well was designed to hold Champagne. Nearly disappeared after WWII but has been revived.",
+    "servingRecommendation": "Pour a small amount of Champagne or Marc de Bourgogne into the well before serving. Let it soak in for the full experience. Best at room temperature.",
+    "universalCoords": { "x": 60, "y": 25 }
+  },
+  {
+    "id": "cheese-saint-nectaire",
+    "name": "Saint-Nectaire AOP",
+    "category": "cheese",
+    "subcategory": "Semi-soft",
+    "type": "Semi-soft",
+    "origin": "France",
+    "image": "",
+    "description": "Rustic Auvergne cheese with a wild rind",
+    "price": "$$",
+    "about": "Saint-Nectaire is a semi-soft cheese from the volcanic Auvergne region, known for its gray, mottled rind covered in red and yellow molds. The cheese is pressed and aged on rye straw mats, which contribute to its distinctive earthy character.",
+    "flavorProfile": {
+      "intensity": 50,
+      "texture": 35
+    },
+    "specifications": {
+      "milkType": "Raw Cow's Milk",
+      "rind": "Natural Molded",
+      "aging": "4-8 weeks",
+      "region": "Auvergne"
+    },
+    "tastingNotes": "Earthy and mushroomy with nutty, grassy notes, supple creamy texture, subtle tang from the volcanic terroir",
+    "pairings": ["Cotes d'Auvergne", "Walnuts", "Crusty bread", "Light red wine", "Fresh grapes"],
+    "history": "Saint-Nectaire was allegedly a favorite of Louis XIV after being introduced to the court in the 17th century. Named after Marshal de Senneterre (later corrupted to Saint-Nectaire).",
+    "servingRecommendation": "The rind is edible and contributes to the flavor. Serve at room temperature with rustic bread and local Auvergne wine.",
+    "universalCoords": { "x": 50, "y": 35 }
+  },
+  {
+    "id": "cheese-cantal",
+    "name": "Cantal AOP",
+    "category": "cheese",
+    "subcategory": "Semi-hard",
+    "type": "Semi-hard",
+    "origin": "France",
+    "image": "",
+    "description": "Ancient French cheese that inspired Cheddar",
+    "price": "$$",
+    "about": "Cantal is one of France's oldest cheeses, possibly dating to Gallic times. Made in the Auvergne mountains, it's aged in three stages: jeune (1-2 months), entre-deux (2-6 months), and vieux (6+ months). The technique is similar to cheddaring.",
+    "flavorProfile": {
+      "intensity": 55,
+      "texture": 70
+    },
+    "specifications": {
+      "milkType": "Cow's Milk",
+      "rind": "Natural Gray",
+      "aging": "1-12+ months",
+      "region": "Auvergne"
+    },
+    "tastingNotes": "Buttery and tangy when young, develops stronger, more complex flavors with age, firm but supple texture",
+    "pairings": ["Saint-Pourçain wine", "Apples", "Walnuts", "Country bread", "Charcuterie"],
+    "history": "Pliny the Elder mentioned a cheese from the Cantal mountains in 1 AD. Some historians believe English travelers learned cheese-making techniques here that evolved into Cheddar.",
+    "servingRecommendation": "Versatile eating cheese at any age. Melts well for gratins and aligot (with mashed potatoes). Pair with wines from the Auvergne.",
+    "universalCoords": { "x": 55, "y": 70 }
+  },
+  {
+    "id": "cheese-appenzeller",
+    "name": "Appenzeller",
+    "category": "cheese",
+    "subcategory": "Semi-hard",
+    "type": "Semi-hard",
+    "origin": "Switzerland",
+    "image": "",
+    "description": "Swiss cheese with a secret herbal brine wash",
+    "price": "$$",
+    "about": "Appenzeller is a traditional Swiss cheese washed with a secret herbal brine containing wine, spices, and herbs - a recipe known only to a few people. The washing gives the cheese its distinctive flavor and golden-brown rind.",
+    "flavorProfile": {
+      "intensity": 60,
+      "texture": 68
+    },
+    "specifications": {
+      "milkType": "Raw Cow's Milk",
+      "rind": "Washed Herbal",
+      "aging": "3-6 months",
+      "region": "Appenzell"
+    },
+    "tastingNotes": "Tangy and fruity with herbal and spicy notes from the secret brine, firm supple texture, lingering finish",
+    "pairings": ["Riesling", "Crusty bread", "Potatoes", "Mustard", "Apple slices"],
+    "history": "Appenzeller has been made in the Appenzell region for over 700 years. The secret brine recipe has been guarded for centuries and is still known only to a select few.",
+    "servingRecommendation": "Excellent for fondue, gratins, or simply with bread. The herbal wash gives it a unique character among Swiss cheeses.",
+    "universalCoords": { "x": 60, "y": 68 }
+  },
+  {
+    "id": "cheese-cabecou",
+    "name": "Cabecou du Perigord",
+    "category": "cheese",
+    "subcategory": "Fresh",
+    "type": "Fresh Goat",
+    "origin": "France",
+    "image": "",
+    "description": "Tiny goat cheeses from the Dordogne region",
+    "price": "$",
+    "about": "Cabecou means 'little goat' in the Occitan language. These small, round goat cheeses from the Perigord region weigh just 35-40 grams. They can be eaten fresh and mild or aged until firm and tangy.",
+    "flavorProfile": {
+      "intensity": 40,
+      "texture": 25
+    },
+    "specifications": {
+      "milkType": "Goat's Milk",
+      "rind": "Bloomy or Natural",
+      "aging": "1-4 weeks",
+      "region": "Perigord"
+    },
+    "tastingNotes": "Fresh: mild and creamy. Aged: tangy and intense with earthy notes, develops wrinkled rind",
+    "pairings": ["Bergerac wine", "Walnuts", "Salad greens", "Honey", "Walnut oil"],
+    "history": "Small goat cheeses have been made in the Perigord for centuries. The area's limestone caves and mild climate are ideal for goat husbandry.",
+    "servingRecommendation": "Warm on salads, wrapped in grape leaves and grilled, or served fresh with honey and walnuts. Often drizzled with local walnut oil.",
+    "universalCoords": { "x": 40, "y": 25 }
+  },
+  {
+    "id": "cheese-torta-del-casar",
+    "name": "Torta del Casar DOP",
+    "category": "cheese",
+    "subcategory": "Soft-ripened",
+    "type": "Soft-ripened",
+    "origin": "Spain",
+    "image": "",
+    "description": "Luxuriously runny sheep's milk cheese from Extremadura",
+    "price": "$$$",
+    "about": "Torta del Casar is a unique sheep's milk cheese from Extremadura, made with thistle rennet which gives it an intensely creamy, almost liquid interior. The top is cut off like a lid and the interior scooped out with bread.",
+    "flavorProfile": {
+      "intensity": 75,
+      "texture": 10
+    },
+    "specifications": {
+      "milkType": "Raw Sheep's Milk",
+      "rind": "Semi-hard Natural",
+      "aging": "2-4 months",
+      "region": "Extremadura"
+    },
+    "tastingNotes": "Intense and complex with bitter vegetal notes from thistle rennet, unctuous flowing interior, long pungent finish",
+    "pairings": ["Ribera del Guadiana wine", "Crusty bread", "Honey", "Figs", "Walnuts"],
+    "history": "Made by shepherds in Extremadura for centuries using Merino sheep's milk and wild cardoon thistle as rennet. The bitter, vegetal flavor is prized and unique to thistle-rennet cheeses.",
+    "servingRecommendation": "Cut off the top and use as a lid. Dip bread directly into the flowing interior. Serve at room temperature for maximum runniness.",
+    "universalCoords": { "x": 75, "y": 10 }
+  },
+  {
+    "id": "cheese-vacherin-mont-dor",
+    "name": "Vacherin Mont d'Or AOP",
+    "category": "cheese",
+    "subcategory": "Soft-ripened",
+    "type": "Soft-ripened",
+    "origin": "Switzerland",
+    "image": "",
+    "description": "Seasonal washed-rind cheese bound in spruce bark",
+    "price": "$$$",
+    "about": "Vacherin Mont d'Or is a seasonal cheese made only from August 15 to March 31. The cheese is bound with a strip of spruce bark and aged in spruce boxes, which impart a distinctive resinous aroma. When ripe, the interior is spoonable.",
+    "flavorProfile": {
+      "intensity": 55,
+      "texture": 12
+    },
+    "specifications": {
+      "milkType": "Raw Cow's Milk",
+      "rind": "Washed",
+      "aging": "3-4 weeks",
+      "region": "Vaud"
+    },
+    "tastingNotes": "Woodsy and resinous with mushroom and bacon notes, lusciously creamy spoonable texture, subtle sweetness",
+    "pairings": ["White wine", "Boiled potatoes", "Crusty bread", "Charcuterie", "Jura wine"],
+    "history": "Traditionally made when cows descend from alpine pastures and milk production decreases. The spruce binding was originally for transport. Both France and Switzerland make versions.",
+    "servingRecommendation": "Bake whole in the oven with white wine and garlic until bubbly (fondue-style). Alternatively, serve at room temperature, scooping the creamy interior with bread.",
+    "universalCoords": { "x": 55, "y": 12 }
+  },
+  {
+    "id": "cheese-maroilles",
+    "name": "Maroilles AOP",
+    "category": "cheese",
+    "subcategory": "Washed-rind",
+    "type": "Washed-rind",
+    "origin": "France",
+    "image": "",
+    "description": "Northern France's famous 'stinky' cheese",
+    "price": "$$",
+    "about": "Maroilles is a pungent washed-rind cheese from the Thiérache region near the Belgian border. The cheese has a distinctive brick shape and powerful aroma, though the flavor is more subtle. It's a key ingredient in many regional dishes.",
+    "flavorProfile": {
+      "intensity": 75,
+      "texture": 30
+    },
+    "specifications": {
+      "milkType": "Cow's Milk",
+      "rind": "Washed Orange",
+      "aging": "2-4 months",
+      "region": "Thiérache"
+    },
+    "tastingNotes": "Powerful farmyard aroma, but relatively mild, savory flavor, soft supple texture, slightly sweet finish",
+    "pairings": ["Belgian beer", "Crusty bread", "Potatoes", "Leeks", "Champagne"],
+    "history": "Created by monks at Maroilles Abbey around 960 AD. It's been called the 'finest cheese of the north.' Nearly extinct after WWII, it was revived by dedicated producers.",
+    "servingRecommendation": "Essential in Flamiche (a leek and Maroilles tart) and gratins. Pair with strong Belgian beer. The aroma is stronger than the taste.",
+    "universalCoords": { "x": 75, "y": 30 }
+  },
+  {
+    "id": "cheese-tomme-de-savoie",
+    "name": "Tomme de Savoie IGP",
+    "category": "cheese",
+    "subcategory": "Semi-hard",
+    "type": "Semi-hard",
+    "origin": "France",
+    "image": "",
+    "description": "Rustic mountain cheese from the French Alps",
+    "price": "$",
+    "about": "Tomme de Savoie is a mild, semi-firm cheese made from skimmed milk in the Savoie mountains. After the cream is removed for butter, the remaining milk is used for this economical farmer's cheese with a distinctive gray, rustic rind.",
+    "flavorProfile": {
+      "intensity": 35,
+      "texture": 55
+    },
+    "specifications": {
+      "milkType": "Skimmed Cow's Milk",
+      "rind": "Natural Gray",
+      "aging": "2-4 months",
+      "region": "Savoie"
+    },
+    "tastingNotes": "Mild and nutty with earthy, grassy notes, firm yet supple texture, subtle mushroom undertones",
+    "pairings": ["Savoie wine", "Crusty bread", "Apples", "Walnuts", "Light beer"],
+    "history": "Tomme is a general term for small-format cheeses. Savoie farmers have made these economical cheeses from skimmed milk for centuries, saving the cream for butter.",
+    "servingRecommendation": "A great everyday table cheese. Excellent with bread and fruit, in sandwiches, or melted over potatoes. The rind is edible but can be strong.",
+    "universalCoords": { "x": 35, "y": 55 }
+  },
+  {
+    "id": "cheese-provolone-valpadana",
+    "name": "Provolone Valpadana DOP",
+    "category": "cheese",
+    "subcategory": "Semi-hard",
+    "type": "Stretched Curd",
+    "origin": "Italy",
+    "image": "",
+    "description": "Italian stretched-curd cheese in dolce and piccante styles",
+    "price": "$$",
+    "about": "Provolone Valpadana is made using the pasta filata (stretched curd) technique in the Po Valley. It comes in two styles: dolce (sweet, aged 2-3 months) and piccante (sharp, aged 4+ months with different rennet). The cheese is hung to age.",
+    "flavorProfile": {
+      "intensity": 50,
+      "texture": 60
+    },
+    "specifications": {
+      "milkType": "Cow's Milk",
+      "rind": "Natural Waxed",
+      "aging": "2-12+ months",
+      "region": "Po Valley"
+    },
+    "tastingNotes": "Dolce: mild, buttery, and slightly sweet. Piccante: sharp, tangy, and spicy. Both have distinctive smooth, sliceable texture",
+    "pairings": ["Chianti", "Crusty bread", "Olives", "Charcuterie", "Barbera"],
+    "history": "Southern Italian cheesemakers brought pasta filata techniques north in the 19th century. The Po Valley's rich milk created a distinctive cheese. DOP protected since 1996.",
+    "servingRecommendation": "Dolce is excellent for sandwiches and melting. Piccante is better for grating and cheese boards. Both pair well with Italian red wines.",
+    "universalCoords": { "x": 50, "y": 60 }
+  }
+]

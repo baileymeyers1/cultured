@@ -1,0 +1,4525 @@
+[
+  {
+    "id": "wine-001",
+    "name": "Château Margaux",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Margaux, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "First Growth (Premier Grand Cru Classé) producing elegant, refined wines with silky texture and perfumed aromatics.",
+    "description": "First Growth (Premier Grand Cru Classé) producing elegant, refined wines with silky texture and perfumed aromatics.",
+    "flavorProfile": {
+      "body": 68,
+      "sweetness": 6
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "12.5-14%",
+      "agingPotential": "20-50+ years"
+    },
+    "tastingNotes": "Violets, blackcurrant, cedar, graphite, tobacco, subtle oak spice, refined tannins with extraordinary length",
+    "pairings": [
+      "Rack of lamb with herb crust",
+      "beef Wellington",
+      "aged Comté cheese",
+      "roasted duck breast"
+    ],
+    "history": "Established 12th century, classified First Growth 1855. Mentzelopoulos family ownership since 1977 restored legendary status.",
+    "servingRecommendation": "Decant 2-4 hours for young vintages. Serve at 16-18°C in large Bordeaux glasses.",
+    "universalCoords": {
+      "x": 68,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-002",
+    "name": "Château Lafite Rothschild",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Pauillac, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "First Growth renowned for elegance, finesse, and longevity. Cabernet Sauvignon dominant with exceptional aging potential.",
+    "description": "First Growth renowned for elegance, finesse, and longevity. Cabernet Sauvignon dominant with exceptional aging potential.",
+    "flavorProfile": {
+      "body": 65,
+      "sweetness": 5
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "12.5-13.5%",
+      "agingPotential": "25-60+ years"
+    },
+    "tastingNotes": "Pencil shavings, lead, cassis, violets, cedar, cigar box, truffle notes with age",
+    "pairings": [
+      "Roasted lamb shoulder",
+      "beef tournedos Rossini",
+      "aged hard cheeses",
+      "foie gras"
+    ],
+    "history": "Rothschild family ownership since 1868. One of the most collected wines globally.",
+    "servingRecommendation": "Decant 3-5 hours for young vintages. Serve at 17-18°C. Allow 15+ years aging.",
+    "universalCoords": {
+      "x": 65,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-003",
+    "name": "Château Latour",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Pauillac, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "First Growth known for powerful, structured wines with remarkable consistency. The most masculine First Growth.",
+    "description": "First Growth known for powerful, structured wines with remarkable consistency. The most masculine First Growth.",
+    "flavorProfile": {
+      "body": 82,
+      "sweetness": 4
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "13-14%",
+      "agingPotential": "30-75+ years"
+    },
+    "tastingNotes": "Blackcurrant, walnut, leather, tobacco, earth, mineral, cedar, powerful refined tannins",
+    "pairings": [
+      "Côte de boeuf",
+      "braised short ribs",
+      "aged Gruyère",
+      "wild boar",
+      "venison"
+    ],
+    "history": "Iconic tower dates to 14th century. Exceptional quality even in challenging vintages.",
+    "servingRecommendation": "Decant 4-6 hours minimum. Serve at 17-18°C. Best after 20+ years.",
+    "universalCoords": {
+      "x": 82,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-004",
+    "name": "Château Mouton Rothschild",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Pauillac, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "First Growth elevated from Second Growth in 1973. Famous for artist-designed labels and opulent style.",
+    "description": "First Growth elevated from Second Growth in 1973. Famous for artist-designed labels and opulent style.",
+    "flavorProfile": {
+      "body": 78,
+      "sweetness": 6
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "13-14%",
+      "agingPotential": "20-50+ years"
+    },
+    "tastingNotes": "Blackcurrant, cassis, mint, coffee, cedar, spice box, mocha, rich voluptuous palate",
+    "pairings": [
+      "Roasted rack of lamb",
+      "filet mignon",
+      "strong aged cheeses",
+      "roasted game birds"
+    ],
+    "history": "Baron Philippe de Rothschild's vision. Since 1945, each vintage features original artwork by Picasso, Chagall, Warhol, etc.",
+    "servingRecommendation": "Decant 2-4 hours. Serve at 17-18°C. More approachable young than other First Growths.",
+    "universalCoords": {
+      "x": 78,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-005",
+    "name": "Château Haut-Brion",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Pessac-Léognan, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "First Growth and only estate outside Médoc classified in 1855. Distinctive earthy, smoky Graves character.",
+    "description": "First Growth and only estate outside Médoc classified in 1855. Distinctive earthy, smoky Graves character.",
+    "flavorProfile": {
+      "body": 72,
+      "sweetness": 7
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "Medium",
+      "acidity": "Medium-High",
+      "alcohol": "13-14%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Smoke, tobacco, minerals, dark fruits, leather, truffle, subtle earthiness, silk-like texture",
+    "pairings": [
+      "Grilled pigeon",
+      "roasted duck",
+      "mushroom risotto",
+      "aged Ossau-Iraty cheese"
+    ],
+    "history": "Oldest First Growth, established 1533. Samuel Pepys recorded drinking 'Ho Bryan' in 1663. Dillon family since 1935.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 16-18°C. More accessible young than Médoc First Growths.",
+    "universalCoords": {
+      "x": 72,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-006",
+    "name": "Château Cheval Blanc",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Saint-Émilion, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Premier Grand Cru Classé A with unique Cabernet Franc-dominant blend. Known for exotic aromatics and lush texture.",
+    "description": "Premier Grand Cru Classé A with unique Cabernet Franc-dominant blend. Known for exotic aromatics and lush texture.",
+    "flavorProfile": {
+      "body": 70,
+      "sweetness": 8
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "Medium",
+      "acidity": "Medium",
+      "alcohol": "13-14%",
+      "agingPotential": "20-50+ years"
+    },
+    "tastingNotes": "Violets, mulberry, exotic spices, coffee, chocolate, silky tannins, remarkable freshness",
+    "pairings": [
+      "Beef tenderloin",
+      "lamb loin",
+      "duck confit",
+      "mature Époisses cheese"
+    ],
+    "history": "The 1947 is considered one of the greatest wines ever made. Unique gravel terroir.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 16-18°C. More approachable than Left Bank in youth.",
+    "universalCoords": {
+      "x": 70,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-007",
+    "name": "Château Pétrus",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Merlot",
+    "origin": "Pomerol, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The most famous Merlot-based wine. Tiny production from unique blue clay terroir creates extraordinary wines.",
+    "description": "The most famous Merlot-based wine. Tiny production from unique blue clay terroir creates extraordinary wines.",
+    "flavorProfile": {
+      "body": 80,
+      "sweetness": 12
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "13.5-14.5%",
+      "agingPotential": "20-50+ years"
+    },
+    "tastingNotes": "Truffle, plum, chocolate, mulberry, iron, exotic spices, velvet texture, incredible concentration",
+    "pairings": [
+      "Truffle dishes",
+      "braised beef cheek",
+      "foie gras",
+      "rich game preparations"
+    ],
+    "history": "Rose to prominence under Jean-Pierre Moueix from 1945. Only 25,000-30,000 bottles annually. No official classification but First Growth prices.",
+    "servingRecommendation": "Decant 2-4 hours. Serve at 17-18°C. Best after 15-20 years cellaring.",
+    "universalCoords": {
+      "x": 80,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-008",
+    "name": "Château Ausone",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Saint-Émilion, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Premier Grand Cru Classé A named for Roman poet Ausonius. Dramatic limestone terroir creates ethereal wines.",
+    "description": "Premier Grand Cru Classé A named for Roman poet Ausonius. Dramatic limestone terroir creates ethereal wines.",
+    "flavorProfile": {
+      "body": 73,
+      "sweetness": 5
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium-High",
+      "alcohol": "13.5-14%",
+      "agingPotential": "25-50+ years"
+    },
+    "tastingNotes": "Mineral, violet, dark fruits, spice, ethereal finesse, extraordinary complexity",
+    "pairings": [
+      "Lamb",
+      "veal",
+      "refined game preparations",
+      "truffles"
+    ],
+    "history": "Named for 4th-century poet. Vauthier family ownership. The dramatic cliff-side cellar is UNESCO listed.",
+    "servingRecommendation": "Decant 3-4 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 73,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-009",
+    "name": "Château Angélus",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Saint-Émilion, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Premier Grand Cru Classé A known for rich, powerful style. Famous bell-marked label.",
+    "description": "Premier Grand Cru Classé A known for rich, powerful style. Famous bell-marked label.",
+    "flavorProfile": {
+      "body": 80,
+      "sweetness": 12
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "14-14.5%",
+      "agingPotential": "15-35 years"
+    },
+    "tastingNotes": "Dark plum, chocolate, mocha, spice, opulent texture, generous fruit",
+    "pairings": [
+      "Rich beef",
+      "lamb",
+      "game",
+      "strong cheeses"
+    ],
+    "history": "Named for chapel bells audible from vineyard. Hubert de Boüard transformed quality from 1980s.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 80,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-010",
+    "name": "Château Pavie",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Saint-Émilion, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Premier Grand Cru Classé A producing powerful, concentrated wines under Gérard Perse.",
+    "description": "Premier Grand Cru Classé A producing powerful, concentrated wines under Gérard Perse.",
+    "flavorProfile": {
+      "body": 81,
+      "sweetness": 9
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "14-15%",
+      "agingPotential": "20-40 years"
+    },
+    "tastingNotes": "Blackberry, cassis, mocha, minerals, massive concentration, structured tannins",
+    "pairings": [
+      "Rich red meats",
+      "game",
+      "strong cheeses"
+    ],
+    "history": "Gérard Perse acquired Pavie in 1998 and transformed it with ambitious viticulture and winemaking.",
+    "servingRecommendation": "Decant 3-4 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 81,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-011",
+    "name": "Le Pin",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Merlot",
+    "origin": "Pomerol, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Tiny 'garage wine' estate challenging Pétrus prices. Seductive, hedonistic style from just 2.7 hectares.",
+    "description": "Tiny 'garage wine' estate challenging Pétrus prices. Seductive, hedonistic style from just 2.7 hectares.",
+    "flavorProfile": {
+      "body": 75,
+      "sweetness": 14
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium",
+      "acidity": "Medium",
+      "alcohol": "14-14.5%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Plum, chocolate, exotic spices, mocha, velvet texture, seductive richness",
+    "pairings": [
+      "Rich beef",
+      "truffle preparations",
+      "foie gras"
+    ],
+    "history": "Jacques Thienpont created Le Pin in 1979 from small plot with single pine tree. Only 600-700 cases produced.",
+    "servingRecommendation": "Decant 2 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 75,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-012",
+    "name": "Vieux Château Certan",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Pomerol, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Historic Pomerol estate with higher Cabernet Franc. Elegant alternative to Pétrus power.",
+    "description": "Historic Pomerol estate with higher Cabernet Franc. Elegant alternative to Pétrus power.",
+    "flavorProfile": {
+      "body": 72,
+      "sweetness": 8
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "13.5-14%",
+      "agingPotential": "20-40 years"
+    },
+    "tastingNotes": "Violets, plum, truffle, spice, tobacco, refined elegance, Burgundian character",
+    "pairings": [
+      "Lamb",
+      "duck",
+      "truffle dishes",
+      "aged cheeses"
+    ],
+    "history": "Thienpont family ownership since 1924. Higher Cabernet Franc creates more elegant character.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 72,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-013",
+    "name": "Château Lynch-Bages",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Pauillac, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Fifth Growth producing wines of Second Growth quality. The 'poor man's Mouton.'",
+    "description": "Fifth Growth producing wines of Second Growth quality. The 'poor man's Mouton.'",
+    "flavorProfile": {
+      "body": 75,
+      "sweetness": 8
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "13-14%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Cassis, cedar, graphite, chocolate, tobacco, classic Pauillac character",
+    "pairings": [
+      "Lamb",
+      "beef",
+      "aged cheeses"
+    ],
+    "history": "Jean-Michel Cazes transformed Lynch-Bages from the 1970s. Iconic village estate at plateau of Bages.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 75,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-014",
+    "name": "Château Pichon Baron",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Pauillac, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Second Growth producing powerful Pauillac. Impressive château with mirror pool.",
+    "description": "Second Growth producing powerful Pauillac. Impressive château with mirror pool.",
+    "flavorProfile": {
+      "body": 79,
+      "sweetness": 5
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "13.5-14%",
+      "agingPotential": "20-40 years"
+    },
+    "tastingNotes": "Cassis, cedar, graphite, chocolate, powerful structure, firm tannins",
+    "pairings": [
+      "Beef",
+      "lamb",
+      "game",
+      "aged cheeses"
+    ],
+    "history": "AXA Millésimes ownership since 1987. One of the most improved estates in Bordeaux.",
+    "servingRecommendation": "Decant 3-4 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 79,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-015",
+    "name": "Château Pichon Lalande",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Pauillac, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Second Growth known for elegance and higher Merlot content. The most feminine Pauillac.",
+    "description": "Second Growth known for elegance and higher Merlot content. The most feminine Pauillac.",
+    "flavorProfile": {
+      "body": 73,
+      "sweetness": 9
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "13-14%",
+      "agingPotential": "20-40 years"
+    },
+    "tastingNotes": "Cassis, violets, cedar, graphite, silky elegance, refined structure",
+    "pairings": [
+      "Lamb",
+      "duck",
+      "veal",
+      "refined preparations"
+    ],
+    "history": "May-Eliane de Lencquesaing built reputation 1978-2007. Now owned by Champagne Roederer.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 73,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-016",
+    "name": "Château Cos d'Estournel",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Saint-Estèphe, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Second Growth with exotic pagoda-style chai. Produces powerful, spicy Saint-Estèphe.",
+    "description": "Second Growth with exotic pagoda-style chai. Produces powerful, spicy Saint-Estèphe.",
+    "flavorProfile": {
+      "body": 77,
+      "sweetness": 7
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium-High",
+      "alcohol": "13.5-14%",
+      "agingPotential": "20-40 years"
+    },
+    "tastingNotes": "Cassis, spice, cedar, exotic notes, powerful structure, dense concentration",
+    "pairings": [
+      "Lamb",
+      "spiced dishes",
+      "aged cheeses"
+    ],
+    "history": "Louis Gaspard d'Estournel built exotic chai in 1830s. Now owned by Michel Reybier.",
+    "servingRecommendation": "Decant 3-4 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 77,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-017",
+    "name": "Château Ducru-Beaucaillou",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Saint-Julien, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Second Growth exemplifying Saint-Julien elegance. 'Beautiful pebbles' refers to gravel terroir.",
+    "description": "Second Growth exemplifying Saint-Julien elegance. 'Beautiful pebbles' refers to gravel terroir.",
+    "flavorProfile": {
+      "body": 74,
+      "sweetness": 6
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "13-14%",
+      "agingPotential": "20-40 years"
+    },
+    "tastingNotes": "Cassis, cedar, graphite, violet, refined elegance, harmonious balance",
+    "pairings": [
+      "Lamb",
+      "veal",
+      "refined preparations"
+    ],
+    "history": "Borie family ownership since 1941. Bruno Borie maintains exceptional standards.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 74,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-018",
+    "name": "Château Léoville-Las Cases",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Saint-Julien, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Second Growth often performing at First Growth level. Grand Vin from walled vineyard.",
+    "description": "Second Growth often performing at First Growth level. Grand Vin from walled vineyard.",
+    "flavorProfile": {
+      "body": 76,
+      "sweetness": 5
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "13.5-14%",
+      "agingPotential": "25-50 years"
+    },
+    "tastingNotes": "Cassis, cedar, graphite, tobacco, powerful structure, intense concentration",
+    "pairings": [
+      "Beef",
+      "lamb",
+      "game",
+      "aged hard cheeses"
+    ],
+    "history": "Jean-Hubert Delon maintains exceptional quality. Walled 'Clos' section produces Grand Vin.",
+    "servingRecommendation": "Decant 3-4 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 76,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-019",
+    "name": "Château Palmer",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Margaux, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Third Growth often rivaling First Growths. Unique high Merlot content creates silky elegance.",
+    "description": "Third Growth often rivaling First Growths. Unique high Merlot content creates silky elegance.",
+    "flavorProfile": {
+      "body": 71,
+      "sweetness": 10
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "13-14%",
+      "agingPotential": "20-40 years"
+    },
+    "tastingNotes": "Violets, dark berries, exotic spice, cedar, silky texture, Margaux perfume",
+    "pairings": [
+      "Lamb",
+      "duck",
+      "refined game preparations"
+    ],
+    "history": "Named for British general Charles Palmer. Biodynamic since 2014.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 71,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-020",
+    "name": "Domaine de la Romanée-Conti (Romanée-Conti)",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Pinot Noir",
+    "origin": "Vosne-Romanée, Burgundy, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The most prestigious wine in the world. Monopole Grand Cru of just 1.8 hectares producing around 450 cases annually.",
+    "description": "The most prestigious wine in the world. Monopole Grand Cru of just 1.8 hectares producing around 450 cases annually.",
+    "flavorProfile": {
+      "body": 42,
+      "sweetness": 8
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "Low-Medium",
+      "acidity": "High",
+      "alcohol": "12.5-13.5%",
+      "agingPotential": "20-50+ years"
+    },
+    "tastingNotes": "Rose petals, cherry, exotic spices, forest floor, iron, extraordinary complexity, ethereal texture",
+    "pairings": [
+      "Simply prepared game birds",
+      "roasted squab",
+      "truffle dishes",
+      "fine aged Époisses"
+    ],
+    "history": "Monks cultivated vines since 7th century. De Villaine and Leroy families ownership. Benchmark for Pinot Noir worldwide.",
+    "servingRecommendation": "Decant gently 1-2 hours. Serve at 15-17°C in finest Burgundy glasses.",
+    "universalCoords": {
+      "x": 42,
+      "y": 35
+    }
+  },
+  {
+    "id": "wine-021",
+    "name": "Domaine de la Romanée-Conti La Tâche",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Pinot Noir",
+    "origin": "Vosne-Romanée, Burgundy, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Monopole Grand Cru considered the most complete of DRC's wines. Larger vineyard than RC allows more production.",
+    "description": "Monopole Grand Cru considered the most complete of DRC's wines. Larger vineyard than RC allows more production.",
+    "flavorProfile": {
+      "body": 45,
+      "sweetness": 7
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "Low-Medium",
+      "acidity": "High",
+      "alcohol": "13-13.5%",
+      "agingPotential": "20-50+ years"
+    },
+    "tastingNotes": "Dark cherry, exotic spices, rose, earth, mineral, extraordinary depth and complexity",
+    "pairings": [
+      "Game birds",
+      "duck",
+      "truffle dishes",
+      "fine cheeses"
+    ],
+    "history": "Acquired by DRC in 1933. At 6 hectares, produces more wine than Romanée-Conti but equal quality.",
+    "servingRecommendation": "Decant gently 1-2 hours. Serve at 15-17°C.",
+    "universalCoords": {
+      "x": 45,
+      "y": 35
+    }
+  },
+  {
+    "id": "wine-022",
+    "name": "Domaine Leroy Musigny Grand Cru",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Pinot Noir",
+    "origin": "Chambolle-Musigny, Burgundy, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Biodynamic Grand Cru from one of Burgundy's most perfectionist producers. Extraordinary purity.",
+    "description": "Biodynamic Grand Cru from one of Burgundy's most perfectionist producers. Extraordinary purity.",
+    "flavorProfile": {
+      "body": 40,
+      "sweetness": 9
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "Low-Medium",
+      "acidity": "High",
+      "alcohol": "13-13.5%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Violets, wild strawberry, exotic spices, mineral, forest floor, ethereal elegance",
+    "pairings": [
+      "Roasted game birds",
+      "squab",
+      "veal sweetbreads",
+      "aged Brillat-Savarin"
+    ],
+    "history": "Lalou Bize-Leroy purchased domaine in 1988, converting immediately to biodynamics. Extremely low yields.",
+    "servingRecommendation": "Handle with care; minimal decanting. Serve at 15-16°C in large Burgundy glasses.",
+    "universalCoords": {
+      "x": 40,
+      "y": 35
+    }
+  },
+  {
+    "id": "wine-023",
+    "name": "Domaine Armand Rousseau Chambertin Grand Cru",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Pinot Noir",
+    "origin": "Gevrey-Chambertin, Burgundy, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Reference-standard Chambertin from the most respected domaine in the village.",
+    "description": "Reference-standard Chambertin from the most respected domaine in the village.",
+    "flavorProfile": {
+      "body": 39,
+      "sweetness": 8
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "Low-Medium",
+      "acidity": "High",
+      "alcohol": "13-13.5%",
+      "agingPotential": "15-40+ years"
+    },
+    "tastingNotes": "Black cherry, licorice, earth, leather, violets, mineral, firm structure, long finish",
+    "pairings": [
+      "Beef bourguignon",
+      "coq au vin",
+      "roasted squab",
+      "aged Comté"
+    ],
+    "history": "Founded 1909 by Armand Rousseau. Grandson Eric maintains exceptional quality. Sets standard for Gevrey.",
+    "servingRecommendation": "Decant 1-2 hours for young wines. Serve at 16-17°C.",
+    "universalCoords": {
+      "x": 39,
+      "y": 35
+    }
+  },
+  {
+    "id": "wine-024",
+    "name": "Domaine Comte Georges de Vogüé Musigny Vieilles Vignes",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Pinot Noir",
+    "origin": "Chambolle-Musigny, Burgundy, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The reference for Musigny Grand Cru. Owns 70% of the vineyard including oldest vines.",
+    "description": "The reference for Musigny Grand Cru. Owns 70% of the vineyard including oldest vines.",
+    "flavorProfile": {
+      "body": 47,
+      "sweetness": 8
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "Low-Medium",
+      "acidity": "High",
+      "alcohol": "13-13.5%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Violets, red cherry, spice, mineral, silk texture, quintessential elegance",
+    "pairings": [
+      "Game birds",
+      "duck",
+      "veal",
+      "fine cheeses"
+    ],
+    "history": "De Vogüé family has owned since 1450. François Millet makes wine since 1986.",
+    "servingRecommendation": "Minimal decanting. Serve at 15-16°C.",
+    "universalCoords": {
+      "x": 47,
+      "y": 35
+    }
+  },
+  {
+    "id": "wine-025",
+    "name": "Domaine Georges Roumier Bonnes-Mares Grand Cru",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Pinot Noir",
+    "origin": "Chambolle-Musigny, Burgundy, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Exceptional Grand Cru from one of Burgundy's most consistent producers. Christophe Roumier is a master.",
+    "description": "Exceptional Grand Cru from one of Burgundy's most consistent producers. Christophe Roumier is a master.",
+    "flavorProfile": {
+      "body": 39,
+      "sweetness": 9
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "Low-Medium",
+      "acidity": "High",
+      "alcohol": "13-13.5%",
+      "agingPotential": "15-35 years"
+    },
+    "tastingNotes": "Dark cherry, earth, spice, mineral, structured elegance",
+    "pairings": [
+      "Game birds",
+      "duck",
+      "mushroom dishes",
+      "aged cheeses"
+    ],
+    "history": "Georges Roumier founded domaine in 1924. Grandson Christophe is considered among Burgundy's finest winemakers.",
+    "servingRecommendation": "Decant 1-2 hours. Serve at 16-17°C.",
+    "universalCoords": {
+      "x": 39,
+      "y": 35
+    }
+  },
+  {
+    "id": "wine-026",
+    "name": "Domaine Coche-Dury Meursault Les Perrières",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Chardonnay",
+    "origin": "Meursault, Burgundy, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The most sought-after white Burgundy producer. Jean-François Coche's wines are legendary.",
+    "description": "The most sought-after white Burgundy producer. Jean-François Coche's wines are legendary.",
+    "flavorProfile": {
+      "body": 58,
+      "sweetness": 4
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "13-13.5%",
+      "agingPotential": "15-25+ years"
+    },
+    "tastingNotes": "Citrus, mineral, hazelnut, honey, extraordinary depth and precision",
+    "pairings": [
+      "Lobster",
+      "langoustine",
+      "rich fish preparations",
+      "aged Comté"
+    ],
+    "history": "Jean-François Coche-Dury is considered the greatest white Burgundy winemaker. Wines nearly impossible to obtain.",
+    "servingRecommendation": "Serve at 12-14°C. Can benefit from brief decanting when young.",
+    "universalCoords": {
+      "x": 58,
+      "y": 0
+    }
+  },
+  {
+    "id": "wine-027",
+    "name": "Domaine Leflaive Bâtard-Montrachet Grand Cru",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Chardonnay",
+    "origin": "Puligny-Montrachet, Burgundy, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Historic estate pioneering biodynamics in Burgundy. Anne-Claude Leflaive's transformative vision.",
+    "description": "Historic estate pioneering biodynamics in Burgundy. Anne-Claude Leflaive's transformative vision.",
+    "flavorProfile": {
+      "body": 62,
+      "sweetness": 5
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "13-13.5%",
+      "agingPotential": "15-25 years"
+    },
+    "tastingNotes": "Citrus, almond, mineral, honey, white flowers, rich yet precise",
+    "pairings": [
+      "Lobster",
+      "rich fish preparations",
+      "white truffle",
+      "aged Gruyère"
+    ],
+    "history": "Founded 1717. Anne-Claude converted to biodynamics in 1990s. Nephew Brice de la Morandière continues.",
+    "servingRecommendation": "Serve at 12-14°C.",
+    "universalCoords": {
+      "x": 62,
+      "y": 0
+    }
+  },
+  {
+    "id": "wine-028",
+    "name": "Domaine Raveneau Chablis Grand Cru Les Clos",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Chardonnay",
+    "origin": "Chablis, Burgundy, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The undisputed reference for Chablis. Les Clos is the largest and arguably finest Grand Cru.",
+    "description": "The undisputed reference for Chablis. Les Clos is the largest and arguably finest Grand Cru.",
+    "flavorProfile": {
+      "body": 45,
+      "sweetness": 2
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "N/A",
+      "acidity": "Very High",
+      "alcohol": "12.5-13%",
+      "agingPotential": "15-30+ years"
+    },
+    "tastingNotes": "Citrus, oyster shell, chalk, mineral, flint, incredible precision and tension",
+    "pairings": [
+      "Oysters",
+      "sea urchin",
+      "Dover sole",
+      "shellfish"
+    ],
+    "history": "Jean-Marie Raveneau's sons Bernard and Didier run domaine. Minimal intervention with old barrels.",
+    "servingRecommendation": "Serve at 10-12°C.",
+    "universalCoords": {
+      "x": 45,
+      "y": 0
+    }
+  },
+  {
+    "id": "wine-029",
+    "name": "Château Rayas Châteauneuf-du-Pape",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Grenache",
+    "origin": "Châteauneuf-du-Pape, Rhône, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Cult producer making 100% Grenache in a blend region. Unique terroir produces ethereal, Burgundian-styled wines.",
+    "description": "Cult producer making 100% Grenache in a blend region. Unique terroir produces ethereal, Burgundian-styled wines.",
+    "flavorProfile": {
+      "body": 58,
+      "sweetness": 12
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "Low",
+      "acidity": "Medium-High",
+      "alcohol": "14-15%",
+      "agingPotential": "15-30+ years"
+    },
+    "tastingNotes": "Raspberry, cherry, garrigue herbs, spice, mineral, extraordinary purity and finesse",
+    "pairings": [
+      "Provençal lamb",
+      "herb-roasted chicken",
+      "Mediterranean fish stew",
+      "aged sheep's milk cheese"
+    ],
+    "history": "Reynaud family ownership since 1880. Jacques Reynaud developed legendary status before nephew Emmanuel continued.",
+    "servingRecommendation": "Minimal decanting needed. Serve slightly cool at 15-17°C.",
+    "universalCoords": {
+      "x": 58,
+      "y": 20
+    }
+  },
+  {
+    "id": "wine-030",
+    "name": "E. Guigal Côte-Rôtie La Mouline",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Syrah/Viognier",
+    "origin": "Côte-Rôtie, Northern Rhône, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "One of the 'La Las' trilogy representing pinnacle of Northern Rhône Syrah. 11% Viognier for aromatic lift.",
+    "description": "One of the 'La Las' trilogy representing pinnacle of Northern Rhône Syrah. 11% Viognier for aromatic lift.",
+    "flavorProfile": {
+      "body": 78,
+      "sweetness": 9
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "13-14%",
+      "agingPotential": "15-40+ years"
+    },
+    "tastingNotes": "Violets, bacon fat, black olive, apricot, smoke, incredible aromatic complexity",
+    "pairings": [
+      "Duck with black cherry sauce",
+      "lamb with herbs de Provence",
+      "wild boar",
+      "aged goat cheese"
+    ],
+    "history": "Marcel Guigal created single-vineyard 'La La' bottlings starting with La Mouline in 1966. 42 months in new oak.",
+    "servingRecommendation": "Decant 2-4 hours. Serve at 16-18°C.",
+    "universalCoords": {
+      "x": 78,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-031",
+    "name": "E. Guigal Côte-Rôtie La Landonne",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Syrah",
+    "origin": "Côte-Rôtie, Northern Rhône, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "100% Syrah from iron-rich schist soils producing the most powerful of Guigal's single vineyard wines.",
+    "description": "100% Syrah from iron-rich schist soils producing the most powerful of Guigal's single vineyard wines.",
+    "flavorProfile": {
+      "body": 86,
+      "sweetness": 6
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "13-14%",
+      "agingPotential": "20-50+ years"
+    },
+    "tastingNotes": "Black fruits, tar, iron, leather, black olive, smoke, intense mineral character, massive structure",
+    "pairings": [
+      "Braised oxtail",
+      "venison",
+      "wild boar",
+      "strong aged cheeses"
+    ],
+    "history": "First produced 1978 from vines replanted by Marcel Guigal. Dark, brooding wine requiring significant aging.",
+    "servingRecommendation": "Decant 4-6 hours minimum. Serve at 17-18°C. Best after 15+ years.",
+    "universalCoords": {
+      "x": 86,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-032",
+    "name": "E. Guigal Côte-Rôtie La Turque",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Syrah/Viognier",
+    "origin": "Côte-Rôtie, Northern Rhône, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The third 'La La' wine combining power of La Landonne with perfume of La Mouline.",
+    "description": "The third 'La La' wine combining power of La Landonne with perfume of La Mouline.",
+    "flavorProfile": {
+      "body": 83,
+      "sweetness": 7
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "13-14%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Violets, bacon, dark fruits, spice, smoke, concentrated power with aromatic complexity",
+    "pairings": [
+      "Rich game",
+      "braised meats",
+      "aged cheeses"
+    ],
+    "history": "First produced 1985. Named for the Turque lieu-dit. Combines characteristics of other two 'La Las.'",
+    "servingRecommendation": "Decant 3-5 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 83,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-033",
+    "name": "Hermitage La Chapelle (Paul Jaboulet Aîné)",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Syrah",
+    "origin": "Hermitage, Northern Rhône, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Legendary Northern Rhône Syrah. The 1961 is considered one of the greatest wines of 20th century.",
+    "description": "Legendary Northern Rhône Syrah. The 1961 is considered one of the greatest wines of 20th century.",
+    "flavorProfile": {
+      "body": 84,
+      "sweetness": 5
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "13-14%",
+      "agingPotential": "20-50+ years"
+    },
+    "tastingNotes": "Blackberry, leather, tar, smoke, herbs, pepper, profound depth and structure",
+    "pairings": [
+      "Braised beef",
+      "lamb shanks",
+      "game",
+      "aged hard cheeses"
+    ],
+    "history": "Named for small chapel atop Hermitage hill. Jaboulet family established 1834. Now owned by Frey family.",
+    "servingRecommendation": "Decant 3-5 hours. Serve at 17-18°C. Best after 15-20 years.",
+    "universalCoords": {
+      "x": 84,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-034",
+    "name": "Jean-Louis Chave Hermitage",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Syrah",
+    "origin": "Hermitage, Northern Rhône, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The reference-standard Hermitage from family with 500+ years of history on the hill.",
+    "description": "The reference-standard Hermitage from family with 500+ years of history on the hill.",
+    "flavorProfile": {
+      "body": 82,
+      "sweetness": 6
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "13-14%",
+      "agingPotential": "20-50+ years"
+    },
+    "tastingNotes": "Black fruits, smoke, bacon, herbs, mineral, incredible depth with silky texture",
+    "pairings": [
+      "Beef cheeks",
+      "lamb shoulder",
+      "game birds",
+      "aged Comté"
+    ],
+    "history": "Chave family has made wine in Hermitage since 1481. Jean-Louis is 16th generation, maintaining traditions.",
+    "servingRecommendation": "Decant 3-4 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 82,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-035",
+    "name": "Chapoutier Ermitage Le Pavillon",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Syrah",
+    "origin": "Hermitage, Northern Rhône, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Biodynamic producer's single-vineyard Hermitage. Among the most powerful expressions of the appellation.",
+    "description": "Biodynamic producer's single-vineyard Hermitage. Among the most powerful expressions of the appellation.",
+    "flavorProfile": {
+      "body": 80,
+      "sweetness": 7
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "13.5-14.5%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Blackberry, bacon, smoke, herbs, iron, incredible concentration",
+    "pairings": [
+      "Rich red meats",
+      "game",
+      "aged hard cheeses"
+    ],
+    "history": "Michel Chapoutier converted to biodynamics in 1991. Le Pavillon from Les Bessards is top cuvée.",
+    "servingRecommendation": "Decant 3-4 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 80,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-036",
+    "name": "Giacomo Conterno Monfortino Barolo Riserva",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Nebbiolo",
+    "origin": "Serralunga d'Alba, Piedmont, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The most sought-after traditional Barolo, made only in exceptional years. Extended aging in large Slavonian oak.",
+    "description": "The most sought-after traditional Barolo, made only in exceptional years. Extended aging in large Slavonian oak.",
+    "flavorProfile": {
+      "body": 78,
+      "sweetness": 4
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Very High",
+      "acidity": "High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "30-60+ years"
+    },
+    "tastingNotes": "Tar, roses, dried cherry, leather, truffle, tobacco, iron, extraordinary complexity",
+    "pairings": [
+      "Brasato al Barolo",
+      "white truffle risotto",
+      "aged Parmigiano-Reggiano",
+      "wild boar"
+    ],
+    "history": "Giovanni Conterno created Monfortino in 1920. Spends 7+ years aging. Roberto Conterno continues tradition.",
+    "servingRecommendation": "Decant 4-6 hours or more. Serve at 18°C. Best after 20+ years additional cellaring.",
+    "universalCoords": {
+      "x": 78,
+      "y": 90
+    }
+  },
+  {
+    "id": "wine-037",
+    "name": "Bruno Giacosa Barolo Falletto Vigna Le Rocche Riserva",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Nebbiolo",
+    "origin": "Serralunga d'Alba, Piedmont, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Legendary producer's top Barolo. Red label Riservas represent pinnacle of traditional winemaking.",
+    "description": "Legendary producer's top Barolo. Red label Riservas represent pinnacle of traditional winemaking.",
+    "flavorProfile": {
+      "body": 76,
+      "sweetness": 5
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "25-50+ years"
+    },
+    "tastingNotes": "Rose, tar, cherry, licorice, truffle, mint, incredible purity and precision",
+    "pairings": [
+      "Tajarin pasta with butter and truffle",
+      "braised veal",
+      "aged cheeses"
+    ],
+    "history": "Bruno Giacosa was 'master of Barolo.' Red-label Riservas, produced only in exceptional years, are Italy's most collectible.",
+    "servingRecommendation": "Decant 3-5 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 76,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-038",
+    "name": "Gaja Barbaresco",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Nebbiolo",
+    "origin": "Barbaresco, Piedmont, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Revolutionary producer who modernized Piedmont while maintaining tradition. Flagship showcasing elegance and power.",
+    "description": "Revolutionary producer who modernized Piedmont while maintaining tradition. Flagship showcasing elegance and power.",
+    "flavorProfile": {
+      "body": 72,
+      "sweetness": 8
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "15-30+ years"
+    },
+    "tastingNotes": "Rose petals, red cherry, licorice, tar, spice, chocolate, polished tannins",
+    "pairings": [
+      "Lamb chops",
+      "beef tenderloin",
+      "white truffle dishes",
+      "aged Gorgonzola"
+    ],
+    "history": "Angelo Gaja transformed family estate from 1960s, introducing French techniques. Elevated Barbaresco's reputation.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 72,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-039",
+    "name": "Bartolo Mascarello Barolo",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Nebbiolo",
+    "origin": "Barolo, Piedmont, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Iconic traditional producer making single Barolo from blended vineyards. Famous hand-drawn labels.",
+    "description": "Iconic traditional producer making single Barolo from blended vineyards. Famous hand-drawn labels.",
+    "flavorProfile": {
+      "body": 73,
+      "sweetness": 4
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "20-50+ years"
+    },
+    "tastingNotes": "Rose, tar, cherry, earth, tobacco, classic traditional character",
+    "pairings": [
+      "Traditional Piedmontese cuisine",
+      "truffles",
+      "braised meats"
+    ],
+    "history": "Bartolo Mascarello (1927-2005) was legend and traditionalist. Daughter Maria Teresa continues vision.",
+    "servingRecommendation": "Decant 3-4 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 73,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-040",
+    "name": "Giuseppe Mascarello Barolo Monprivato",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Nebbiolo",
+    "origin": "Castiglione Falletto, Piedmont, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Traditional Barolo from monopole vineyard. Among the most elegant expressions of Nebbiolo.",
+    "description": "Traditional Barolo from monopole vineyard. Among the most elegant expressions of Nebbiolo.",
+    "flavorProfile": {
+      "body": 70,
+      "sweetness": 4
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Rose, cherry, tar, licorice, tobacco, extraordinary elegance",
+    "pairings": [
+      "Truffle dishes",
+      "braised meats",
+      "aged cheeses"
+    ],
+    "history": "Mascarello family has owned Monprivato since 1904. Mauro Mascarello continues traditional methods.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 70,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-041",
+    "name": "Aldo Conterno Barolo Granbussia",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Nebbiolo",
+    "origin": "Monforte d'Alba, Piedmont, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Legendary producer's top wine from multiple vineyard sources. Only made in exceptional years.",
+    "description": "Legendary producer's top wine from multiple vineyard sources. Only made in exceptional years.",
+    "flavorProfile": {
+      "body": 75,
+      "sweetness": 5
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Very High",
+      "acidity": "High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "25-50+ years"
+    },
+    "tastingNotes": "Rose, tar, licorice, truffle, earth, massive structure",
+    "pairings": [
+      "Rich game",
+      "truffle dishes",
+      "aged Parmigiano"
+    ],
+    "history": "Aldo Conterno (brother of Giovanni) founded estate in 1969. Granbussia is reserve selection.",
+    "servingRecommendation": "Decant 4+ hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 75,
+      "y": 90
+    }
+  },
+  {
+    "id": "wine-042",
+    "name": "Vietti Barolo Ravera",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Nebbiolo",
+    "origin": "Novello, Piedmont, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Historic Barolo producer with exceptional single-vineyard bottlings. Ravera is among top sites.",
+    "description": "Historic Barolo producer with exceptional single-vineyard bottlings. Ravera is among top sites.",
+    "flavorProfile": {
+      "body": 75,
+      "sweetness": 4
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "20-40 years"
+    },
+    "tastingNotes": "Rose, tar, cherry, licorice, mineral, elegant structure",
+    "pairings": [
+      "Truffle pasta",
+      "braised meats",
+      "aged Parmigiano"
+    ],
+    "history": "Vietti family has made wine since 1900s. Luca Currado now leads.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 75,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-043",
+    "name": "Sandrone Barolo Le Vigne",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Nebbiolo",
+    "origin": "Barolo, Piedmont, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Luciano Sandrone's multi-vineyard blend showing accessible yet age-worthy modern style.",
+    "description": "Luciano Sandrone's multi-vineyard blend showing accessible yet age-worthy modern style.",
+    "flavorProfile": {
+      "body": 74,
+      "sweetness": 5
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Cherry, rose, spice, chocolate, refined tannins",
+    "pairings": [
+      "Rich pasta dishes",
+      "lamb",
+      "aged cheeses"
+    ],
+    "history": "Luciano Sandrone started with 1 hectare in 1978. Now among Barolo's most respected.",
+    "servingRecommendation": "Decant 2 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 74,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-044",
+    "name": "Produttori del Barbaresco Barbaresco Riserva",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Nebbiolo",
+    "origin": "Barbaresco, Piedmont, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Cooperative producing outstanding single-vineyard Barbaresco Riservas at remarkable value.",
+    "description": "Cooperative producing outstanding single-vineyard Barbaresco Riservas at remarkable value.",
+    "flavorProfile": {
+      "body": 72,
+      "sweetness": 5
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Cherry, rose, tar, leather, mineral, elegant power",
+    "pairings": [
+      "Truffle dishes",
+      "braised meats",
+      "aged cheeses"
+    ],
+    "history": "Founded 1958 by local priest. Nine cru bottlings from member vineyards. Exceptional quality-to-price.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 72,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-045",
+    "name": "Biondi-Santi Brunello di Montalcino Riserva",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Sangiovese",
+    "origin": "Montalcino, Tuscany, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The original creator of Brunello di Montalcino. Traditional producer making age-worthy wines since 1888.",
+    "description": "The original creator of Brunello di Montalcino. Traditional producer making age-worthy wines since 1888.",
+    "flavorProfile": {
+      "body": 65,
+      "sweetness": 3
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "High",
+      "acidity": "High",
+      "alcohol": "13.5-14%",
+      "agingPotential": "25-50+ years"
+    },
+    "tastingNotes": "Cherry, leather, tobacco, dried herbs, earth, tea, elegant structure",
+    "pairings": [
+      "Bistecca alla Fiorentina",
+      "wild boar ragu",
+      "pecorino Toscano",
+      "roasted lamb"
+    ],
+    "history": "Ferruccio Biondi-Santi created Brunello in 1880s by isolating Sangiovese Grosso. Riserva only in exceptional years.",
+    "servingRecommendation": "Decant 3-4 hours. Serve at 17-18°C. Benefits from 15+ years aging.",
+    "universalCoords": {
+      "x": 65,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-046",
+    "name": "Soldera Case Basse Brunello di Montalcino",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Sangiovese",
+    "origin": "Montalcino, Tuscany, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Uncompromising perfectionist creating Brunello of extraordinary purity. Biodynamic pioneer.",
+    "description": "Uncompromising perfectionist creating Brunello of extraordinary purity. Biodynamic pioneer.",
+    "flavorProfile": {
+      "body": 62,
+      "sweetness": 4
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "Medium-High",
+      "acidity": "High",
+      "alcohol": "13.5-14%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Wild cherry, rose, violet, minerals, herbs, incredible purity and finesse",
+    "pairings": [
+      "Simple grilled meats",
+      "Tuscan bean dishes",
+      "aged pecorino"
+    ],
+    "history": "Gianfranco Soldera created estate from scratch in 1972. Cult status. Vandals destroyed six vintages in 2012.",
+    "servingRecommendation": "Minimal decanting. Serve at 16-17°C.",
+    "universalCoords": {
+      "x": 62,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-047",
+    "name": "Sassicaia",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Cabernet Blend",
+    "origin": "Bolgheri, Tuscany, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The original 'Super Tuscan' that sparked Italian wine revolution. Cabernet Sauvignon dominant.",
+    "description": "The original 'Super Tuscan' that sparked Italian wine revolution. Cabernet Sauvignon dominant.",
+    "flavorProfile": {
+      "body": 81,
+      "sweetness": 7
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium-High",
+      "alcohol": "13.5-14%",
+      "agingPotential": "15-40+ years"
+    },
+    "tastingNotes": "Blackcurrant, cedar, graphite, Mediterranean herbs, tobacco, mint, structured elegance",
+    "pairings": [
+      "Grilled Chianina beef",
+      "lamb with rosemary",
+      "aged pecorino",
+      "wild boar"
+    ],
+    "history": "Mario Incisa della Rocchetta planted Cabernet in 1944, inspired by Bordeaux. Released commercially 1968.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 81,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-048",
+    "name": "Tignanello",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Sangiovese Blend",
+    "origin": "Chianti, Tuscany, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Antinori's groundbreaking Super Tuscan. First Sangiovese in barriques, first Chianti without white grapes.",
+    "description": "Antinori's groundbreaking Super Tuscan. First Sangiovese in barriques, first Chianti without white grapes.",
+    "flavorProfile": {
+      "body": 74,
+      "sweetness": 10
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium-High",
+      "alcohol": "13.5-14%",
+      "agingPotential": "10-25 years"
+    },
+    "tastingNotes": "Cherry, blackberry, vanilla, spice, tobacco, elegant tannins",
+    "pairings": [
+      "Tuscan grilled meats",
+      "pasta with meat ragu",
+      "aged cheeses",
+      "roasted lamb"
+    ],
+    "history": "Created by Piero Antinori with Giacomo Tachis in 1971. Revolutionized Italian winemaking.",
+    "servingRecommendation": "Decant 1-2 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 74,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-049",
+    "name": "Ornellaia",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Bolgheri, Tuscany, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Super Tuscan estate producing polished, powerful Bordeaux-style wines.",
+    "description": "Super Tuscan estate producing polished, powerful Bordeaux-style wines.",
+    "flavorProfile": {
+      "body": 77,
+      "sweetness": 8
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "14-14.5%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Blackcurrant, dark chocolate, coffee, cedar, Mediterranean herbs, plush texture",
+    "pairings": [
+      "Beef tenderloin",
+      "lamb loin",
+      "aged hard cheeses",
+      "rich pasta dishes"
+    ],
+    "history": "Founded 1981 by Lodovico Antinori, first vintage 1985. Now owned by Frescobaldi.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 77,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-050",
+    "name": "Masseto",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Merlot",
+    "origin": "Bolgheri, Tuscany, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Italy's most expensive wine. 100% Merlot from blue clay soils rivaling Pétrus.",
+    "description": "Italy's most expensive wine. 100% Merlot from blue clay soils rivaling Pétrus.",
+    "flavorProfile": {
+      "body": 82,
+      "sweetness": 13
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "14-15%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Plum, chocolate, espresso, violets, truffle, velvet texture, incredible richness",
+    "pairings": [
+      "Beef tenderloin",
+      "braised short ribs",
+      "foie gras",
+      "rich truffle dishes"
+    ],
+    "history": "Originally part of Ornellaia, became separate wine 1986. Unique clay soils ideal for Merlot. Only ~2,500 cases.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 82,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-051",
+    "name": "Giuseppe Quintarelli Amarone della Valpolicella",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Corvina Blend",
+    "origin": "Valpolicella, Veneto, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The legendary 'maestro' of Amarone. Traditional production with extended aging creates profound complexity.",
+    "description": "The legendary 'maestro' of Amarone. Traditional production with extended aging creates profound complexity.",
+    "flavorProfile": {
+      "body": 90,
+      "sweetness": 22
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "16-17%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Dried cherry, fig, chocolate, tar, herbs, smoke, incredible concentration and sweetness",
+    "pairings": [
+      "Braised meats",
+      "aged hard cheeses",
+      "dark chocolate",
+      "wild game"
+    ],
+    "history": "Giuseppe Quintarelli (1927-2012) considered greatest Amarone producer. Extended drying (4 months) and aging.",
+    "servingRecommendation": "Decant 3-4 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 90,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-052",
+    "name": "Dal Forno Romano Amarone della Valpolicella",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Corvina Blend",
+    "origin": "Valpolicella, Veneto, Italy",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Modern, powerful Amarone using extreme concentration methods. Among most intense wines anywhere.",
+    "description": "Modern, powerful Amarone using extreme concentration methods. Among most intense wines anywhere.",
+    "flavorProfile": {
+      "body": 93,
+      "sweetness": 18
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "16-17%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Black cherry, dark chocolate, coffee, tar, dried fruits, massive concentration",
+    "pairings": [
+      "Rich braised meats",
+      "aged Parmigiano-Reggiano",
+      "dark chocolate desserts"
+    ],
+    "history": "Romano Dal Forno creates intensely concentrated wines through extended drying and new French oak aging.",
+    "servingRecommendation": "Decant 4+ hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 93,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-053",
+    "name": "Vega Sicilia Único",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Tempranillo Blend",
+    "origin": "Ribera del Duero, Spain",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Spain's most legendary wine estate, founded 1864. Único spends 10+ years aging before release.",
+    "description": "Spain's most legendary wine estate, founded 1864. Único spends 10+ years aging before release.",
+    "flavorProfile": {
+      "body": 79,
+      "sweetness": 8
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium-High",
+      "alcohol": "13.5-14%",
+      "agingPotential": "20-50+ years"
+    },
+    "tastingNotes": "Blackberry, leather, cedar, tobacco, spice, tar, polished tannins, incredible length",
+    "pairings": [
+      "Roast suckling pig",
+      "lamb",
+      "aged Manchego",
+      "Ibérico ham"
+    ],
+    "history": "Founded by Eloy Lecanda who planted Bordeaux varieties. Historic vintages command extraordinary prices.",
+    "servingRecommendation": "Decant 3-4 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 79,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-054",
+    "name": "Vega Sicilia Valbuena",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Tempranillo Blend",
+    "origin": "Ribera del Duero, Spain",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Vega Sicilia's 'second' wine spending 5 years aging. More accessible but exceptional quality.",
+    "description": "Vega Sicilia's 'second' wine spending 5 years aging. More accessible but exceptional quality.",
+    "flavorProfile": {
+      "body": 75,
+      "sweetness": 9
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium-High",
+      "alcohol": "13.5-14%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Blackberry, cherry, leather, tobacco, spice, refined elegance",
+    "pairings": [
+      "Lamb",
+      "game",
+      "aged cheeses"
+    ],
+    "history": "Originally created as earlier-drinking option to Único. Valbuena 5° indicates 5 years aging.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 75,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-055",
+    "name": "Pingus",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Tempranillo",
+    "origin": "Ribera del Duero, Spain",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Cult wine by Danish winemaker Peter Sisseck. Tiny production from old vine Tempranillo.",
+    "description": "Cult wine by Danish winemaker Peter Sisseck. Tiny production from old vine Tempranillo.",
+    "flavorProfile": {
+      "body": 88,
+      "sweetness": 15
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "14.5-15%",
+      "agingPotential": "15-30+ years"
+    },
+    "tastingNotes": "Blackberry, licorice, espresso, smoke, dark chocolate, spice, incredible intensity",
+    "pairings": [
+      "Grilled red meats",
+      "lamb",
+      "aged hard cheeses",
+      "wild game"
+    ],
+    "history": "First vintage 1995. Immediately acclaimed as Spain's first 'garage wine.' Only ~500 cases annually.",
+    "servingRecommendation": "Decant 3-4 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 88,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-056",
+    "name": "R. López de Heredia Viña Tondonia Gran Reserva",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Tempranillo Blend",
+    "origin": "Rioja, Spain",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Traditional Rioja unchanged since founding in 1877. Extended American oak aging creates ethereal wines.",
+    "description": "Traditional Rioja unchanged since founding in 1877. Extended American oak aging creates ethereal wines.",
+    "flavorProfile": {
+      "body": 55,
+      "sweetness": 5
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "Medium",
+      "acidity": "High",
+      "alcohol": "12.5-13%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Dried cherry, leather, tobacco, dried flowers, oxidative notes, earth, extraordinary finesse",
+    "pairings": [
+      "Roast lamb",
+      "game birds",
+      "cured ham",
+      "aged sheep's milk cheese"
+    ],
+    "history": "López de Heredia family maintains 19th-century traditions. Wines age 10+ years before release.",
+    "servingRecommendation": "Decant briefly or serve directly. Serve at 16-17°C.",
+    "universalCoords": {
+      "x": 55,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-057",
+    "name": "Clos Mogador",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Grenache Blend",
+    "origin": "Priorat, Spain",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Pioneer of modern Priorat. René Barbier's estate produces powerful yet elegant wines from ancient slate.",
+    "description": "Pioneer of modern Priorat. René Barbier's estate produces powerful yet elegant wines from ancient slate.",
+    "flavorProfile": {
+      "body": 80,
+      "sweetness": 13
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "14.5-15%",
+      "agingPotential": "15-25 years"
+    },
+    "tastingNotes": "Blackberry, mineral, slate, herbs, licorice, black pepper, incredible mineral intensity",
+    "pairings": [
+      "Grilled lamb",
+      "roasted game",
+      "aged Manchego",
+      "rich stews"
+    ],
+    "history": "René Barbier and four friends 'discovered' Priorat in 1980s, reviving abandoned vineyards. First vintage 1989.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 80,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-058",
+    "name": "L'Ermita (Alvaro Palacios)",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Grenache",
+    "origin": "Priorat, Spain",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Single vineyard wine from extremely old Garnacha on steep slate. Among Spain's most expensive wines.",
+    "description": "Single vineyard wine from extremely old Garnacha on steep slate. Among Spain's most expensive wines.",
+    "flavorProfile": {
+      "body": 85,
+      "sweetness": 14
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium",
+      "acidity": "Medium-High",
+      "alcohol": "14.5-15.5%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Raspberry, mineral, herbs, slate, smoke, extraordinary purity and depth",
+    "pairings": [
+      "Lamb",
+      "game",
+      "aged hard cheeses",
+      "rich Mediterranean dishes"
+    ],
+    "history": "Alvaro Palacios discovered abandoned vineyard with 100+ year old vines. First vintage 1993. Only 200-300 cases.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 85,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-059",
+    "name": "Viña Tondonia Gran Reserva Blanco",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Viura Blend",
+    "origin": "Rioja, Spain",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Spain's most legendary white wine. Extended oxidative aging creates hauntingly beautiful wines.",
+    "description": "Spain's most legendary white wine. Extended oxidative aging creates hauntingly beautiful wines.",
+    "flavorProfile": {
+      "body": 48,
+      "sweetness": 4
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "12.5-13%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Almond, dried flowers, honey, oxidative complexity, extraordinary freshness",
+    "pairings": [
+      "Rich fish",
+      "seafood",
+      "aged cheeses",
+      "roast chicken"
+    ],
+    "history": "Ages 10+ years in barrel and bottle before release. Among oldest drinkable whites in world.",
+    "servingRecommendation": "Serve at 12-14°C. Decanting optional.",
+    "universalCoords": {
+      "x": 48,
+      "y": 0
+    }
+  },
+  {
+    "id": "wine-060",
+    "name": "Barca Velha",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Touriga Nacional Blend",
+    "origin": "Douro, Portugal",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Portugal's most legendary dry red. The country's equivalent to Vega Sicilia Único.",
+    "description": "Portugal's most legendary dry red. The country's equivalent to Vega Sicilia Único.",
+    "flavorProfile": {
+      "body": 83,
+      "sweetness": 7
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium-High",
+      "alcohol": "13-14%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Blackberry, dried herbs, cedar, leather, mineral, extraordinary complexity",
+    "pairings": [
+      "Roasted meats",
+      "game",
+      "aged Serra cheese",
+      "hearty stews"
+    ],
+    "history": "Created 1952 by Fernando Nicolau de Almeida at Ferreira. Only 18 vintages released between 1952-2008.",
+    "servingRecommendation": "Decant 3-4 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 83,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-061",
+    "name": "Screaming Eagle Cabernet Sauvignon",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Cabernet Sauvignon",
+    "origin": "Oakville, Napa Valley, California",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "America's most famous cult Cabernet. Tiny production and perfect scores create extraordinary demand.",
+    "description": "America's most famous cult Cabernet. Tiny production and perfect scores create extraordinary demand.",
+    "flavorProfile": {
+      "body": 88,
+      "sweetness": 10
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "14-15%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Blackcurrant, cassis, graphite, cedar, violets, chocolate, plush silky tannins",
+    "pairings": [
+      "Prime beef tenderloin",
+      "lamb chops",
+      "aged Gouda"
+    ],
+    "history": "Founded by Jean Phillips 1986, first vintage 1992. Winemaker Heidi Barrett. Sold to Stan Kroenke for $30+ million.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 88,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-062",
+    "name": "Harlan Estate",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Oakville, Napa Valley, California",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Bill Harlan's vision of a Napa 'First Growth.' Impeccably crafted Bordeaux-style blend.",
+    "description": "Bill Harlan's vision of a Napa 'First Growth.' Impeccably crafted Bordeaux-style blend.",
+    "flavorProfile": {
+      "body": 90,
+      "sweetness": 12
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "14.5-15%",
+      "agingPotential": "15-30+ years"
+    },
+    "tastingNotes": "Black fruits, espresso, chocolate, cedar, graphite, tobacco, impeccable balance",
+    "pairings": [
+      "Prime beef",
+      "lamb",
+      "aged hard cheeses",
+      "rich game preparations"
+    ],
+    "history": "Bill Harlan planted hillside vineyard 1984, first release 1990. Designed for generations of quality.",
+    "servingRecommendation": "Decant 2-4 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 90,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-063",
+    "name": "Opus One",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Oakville, Napa Valley, California",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Historic joint venture between Robert Mondavi and Baron Philippe de Rothschild.",
+    "description": "Historic joint venture between Robert Mondavi and Baron Philippe de Rothschild.",
+    "flavorProfile": {
+      "body": 79,
+      "sweetness": 11
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "14-14.5%",
+      "agingPotential": "10-25 years"
+    },
+    "tastingNotes": "Cassis, violet, cedar, dark chocolate, spice, refined tannins",
+    "pairings": [
+      "Lamb",
+      "beef tenderloin",
+      "rich pasta dishes",
+      "aged cheeses"
+    ],
+    "history": "Announced 1979, first vintage 1979. Iconic landmark designed by Scott Johnson. ~25,000 cases annually.",
+    "servingRecommendation": "Decant 1-2 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 79,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-064",
+    "name": "Ridge Monte Bello",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Cabernet Blend",
+    "origin": "Santa Cruz Mountains, California",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "California's greatest age-worthy Cabernet from limestone at 2,600 feet. Paul Draper's masterwork.",
+    "description": "California's greatest age-worthy Cabernet from limestone at 2,600 feet. Paul Draper's masterwork.",
+    "flavorProfile": {
+      "body": 84,
+      "sweetness": 9
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "High",
+      "alcohol": "13-14%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Cassis, mineral, cedar, herbs, graphite, tobacco, incredible structure and freshness",
+    "pairings": [
+      "Lamb",
+      "beef",
+      "aged cheeses",
+      "game"
+    ],
+    "history": "Vineyard planted 1886. Ridge since 1962. The 1971 placed fifth in 1976 Judgment of Paris, first in 2006 re-tasting.",
+    "servingRecommendation": "Decant 3-4 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 84,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-065",
+    "name": "Sine Qua Non",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Varies",
+    "origin": "Ventura, California",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Manfred Krankl's cult winery with uniquely named wines in tiny quantities. Each vintage different.",
+    "description": "Manfred Krankl's cult winery with uniquely named wines in tiny quantities. Each vintage different.",
+    "flavorProfile": {
+      "body": 89,
+      "sweetness": 17
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Varies",
+      "acidity": "Medium",
+      "alcohol": "15-16%",
+      "agingPotential": "10-25 years"
+    },
+    "tastingNotes": "Dark fruits, spice, exotic aromatics, chocolate, garrigue - varies by vintage",
+    "pairings": [
+      "Rich meats",
+      "game",
+      "aged cheeses - matches the specific wine"
+    ],
+    "history": "Founded 1994 by Austrian-born Krankl. Every wine unique name and label. Never same wine twice.",
+    "servingRecommendation": "Decant 1-2 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 89,
+      "y": 0
+    }
+  },
+  {
+    "id": "wine-066",
+    "name": "Dominus",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Yountville, Napa Valley, California",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Christian Moueix's (Pétrus) California estate. Elegant, European-styled Napa blend.",
+    "description": "Christian Moueix's (Pétrus) California estate. Elegant, European-styled Napa blend.",
+    "flavorProfile": {
+      "body": 76,
+      "sweetness": 6
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "14-14.5%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Cassis, herbs, graphite, tobacco, earth, restrained power",
+    "pairings": [
+      "Lamb",
+      "beef",
+      "rich game dishes"
+    ],
+    "history": "Founded 1982 by Christian Moueix. First vintage 1983. Iconic winery by Herzog & de Meuron.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 76,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-067",
+    "name": "Caymus Special Selection Cabernet Sauvignon",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Cabernet Sauvignon",
+    "origin": "Napa Valley, California",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Chuck Wagner's rich, opulent style. First American wine to win Wine Spectator Wine of Year twice.",
+    "description": "Chuck Wagner's rich, opulent style. First American wine to win Wine Spectator Wine of Year twice.",
+    "flavorProfile": {
+      "body": 85,
+      "sweetness": 16
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Low-Medium",
+      "alcohol": "14.5-15.5%",
+      "agingPotential": "10-20 years"
+    },
+    "tastingNotes": "Cassis, dark cherry, chocolate, vanilla, sweet oak, plush texture",
+    "pairings": [
+      "Rich beef dishes",
+      "lamb",
+      "barbecue",
+      "chocolate desserts"
+    ],
+    "history": "Founded 1972. Special Selection first 1975. Known for ripe, extracted style defining Napa for many consumers.",
+    "servingRecommendation": "Decant 1-2 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 85,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-068",
+    "name": "Heitz Martha's Vineyard Cabernet Sauvignon",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Cabernet Sauvignon",
+    "origin": "Oakville, Napa Valley, California",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Historic single-vineyard Cabernet famous for eucalyptus/mint character. One of Napa's first vineyard-designated.",
+    "description": "Historic single-vineyard Cabernet famous for eucalyptus/mint character. One of Napa's first vineyard-designated.",
+    "flavorProfile": {
+      "body": 83,
+      "sweetness": 8
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "13.5-14%",
+      "agingPotential": "15-30+ years"
+    },
+    "tastingNotes": "Eucalyptus, mint, cassis, cedar, chocolate, distinctive herbal signature",
+    "pairings": [
+      "Lamb with mint",
+      "roasted beef",
+      "rich stews"
+    ],
+    "history": "First produced 1966 from Tom and Martha May's vineyard. Distinctive eucalyptus from nearby trees.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 83,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-069",
+    "name": "Marcassin Pinot Noir Marcassin Vineyard",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Pinot Noir",
+    "origin": "Sonoma Coast, California",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Helen Turley's perfectionist estate producing California's most Burgundian Pinot Noir.",
+    "description": "Helen Turley's perfectionist estate producing California's most Burgundian Pinot Noir.",
+    "flavorProfile": {
+      "body": 46,
+      "sweetness": 6
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "Low-Medium",
+      "acidity": "High",
+      "alcohol": "13.5-14%",
+      "agingPotential": "10-20 years"
+    },
+    "tastingNotes": "Red cherry, rose, earth, spice, mineral, Burgundian elegance",
+    "pairings": [
+      "Duck",
+      "salmon",
+      "mushroom dishes",
+      "soft cheeses"
+    ],
+    "history": "Founded 1990 by Helen Turley. Named for French word for wild boar. Only ~1,000 cases total.",
+    "servingRecommendation": "Minimal decanting. Serve at 15-16°C.",
+    "universalCoords": {
+      "x": 46,
+      "y": 35
+    }
+  },
+  {
+    "id": "wine-070",
+    "name": "Williams Selyem Pinot Noir Rochioli Riverblock",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Pinot Noir",
+    "origin": "Russian River Valley, California",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Iconic single-vineyard Pinot from producer that put Russian River on the map.",
+    "description": "Iconic single-vineyard Pinot from producer that put Russian River on the map.",
+    "flavorProfile": {
+      "body": 40,
+      "sweetness": 8
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "Low-Medium",
+      "acidity": "High",
+      "alcohol": "13.5-14.5%",
+      "agingPotential": "8-15 years"
+    },
+    "tastingNotes": "Cherry, cola, earth, spice, silky texture",
+    "pairings": [
+      "Duck",
+      "salmon",
+      "lamb",
+      "mushroom dishes"
+    ],
+    "history": "Founded 1981 by Burt Williams and Ed Selyem. Legendary mailing list. Sold to John Dyson 1998.",
+    "servingRecommendation": "Minimal decanting. Serve at 15-16°C.",
+    "universalCoords": {
+      "x": 40,
+      "y": 35
+    }
+  },
+  {
+    "id": "wine-071",
+    "name": "Penfolds Grange",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Shiraz",
+    "origin": "Multi-Regional, South Australia",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Australia's most iconic wine, created by Max Schubert in 1951. Powerful Shiraz aged in American oak.",
+    "description": "Australia's most iconic wine, created by Max Schubert in 1951. Powerful Shiraz aged in American oak.",
+    "flavorProfile": {
+      "body": 92,
+      "sweetness": 15
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "14-14.5%",
+      "agingPotential": "20-50+ years"
+    },
+    "tastingNotes": "Blackberry, chocolate, mocha, licorice, tar, earth, incredible concentration",
+    "pairings": [
+      "Rich red meats",
+      "game",
+      "strong aged cheeses",
+      "dark chocolate"
+    ],
+    "history": "Max Schubert created Grange 1951 after visiting Bordeaux. Initially rejected, eventually recognized as Australia's greatest.",
+    "servingRecommendation": "Decant 3-4 hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 92,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-072",
+    "name": "Henschke Hill of Grace",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Shiraz",
+    "origin": "Eden Valley, South Australia",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Single-vineyard Shiraz from vines planted in 1860s. Australia's most age-worthy wine alongside Grange.",
+    "description": "Single-vineyard Shiraz from vines planted in 1860s. Australia's most age-worthy wine alongside Grange.",
+    "flavorProfile": {
+      "body": 88,
+      "sweetness": 14
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium-High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Blackberry, pepper, licorice, sage, mineral, incredible elegance and complexity",
+    "pairings": [
+      "Lamb",
+      "beef",
+      "game birds",
+      "aged hard cheeses"
+    ],
+    "history": "Named for Gnadenberg Lutheran church overlooking vineyard. Henschke family since 1860s.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 88,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-073",
+    "name": "Torbreck RunRig",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Shiraz/Viognier",
+    "origin": "Barossa Valley, South Australia",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Dave Powell's tribute to Northern Rhône Syrah. Old vine Shiraz co-fermented with Viognier.",
+    "description": "Dave Powell's tribute to Northern Rhône Syrah. Old vine Shiraz co-fermented with Viognier.",
+    "flavorProfile": {
+      "body": 91,
+      "sweetness": 16
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "15-16%",
+      "agingPotential": "10-25 years"
+    },
+    "tastingNotes": "Blackberry, violet, apricot, chocolate, licorice, spice, opulent texture",
+    "pairings": [
+      "Rich red meats",
+      "game",
+      "strong cheeses"
+    ],
+    "history": "Named for ancient Scottish plow. Dave Powell founded 1994, sourcing from Barossa's oldest vines.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 91,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-074",
+    "name": "Rockford Basket Press Shiraz",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Shiraz",
+    "origin": "Barossa Valley, South Australia",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Traditional Barossa using historic basket press. Robert O'Callaghan's tribute to old-fashioned winemaking.",
+    "description": "Traditional Barossa using historic basket press. Robert O'Callaghan's tribute to old-fashioned winemaking.",
+    "flavorProfile": {
+      "body": 85,
+      "sweetness": 12
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "14-14.5%",
+      "agingPotential": "10-25 years"
+    },
+    "tastingNotes": "Blackberry, spice, earth, chocolate, savory herbs",
+    "pairings": [
+      "Barbecue",
+      "grilled lamb",
+      "aged cheddar"
+    ],
+    "history": "Robert O'Callaghan founded Rockford 1984, using traditional equipment including restored 1918 basket press.",
+    "servingRecommendation": "Decant 1-2 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 85,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-075",
+    "name": "Penfolds Bin 707 Cabernet Sauvignon",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Cabernet Sauvignon",
+    "origin": "Multi-Regional, South Australia",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Penfolds' answer to Grange with Cabernet. Powerful, concentrated Australian Cabernet.",
+    "description": "Penfolds' answer to Grange with Cabernet. Powerful, concentrated Australian Cabernet.",
+    "flavorProfile": {
+      "body": 86,
+      "sweetness": 13
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "14-14.5%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Cassis, chocolate, mint, cedar, eucalyptus, concentrated power",
+    "pairings": [
+      "Rich beef",
+      "lamb",
+      "strong cheeses"
+    ],
+    "history": "First made 1964. Named for bin where barrels stored. Not made every year.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 86,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-076",
+    "name": "Cullen Diana Madeline",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Margaret River, Western Australia",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Biodynamic estate producing Australia's finest Bordeaux blend. Named for founder Diana Cullen.",
+    "description": "Biodynamic estate producing Australia's finest Bordeaux blend. Named for founder Diana Cullen.",
+    "flavorProfile": {
+      "body": 71,
+      "sweetness": 6
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium-High",
+      "alcohol": "13.5-14%",
+      "agingPotential": "15-25 years"
+    },
+    "tastingNotes": "Cassis, herbs, graphite, violet, refined structure",
+    "pairings": [
+      "Lamb",
+      "beef",
+      "aged hard cheeses"
+    ],
+    "history": "Vanya Cullen converted to biodynamics 2003. Diana Madeline honors her mother.",
+    "servingRecommendation": "Decant 1-2 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 71,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-077",
+    "name": "Moss Wood Cabernet Sauvignon",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Cabernet Sauvignon",
+    "origin": "Margaret River, Western Australia",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Historic Margaret River producer making elegant, age-worthy Cabernet since 1969.",
+    "description": "Historic Margaret River producer making elegant, age-worthy Cabernet since 1969.",
+    "flavorProfile": {
+      "body": 82,
+      "sweetness": 12
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "13.5-14%",
+      "agingPotential": "15-25 years"
+    },
+    "tastingNotes": "Cassis, cedar, herbs, chocolate, refined elegance",
+    "pairings": [
+      "Lamb",
+      "beef",
+      "aged cheeses"
+    ],
+    "history": "Founded 1969 by Bill and Sandra Pannell, one of Margaret River's pioneers.",
+    "servingRecommendation": "Decant 1-2 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 82,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-078",
+    "name": "Leeuwin Estate Art Series Chardonnay",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Chardonnay",
+    "origin": "Margaret River, Western Australia",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Australia's most prestigious Chardonnay. Consistent benchmark for the variety in the New World.",
+    "description": "Australia's most prestigious Chardonnay. Consistent benchmark for the variety in the New World.",
+    "flavorProfile": {
+      "body": 63,
+      "sweetness": 7
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "13.5-14%",
+      "agingPotential": "10-20 years"
+    },
+    "tastingNotes": "Citrus, stone fruit, mineral, cashew, elegant oak, remarkable complexity",
+    "pairings": [
+      "Lobster",
+      "rich seafood",
+      "fine cheeses"
+    ],
+    "history": "Robert Mondavi advised on first plantings 1974. Art Series label features commissioned Australian art.",
+    "servingRecommendation": "Serve at 12-14°C.",
+    "universalCoords": {
+      "x": 63,
+      "y": 0
+    }
+  },
+  {
+    "id": "wine-079",
+    "name": "Kanonkop Paul Sauer",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Stellenbosch, South Africa",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "South Africa's benchmark Bordeaux blend from historic estate. Named for founder Paul Sauer.",
+    "description": "South Africa's benchmark Bordeaux blend from historic estate. Named for founder Paul Sauer.",
+    "flavorProfile": {
+      "body": 74,
+      "sweetness": 10
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium-High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "15-25 years"
+    },
+    "tastingNotes": "Cassis, cedar, tobacco, earth, chocolate, classic structure",
+    "pairings": [
+      "Lamb",
+      "beef",
+      "game",
+      "aged Gouda"
+    ],
+    "history": "Founded 1910. Named for cannon fired to announce ships. Paul Sauer first 1981. Abrie Beeslaar winemaker since 1999.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 74,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-080",
+    "name": "Meerlust Rubicon",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Stellenbosch, South Africa",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Pioneer South African Bordeaux blend from historic estate dating to 1693.",
+    "description": "Pioneer South African Bordeaux blend from historic estate dating to 1693.",
+    "flavorProfile": {
+      "body": 77,
+      "sweetness": 9
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "13.5-14%",
+      "agingPotential": "10-20 years"
+    },
+    "tastingNotes": "Cassis, cedar, herbs, tobacco, chocolate, elegant structure",
+    "pairings": [
+      "Lamb",
+      "beef",
+      "mature cheeses"
+    ],
+    "history": "First Rubicon vintage 1980. Created by Nico Myburgh. Estate in Myburgh family since 1756.",
+    "servingRecommendation": "Decant 1-2 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 77,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-081",
+    "name": "Catena Zapata Adrianna Vineyard Malbec",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Malbec",
+    "origin": "Gualtallary, Mendoza, Argentina",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Argentina's most acclaimed Malbec from high-altitude vineyard at 4,757 feet.",
+    "description": "Argentina's most acclaimed Malbec from high-altitude vineyard at 4,757 feet.",
+    "flavorProfile": {
+      "body": 84,
+      "sweetness": 12
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "15-25 years"
+    },
+    "tastingNotes": "Violet, blackberry, mineral, spice, graphite, elegant structure",
+    "pairings": [
+      "Grilled beef",
+      "lamb",
+      "empanadas",
+      "aged cheeses"
+    ],
+    "history": "Adrianna Vineyard planted 1992 at extreme altitude. Named for Nicolas Catena's daughter. Multiple 100-point scores.",
+    "servingRecommendation": "Decant 1-2 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 84,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-082",
+    "name": "Clos de los Siete",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Malbec Blend",
+    "origin": "Uco Valley, Mendoza, Argentina",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Michel Rolland's ambitious project uniting seven estates. Accessible, high-quality Malbec blend.",
+    "description": "Michel Rolland's ambitious project uniting seven estates. Accessible, high-quality Malbec blend.",
+    "flavorProfile": {
+      "body": 78,
+      "sweetness": 14
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium",
+      "acidity": "Medium",
+      "alcohol": "14.5-15%",
+      "agingPotential": "5-12 years"
+    },
+    "tastingNotes": "Plum, blackberry, chocolate, vanilla, spice, plush texture",
+    "pairings": [
+      "Grilled beef",
+      "empanadas",
+      "aged cheeses"
+    ],
+    "history": "Michel Rolland united seven investors in 1998. Each estate contributes to the blend.",
+    "servingRecommendation": "Decant briefly. Serve at 17°C.",
+    "universalCoords": {
+      "x": 78,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-083",
+    "name": "Almaviva",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Puente Alto, Maipo Valley, Chile",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Joint venture between Concha y Toro and Baron Philippe de Rothschild. Chile's First Growth.",
+    "description": "Joint venture between Concha y Toro and Baron Philippe de Rothschild. Chile's First Growth.",
+    "flavorProfile": {
+      "body": 78,
+      "sweetness": 11
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "14-14.5%",
+      "agingPotential": "15-25 years"
+    },
+    "tastingNotes": "Cassis, dark chocolate, tobacco, cedar, herbs, refined structure",
+    "pairings": [
+      "Beef",
+      "lamb",
+      "aged cheeses"
+    ],
+    "history": "Founded 1997. Named after Beaumarchais character in Mozart's opera. First vintage 1996.",
+    "servingRecommendation": "Decant 2-3 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 78,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-084",
+    "name": "Seña",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Bordeaux Blend",
+    "origin": "Aconcagua Valley, Chile",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Eduardo Chadwick and Robert Mondavi's vision of Chilean icon. Biodynamically farmed.",
+    "description": "Eduardo Chadwick and Robert Mondavi's vision of Chilean icon. Biodynamically farmed.",
+    "flavorProfile": {
+      "body": 73,
+      "sweetness": 8
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium-High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "15-25 years"
+    },
+    "tastingNotes": "Cassis, herbs, mineral, tobacco, elegant structure",
+    "pairings": [
+      "Lamb",
+      "beef",
+      "aged cheeses"
+    ],
+    "history": "First vintage 1995. Won famous Berlin Tasting of 2004, beating top Bordeaux and Italian wines.",
+    "servingRecommendation": "Decant 1-2 hours. Serve at 17°C.",
+    "universalCoords": {
+      "x": 73,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-085",
+    "name": "Château Musar",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "Red - Indigenous Blend",
+    "origin": "Bekaa Valley, Lebanon",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Legendary Lebanese producer making wine through civil war. Unique blend of Cinsault, Carignan, Cabernet.",
+    "description": "Legendary Lebanese producer making wine through civil war. Unique blend of Cinsault, Carignan, Cabernet.",
+    "flavorProfile": {
+      "body": 60,
+      "sweetness": 10
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "Medium",
+      "acidity": "Medium-High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Cherry, spice, leather, earth, cedar, wild herbs, unique exotic character",
+    "pairings": [
+      "Lamb",
+      "Middle Eastern cuisine",
+      "aged cheeses"
+    ],
+    "history": "Serge Hochar made wine throughout Lebanese civil war. Family founded estate 1930. Releases with significant bottle age.",
+    "servingRecommendation": "Decant 1-2 hours. Serve at 16-17°C.",
+    "universalCoords": {
+      "x": 60,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-086",
+    "name": "Domaine de la Romanée-Conti Montrachet Grand Cru",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Chardonnay",
+    "origin": "Puligny-Montrachet, Burgundy, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The world's most expensive white wine from greatest white Burgundy vineyard. DRC owns just 0.67 hectares.",
+    "description": "The world's most expensive white wine from greatest white Burgundy vineyard. DRC owns just 0.67 hectares.",
+    "flavorProfile": {
+      "body": 52,
+      "sweetness": 5
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "13-13.5%",
+      "agingPotential": "15-30+ years"
+    },
+    "tastingNotes": "Citrus, white flowers, almond, mineral, hazelnut, extraordinary complexity and length",
+    "pairings": [
+      "Lobster",
+      "Dover sole",
+      "white truffle dishes",
+      "fine cheeses"
+    ],
+    "history": "DRC acquired Montrachet parcel 1963. Only 250-300 cases annually. Among rarest wines in world.",
+    "servingRecommendation": "Serve at 12-14°C in large Burgundy glasses. No decanting necessary.",
+    "universalCoords": {
+      "x": 52,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-087",
+    "name": "Coche-Dury Corton-Charlemagne Grand Cru",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Chardonnay",
+    "origin": "Corton, Burgundy, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Most sought-after white Burgundy producer. Legendary concentration and longevity.",
+    "description": "Most sought-after white Burgundy producer. Legendary concentration and longevity.",
+    "flavorProfile": {
+      "body": 66,
+      "sweetness": 7
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "13-13.5%",
+      "agingPotential": "15-25+ years"
+    },
+    "tastingNotes": "Citrus, mineral, hazelnut, honey, extraordinary depth and precision",
+    "pairings": [
+      "Lobster",
+      "langoustine",
+      "rich fish preparations",
+      "aged Comté"
+    ],
+    "history": "Jean-François Coche-Dury considered greatest white Burgundy winemaker. Wines nearly impossible to obtain.",
+    "servingRecommendation": "Serve at 12-14°C. Can benefit from brief decanting when young.",
+    "universalCoords": {
+      "x": 66,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-088",
+    "name": "Louis Roederer Cristal",
+    "category": "wine",
+    "subcategory": "Sparkling",
+    "type": "Sparkling - Champagne",
+    "origin": "Champagne, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Created 1876 for Tsar Alexander II. Prestige cuvée in distinctive clear bottle.",
+    "description": "Created 1876 for Tsar Alexander II. Prestige cuvée in distinctive clear bottle.",
+    "flavorProfile": {
+      "body": 45,
+      "sweetness": 18
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "12-12.5%",
+      "agingPotential": "10-25 years"
+    },
+    "tastingNotes": "Brioche, citrus, white peach, mineral, chalk, fine persistent bubbles",
+    "pairings": [
+      "Caviar",
+      "sushi",
+      "lobster",
+      "fine cheeses"
+    ],
+    "history": "Tsar Alexander demanded clear bottle to prevent assassination. 60% Pinot Noir, 40% Chardonnay, aged 6+ years.",
+    "servingRecommendation": "Serve at 8-10°C. No decanting; use proper flutes or white wine glasses.",
+    "universalCoords": {
+      "x": 45,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-089",
+    "name": "Dom Pérignon",
+    "category": "wine",
+    "subcategory": "Sparkling",
+    "type": "Sparkling - Champagne",
+    "origin": "Champagne, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Moët & Chandon's prestige cuvée named for legendary monk. Only produced in exceptional years.",
+    "description": "Moët & Chandon's prestige cuvée named for legendary monk. Only produced in exceptional years.",
+    "flavorProfile": {
+      "body": 48,
+      "sweetness": 16
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "12.5%",
+      "agingPotential": "10-30 years"
+    },
+    "tastingNotes": "Brioche, citrus, almond, mineral, smoke with age, remarkable elegance",
+    "pairings": [
+      "Caviar",
+      "lobster",
+      "fine cheeses",
+      "sushi"
+    ],
+    "history": "Named for Benedictine monk who made major contributions to Champagne in 17th century. First vintage 1921.",
+    "servingRecommendation": "Serve at 8-10°C. Aged vintages can be decanted briefly.",
+    "universalCoords": {
+      "x": 48,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-090",
+    "name": "Krug Grande Cuvée",
+    "category": "wine",
+    "subcategory": "Sparkling",
+    "type": "Sparkling - Champagne",
+    "origin": "Champagne, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Multi-vintage Champagne from most prestigious House. Blend of 120+ wines from 10+ years.",
+    "description": "Multi-vintage Champagne from most prestigious House. Blend of 120+ wines from 10+ years.",
+    "flavorProfile": {
+      "body": 55,
+      "sweetness": 20
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "12-12.5%",
+      "agingPotential": "10-20+ years"
+    },
+    "tastingNotes": "Brioche, hazelnut, citrus, honey, spice, toasted bread, extraordinary depth",
+    "pairings": [
+      "Rich seafood",
+      "foie gras",
+      "mature cheeses",
+      "truffle dishes"
+    ],
+    "history": "Founded 1843 by Joseph Krug. Each bottle labeled with edition number.",
+    "servingRecommendation": "Serve at 10-12°C, slightly warmer than most Champagnes.",
+    "universalCoords": {
+      "x": 55,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-091",
+    "name": "Krug Clos du Mesnil",
+    "category": "wine",
+    "subcategory": "Sparkling",
+    "type": "Sparkling - Champagne Blanc de Blancs",
+    "origin": "Le Mesnil-sur-Oger, Champagne, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Single-vineyard Blanc de Blancs from 1.84-hectare walled vineyard. Perhaps greatest single-vineyard Champagne.",
+    "description": "Single-vineyard Blanc de Blancs from 1.84-hectare walled vineyard. Perhaps greatest single-vineyard Champagne.",
+    "flavorProfile": {
+      "body": 50,
+      "sweetness": 15
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "N/A",
+      "acidity": "Very High",
+      "alcohol": "12-12.5%",
+      "agingPotential": "15-40+ years"
+    },
+    "tastingNotes": "Citrus, chalk, mineral, brioche, extraordinary precision and finesse",
+    "pairings": [
+      "Oysters",
+      "sea urchin",
+      "fine seafood",
+      "aged Comté"
+    ],
+    "history": "First vintage 1979. Walled vineyard one of coldest in Champagne. Only produced in exceptional years.",
+    "servingRecommendation": "Serve at 10-12°C.",
+    "universalCoords": {
+      "x": 50,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-092",
+    "name": "Salon Blanc de Blancs",
+    "category": "wine",
+    "subcategory": "Sparkling",
+    "type": "Sparkling - Champagne Blanc de Blancs",
+    "origin": "Le Mesnil-sur-Oger, Champagne, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Single-vineyard, single-vintage Blanc de Blancs made only in exceptional years. Champagne's most exclusive.",
+    "description": "Single-vineyard, single-vintage Blanc de Blancs made only in exceptional years. Champagne's most exclusive.",
+    "flavorProfile": {
+      "body": 42,
+      "sweetness": 12
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "N/A",
+      "acidity": "Very High",
+      "alcohol": "12-12.5%",
+      "agingPotential": "20-50+ years"
+    },
+    "tastingNotes": "Citrus, chalk, mineral, brioche, toast, incredible aging potential",
+    "pairings": [
+      "Oysters",
+      "sea urchin",
+      "Dover sole",
+      "aged hard cheeses"
+    ],
+    "history": "Eugène-Aimé Salon founded 1911, making only Blanc de Blancs from Le Mesnil. Only 37 vintages released in 100+ years.",
+    "servingRecommendation": "Serve at 10-12°C. Can decant aged vintages.",
+    "universalCoords": {
+      "x": 42,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-093",
+    "name": "Pol Roger Cuvée Sir Winston Churchill",
+    "category": "wine",
+    "subcategory": "Sparkling",
+    "type": "Sparkling - Champagne",
+    "origin": "Champagne, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Prestige cuvée honoring Winston Churchill. Powerful, structured Champagne.",
+    "description": "Prestige cuvée honoring Winston Churchill. Powerful, structured Champagne.",
+    "flavorProfile": {
+      "body": 53,
+      "sweetness": 13
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "Medium-High",
+      "alcohol": "12.5%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Brioche, citrus, toast, almond, white fruits, powerful structure",
+    "pairings": [
+      "Rich seafood",
+      "poultry",
+      "fine cheeses"
+    ],
+    "history": "Created 1984, first released 1975 vintage. Blend kept secret but believed Pinot Noir dominant. Churchill drank Pol Roger daily.",
+    "servingRecommendation": "Serve at 10-12°C.",
+    "universalCoords": {
+      "x": 53,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-094",
+    "name": "Taittinger Comtes de Champagne Blanc de Blancs",
+    "category": "wine",
+    "subcategory": "Sparkling",
+    "type": "Sparkling - Champagne Blanc de Blancs",
+    "origin": "Champagne, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Prestige Blanc de Blancs from 100% Grand Cru Côte des Blancs. Elegant, refined style.",
+    "description": "Prestige Blanc de Blancs from 100% Grand Cru Côte des Blancs. Elegant, refined style.",
+    "flavorProfile": {
+      "body": 40,
+      "sweetness": 14
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "12-12.5%",
+      "agingPotential": "10-25 years"
+    },
+    "tastingNotes": "Citrus, white flowers, brioche, mineral, chalk, elegant finesse",
+    "pairings": [
+      "Shellfish",
+      "light fish dishes",
+      "fine cheeses"
+    ],
+    "history": "First vintage 1952. Named for Counts of Champagne who ruled region in medieval times.",
+    "servingRecommendation": "Serve at 8-10°C.",
+    "universalCoords": {
+      "x": 40,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-095",
+    "name": "Billecart-Salmon Cuvée Nicolas François",
+    "category": "wine",
+    "subcategory": "Sparkling",
+    "type": "Sparkling - Champagne",
+    "origin": "Champagne, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Prestige cuvée from family-owned house known for elegant, precise Champagnes.",
+    "description": "Prestige cuvée from family-owned house known for elegant, precise Champagnes.",
+    "flavorProfile": {
+      "body": 54,
+      "sweetness": 18
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "12-12.5%",
+      "agingPotential": "10-25 years"
+    },
+    "tastingNotes": "Brioche, citrus, almond, honey, mineral, refined complexity",
+    "pairings": [
+      "Lobster",
+      "rich seafood",
+      "fine cheeses"
+    ],
+    "history": "Founded 1818. Named for Nicolas François Billecart and Elisabeth Salmon. One of last family-owned grande marques.",
+    "servingRecommendation": "Serve at 10-12°C.",
+    "universalCoords": {
+      "x": 54,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-096",
+    "name": "Bollinger La Grande Année",
+    "category": "wine",
+    "subcategory": "Sparkling",
+    "type": "Sparkling - Champagne",
+    "origin": "Champagne, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "James Bond's champagne. Vintage prestige cuvée from traditional, Pinot-dominant house.",
+    "description": "James Bond's champagne. Vintage prestige cuvée from traditional, Pinot-dominant house.",
+    "flavorProfile": {
+      "body": 54,
+      "sweetness": 19
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "Medium-High",
+      "alcohol": "12.5%",
+      "agingPotential": "10-25 years"
+    },
+    "tastingNotes": "Brioche, apple, spice, almond, rich and structured",
+    "pairings": [
+      "Rich fish",
+      "poultry",
+      "aged cheeses"
+    ],
+    "history": "Bollinger featured in James Bond films since 1973. Family-owned. 60% Pinot Noir, 30% Chardonnay.",
+    "servingRecommendation": "Serve at 10-12°C.",
+    "universalCoords": {
+      "x": 54,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-097",
+    "name": "Ruinart Dom Ruinart Blanc de Blancs",
+    "category": "wine",
+    "subcategory": "Sparkling",
+    "type": "Sparkling - Champagne Blanc de Blancs",
+    "origin": "Champagne, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Prestige cuvée from oldest Champagne house (1729). Pure, elegant Blanc de Blancs.",
+    "description": "Prestige cuvée from oldest Champagne house (1729). Pure, elegant Blanc de Blancs.",
+    "flavorProfile": {
+      "body": 43,
+      "sweetness": 11
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "12-12.5%",
+      "agingPotential": "10-20 years"
+    },
+    "tastingNotes": "Citrus, white flowers, brioche, chalk, mineral elegance",
+    "pairings": [
+      "Oysters",
+      "light seafood",
+      "fine cheeses"
+    ],
+    "history": "Ruinart founded 1729 by Nicolas Ruinart. Dom Ruinart honors his uncle, Dom Thierry Ruinart.",
+    "servingRecommendation": "Serve at 8-10°C.",
+    "universalCoords": {
+      "x": 43,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-098",
+    "name": "Trimbach Clos Ste Hune Riesling",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Riesling (Dry)",
+    "origin": "Alsace, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Alsace's most prestigious Riesling from monopole vineyard within Grand Cru Rosacker. Legendary aging.",
+    "description": "Alsace's most prestigious Riesling from monopole vineyard within Grand Cru Rosacker. Legendary aging.",
+    "flavorProfile": {
+      "body": 35,
+      "sweetness": 8
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "13-13.5%",
+      "agingPotential": "20-50+ years"
+    },
+    "tastingNotes": "Citrus, mineral, honey, petrol with age, extraordinary complexity",
+    "pairings": [
+      "Rich fish",
+      "lobster",
+      "Asian cuisine",
+      "aged cheeses"
+    ],
+    "history": "Trimbach family has owned 1.67-hectare vineyard since 1626. Never labeled Grand Cru due to family philosophy.",
+    "servingRecommendation": "Serve at 10-12°C. Can benefit from years of aging.",
+    "universalCoords": {
+      "x": 35,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-099",
+    "name": "Zind-Humbrecht Rangen de Thann Grand Cru Pinot Gris",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Pinot Gris",
+    "origin": "Alsace, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Biodynamic producer's wine from steep, volcanic Rangen. Alsace's most powerful Pinot Gris.",
+    "description": "Biodynamic producer's wine from steep, volcanic Rangen. Alsace's most powerful Pinot Gris.",
+    "flavorProfile": {
+      "body": 55,
+      "sweetness": 25
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "Medium-High",
+      "alcohol": "14-15%",
+      "agingPotential": "10-25 years"
+    },
+    "tastingNotes": "Smoke, minerals, tropical fruit, honey, incredible power and depth",
+    "pairings": [
+      "Rich poultry",
+      "foie gras",
+      "Asian cuisine",
+      "spicy dishes"
+    ],
+    "history": "Olivier Humbrecht MW converted to biodynamics. Rangen is Alsace's steepest and southernmost Grand Cru.",
+    "servingRecommendation": "Serve at 12-14°C.",
+    "universalCoords": {
+      "x": 55,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-100",
+    "name": "Egon Müller Scharzhofberger Riesling Trockenbeerenauslese",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Riesling (Sweet)",
+    "origin": "Saar, Mosel, Germany",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The world's most expensive Riesling. Produced only in exceptional years from botrytized grapes.",
+    "description": "The world's most expensive Riesling. Produced only in exceptional years from botrytized grapes.",
+    "flavorProfile": {
+      "body": 22,
+      "sweetness": 95
+    },
+    "specifications": {
+      "body": "Medium-Light",
+      "tannins": "N/A",
+      "acidity": "Very High",
+      "alcohol": "6-8%",
+      "agingPotential": "50-100+ years"
+    },
+    "tastingNotes": "Apricot, honey, exotic fruits, slate, mineral, electric acidity, incredible concentration",
+    "pairings": [
+      "Foie gras",
+      "blue cheese",
+      "tropical fruit desserts"
+    ],
+    "history": "Egon Müller IV continues family tradition since 1797. Scharzhofberger considered among world's greatest vineyards.",
+    "servingRecommendation": "Serve at 8-10°C in small portions.",
+    "universalCoords": {
+      "x": 22,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-101",
+    "name": "Joh. Jos. Prüm Wehlener Sonnenuhr Riesling Auslese",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Riesling",
+    "origin": "Mosel, Germany",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Reference-standard Mosel Riesling from famous sundial vineyard. Impeccable balance.",
+    "description": "Reference-standard Mosel Riesling from famous sundial vineyard. Impeccable balance.",
+    "flavorProfile": {
+      "body": 25,
+      "sweetness": 68
+    },
+    "specifications": {
+      "body": "Light-Medium",
+      "tannins": "N/A",
+      "acidity": "Very High",
+      "alcohol": "7.5-8.5%",
+      "agingPotential": "20-50+ years"
+    },
+    "tastingNotes": "Peach, apricot, slate, mineral, honey, extraordinary precision",
+    "pairings": [
+      "Asian cuisine",
+      "spicy dishes",
+      "foie gras",
+      "fruit desserts"
+    ],
+    "history": "Prüm family has made wine in Wehlen since 1911. 'Sonnenuhr' (sundial) on steep slope helps ripen grapes.",
+    "servingRecommendation": "Serve at 8-10°C.",
+    "universalCoords": {
+      "x": 25,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-102",
+    "name": "Dönnhoff Niederhäuser Hermannshöhle Riesling Grosses Gewächs",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Riesling (Dry)",
+    "origin": "Nahe, Germany",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Helmut Dönnhoff's legendary dry Riesling from greatest Nahe vineyard. Mineral intensity and precision.",
+    "description": "Helmut Dönnhoff's legendary dry Riesling from greatest Nahe vineyard. Mineral intensity and precision.",
+    "flavorProfile": {
+      "body": 33,
+      "sweetness": 6
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "12.5-13%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Citrus, peach, slate, mineral, smoke, incredible precision and depth",
+    "pairings": [
+      "Sushi",
+      "shellfish",
+      "white fish",
+      "light poultry"
+    ],
+    "history": "Hermannshöhle has volcanic and slate soils creating unique mineral character. Dönnhoff considered Nahe's greatest.",
+    "servingRecommendation": "Serve at 10-12°C.",
+    "universalCoords": {
+      "x": 33,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-103",
+    "name": "Klaus Peter Keller G-Max Riesling",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Riesling (Dry)",
+    "origin": "Rheinhessen, Germany",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Cult German Riesling from mystery vineyard. Klaus Peter Keller's most sought-after wine.",
+    "description": "Cult German Riesling from mystery vineyard. Klaus Peter Keller's most sought-after wine.",
+    "flavorProfile": {
+      "body": 38,
+      "sweetness": 5
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "12.5-13%",
+      "agingPotential": "15-30 years"
+    },
+    "tastingNotes": "Citrus, mineral, smoke, herbs, extraordinary complexity",
+    "pairings": [
+      "Fine seafood",
+      "sushi",
+      "light preparations"
+    ],
+    "history": "First produced 2003. Vineyard location kept secret. Tiny production makes it nearly impossible to obtain.",
+    "servingRecommendation": "Serve at 10-12°C.",
+    "universalCoords": {
+      "x": 38,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-104",
+    "name": "F.X. Pichler Kellerberg Riesling Smaragd",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Riesling (Dry)",
+    "origin": "Wachau, Austria",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Austria's most prestigious dry Riesling producer. Powerful, concentrated wines from steep terraces.",
+    "description": "Austria's most prestigious dry Riesling producer. Powerful, concentrated wines from steep terraces.",
+    "flavorProfile": {
+      "body": 40,
+      "sweetness": 4
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "13-14%",
+      "agingPotential": "15-25 years"
+    },
+    "tastingNotes": "Peach, apricot, mineral, spice, citrus, impressive power and finesse",
+    "pairings": [
+      "Rich fish preparations",
+      "lobster",
+      "white meat",
+      "aged cheeses"
+    ],
+    "history": "Franz Xaver Pichler created Smaragd classification for Wachau's ripest wines. Son Lucas continues tradition.",
+    "servingRecommendation": "Serve at 10-12°C.",
+    "universalCoords": {
+      "x": 40,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-105",
+    "name": "Nikolaihof Vinothek Riesling",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Riesling (Dry)",
+    "origin": "Wachau, Austria",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Biodynamic pioneer producing Austria's most age-worthy Rieslings. Aged in barrel years before release.",
+    "description": "Biodynamic pioneer producing Austria's most age-worthy Rieslings. Aged in barrel years before release.",
+    "flavorProfile": {
+      "body": 38,
+      "sweetness": 5
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "12.5-13.5%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Dried apricot, honey, mineral, oxidative complexity, extraordinary depth",
+    "pairings": [
+      "Rich fish",
+      "white meats",
+      "mature cheeses"
+    ],
+    "history": "Oldest winery in Austria (since 985 AD). Vinothek releases aged 5-15 years before sale.",
+    "servingRecommendation": "Serve at 12-14°C.",
+    "universalCoords": {
+      "x": 38,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-106",
+    "name": "Kongsgaard Chardonnay",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Chardonnay",
+    "origin": "Napa Valley, California",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "John Kongsgaard's cult Chardonnay with intense, powerful style. Among California's most sought-after whites.",
+    "description": "John Kongsgaard's cult Chardonnay with intense, powerful style. Among California's most sought-after whites.",
+    "flavorProfile": {
+      "body": 60,
+      "sweetness": 7
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "Medium-High",
+      "alcohol": "14.5-15%",
+      "agingPotential": "10-20 years"
+    },
+    "tastingNotes": "Tropical fruit, citrus, butter, mineral, spice, incredible richness",
+    "pairings": [
+      "Lobster",
+      "rich fish preparations",
+      "creamy pastas"
+    ],
+    "history": "John Kongsgaard was winemaker at Newton before starting own label 1996. Known for indigenous yeast.",
+    "servingRecommendation": "Serve at 12-14°C. Can benefit from decanting.",
+    "universalCoords": {
+      "x": 60,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-107",
+    "name": "Kistler Vineyard Chardonnay",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Chardonnay",
+    "origin": "Sonoma, California",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Steve Kistler's Burgundy-inspired Chardonnay from estate vineyard. California's benchmark for elegance.",
+    "description": "Steve Kistler's Burgundy-inspired Chardonnay from estate vineyard. California's benchmark for elegance.",
+    "flavorProfile": {
+      "body": 61,
+      "sweetness": 4
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "Medium-High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "8-15 years"
+    },
+    "tastingNotes": "Citrus, stone fruit, mineral, butter, elegant oak integration",
+    "pairings": [
+      "Lobster",
+      "rich fish",
+      "creamy preparations"
+    ],
+    "history": "Steve Kistler founded winery 1978. Multiple single-vineyard bottlings but Kistler Vineyard is estate benchmark.",
+    "servingRecommendation": "Serve at 12-14°C.",
+    "universalCoords": {
+      "x": 61,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-108",
+    "name": "Peter Michael Ma Belle-Fille Chardonnay",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Chardonnay",
+    "origin": "Knights Valley, Sonoma, California",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Sir Peter Michael's Burgundy-inspired estate producing refined, complex Chardonnay.",
+    "description": "Sir Peter Michael's Burgundy-inspired estate producing refined, complex Chardonnay.",
+    "flavorProfile": {
+      "body": 70,
+      "sweetness": 8
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "14-14.5%",
+      "agingPotential": "10-15 years"
+    },
+    "tastingNotes": "Citrus, mineral, hazelnut, butter, elegant structure",
+    "pairings": [
+      "Lobster",
+      "rich seafood",
+      "fine cheeses"
+    ],
+    "history": "Sir Peter Michael, British entrepreneur, founded estate 1982. Name means 'my beautiful daughter-in-law.'",
+    "servingRecommendation": "Serve at 12-14°C.",
+    "universalCoords": {
+      "x": 70,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-109",
+    "name": "Château d'Yquem",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Sauternes",
+    "origin": "Sauternes, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The world's most prestigious sweet wine. Premier Cru Supérieur classification unique in Bordeaux.",
+    "description": "The world's most prestigious sweet wine. Premier Cru Supérieur classification unique in Bordeaux.",
+    "flavorProfile": {
+      "body": 75,
+      "sweetness": 92
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "13.5-14%",
+      "agingPotential": "50-100+ years"
+    },
+    "tastingNotes": "Apricot, honey, vanilla, saffron, orange peel, caramel, extraordinary concentration and freshness",
+    "pairings": [
+      "Foie gras",
+      "Roquefort cheese",
+      "crème brûlée",
+      "tropical fruit desserts"
+    ],
+    "history": "Classified alone as Premier Cru Supérieur 1855. Lur Saluces family 400 years before LVMH acquisition.",
+    "servingRecommendation": "Serve at 10-12°C. Can be enjoyed young or aged decades.",
+    "universalCoords": {
+      "x": 75,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-110",
+    "name": "Château Haut-Brion Blanc",
+    "category": "wine",
+    "subcategory": "Red",
+    "type": "White - Bordeaux Blend",
+    "origin": "Pessac-Léognan, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Rare dry white from First Growth. One of the world's greatest white wines.",
+    "description": "Rare dry white from First Growth. One of the world's greatest white wines.",
+    "flavorProfile": {
+      "body": 68,
+      "sweetness": 7
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "Medium-High",
+      "alcohol": "13-14%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Citrus, white flowers, mineral, honey, waxy, incredible complexity",
+    "pairings": [
+      "Lobster",
+      "rich fish preparations",
+      "foie gras",
+      "white truffle"
+    ],
+    "history": "Only ~7,000 bottles produced annually. Among Bordeaux's rarest wines.",
+    "servingRecommendation": "Serve at 12-14°C. Can benefit from decanting.",
+    "universalCoords": {
+      "x": 68,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-111",
+    "name": "Château Climens",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Sauternes/Barsac",
+    "origin": "Barsac, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Premier Cru Barsac producing elegant, precise sweet wines. Often rivals d'Yquem.",
+    "description": "Premier Cru Barsac producing elegant, precise sweet wines. Often rivals d'Yquem.",
+    "flavorProfile": {
+      "body": 62,
+      "sweetness": 86
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "13-14%",
+      "agingPotential": "30-50+ years"
+    },
+    "tastingNotes": "Apricot, citrus, honey, floral, mineral, remarkable elegance and freshness",
+    "pairings": [
+      "Foie gras",
+      "Roquefort",
+      "crème brûlée",
+      "fruit tarts"
+    ],
+    "history": "Classified Premier Cru 1855. Organic since 2010, biodynamic since 2014 under Bérénice Lurton.",
+    "servingRecommendation": "Serve at 10-12°C.",
+    "universalCoords": {
+      "x": 62,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-112",
+    "name": "Château Suduiraut",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Sauternes",
+    "origin": "Sauternes, Bordeaux, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Premier Cru estate neighboring d'Yquem. Rich, opulent style of Sauternes.",
+    "description": "Premier Cru estate neighboring d'Yquem. Rich, opulent style of Sauternes.",
+    "flavorProfile": {
+      "body": 68,
+      "sweetness": 88
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "Medium-High",
+      "alcohol": "13.5-14%",
+      "agingPotential": "25-40 years"
+    },
+    "tastingNotes": "Apricot, mango, honey, vanilla, caramel, lush richness",
+    "pairings": [
+      "Foie gras",
+      "blue cheese",
+      "tropical fruit desserts"
+    ],
+    "history": "Park designed by Le Nôtre (Versailles). Owned by AXA Millésimes since 1992.",
+    "servingRecommendation": "Serve at 10-12°C.",
+    "universalCoords": {
+      "x": 68,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-113",
+    "name": "Domaines Ott Château de Selle Rosé",
+    "category": "wine",
+    "subcategory": "Rose",
+    "type": "Rosé",
+    "origin": "Côtes de Provence, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The benchmark for Provence rosé. Distinctive bottle shape, impeccable quality.",
+    "description": "The benchmark for Provence rosé. Distinctive bottle shape, impeccable quality.",
+    "flavorProfile": {
+      "body": 28,
+      "sweetness": 8
+    },
+    "specifications": {
+      "body": "Light",
+      "tannins": "N/A",
+      "acidity": "Medium-High",
+      "alcohol": "12.5-13%",
+      "agingPotential": "1-3 years"
+    },
+    "tastingNotes": "Peach, white flowers, citrus, herbs, mineral, refined elegance",
+    "pairings": [
+      "Mediterranean cuisine",
+      "grilled fish",
+      "light salads",
+      "seafood"
+    ],
+    "history": "Founded 1896 by Marcel Ott. Three estates produce distinctive rosés. Amphora bottle instantly recognizable.",
+    "servingRecommendation": "Serve well chilled at 8-10°C.",
+    "universalCoords": {
+      "x": 28,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-114",
+    "name": "Château d'Esclans Garrus",
+    "category": "wine",
+    "subcategory": "Rose",
+    "type": "Rosé",
+    "origin": "Côtes de Provence, France",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Luxury Provence rosé created by Sacha Lichine. Oak-aged for complexity and aging potential.",
+    "description": "Luxury Provence rosé created by Sacha Lichine. Oak-aged for complexity and aging potential.",
+    "flavorProfile": {
+      "body": 38,
+      "sweetness": 10
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "N/A",
+      "acidity": "Medium-High",
+      "alcohol": "13.5-14%",
+      "agingPotential": "3-5 years"
+    },
+    "tastingNotes": "Stone fruit, spice, citrus, mineral, creamy texture",
+    "pairings": [
+      "Rich seafood",
+      "white meats",
+      "Mediterranean cuisine"
+    ],
+    "history": "Sacha Lichine (son of Alexis) created luxury rosé category in 2006.",
+    "servingRecommendation": "Serve at 10-12°C.",
+    "universalCoords": {
+      "x": 38,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-115",
+    "name": "Taylor's Vintage Port",
+    "category": "wine",
+    "subcategory": "Dessert",
+    "type": "Fortified - Vintage Port",
+    "origin": "Douro Valley, Portugal",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The benchmark for Vintage Port. Classic British shipper style with remarkable aging potential.",
+    "description": "The benchmark for Vintage Port. Classic British shipper style with remarkable aging potential.",
+    "flavorProfile": {
+      "body": 85,
+      "sweetness": 82
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "20%",
+      "agingPotential": "50-100+ years"
+    },
+    "tastingNotes": "Blackberry, plum, chocolate, spice, violets, incredible concentration",
+    "pairings": [
+      "Stilton cheese",
+      "dark chocolate",
+      "walnuts",
+      "dried fruits"
+    ],
+    "history": "Taylor's benchmark since 1692. Declares vintage in exceptional years only. Aged in bottle.",
+    "servingRecommendation": "Decant 4-6 hours or more. Serve at 16-18°C.",
+    "universalCoords": {
+      "x": 85,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-116",
+    "name": "Fonseca Vintage Port",
+    "category": "wine",
+    "subcategory": "Dessert",
+    "type": "Fortified - Vintage Port",
+    "origin": "Douro Valley, Portugal",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Opulent, rich style of Vintage Port. Owned by Taylor's but maintains distinct character.",
+    "description": "Opulent, rich style of Vintage Port. Owned by Taylor's but maintains distinct character.",
+    "flavorProfile": {
+      "body": 88,
+      "sweetness": 85
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "20%",
+      "agingPotential": "40-80+ years"
+    },
+    "tastingNotes": "Plum, fig, chocolate, exotic spices, rich and luscious",
+    "pairings": [
+      "Blue cheese",
+      "chocolate desserts",
+      "nuts"
+    ],
+    "history": "Founded 1822. More opulent, hedonistic style than Taylor's.",
+    "servingRecommendation": "Decant 4-6 hours. Serve at 16-18°C.",
+    "universalCoords": {
+      "x": 88,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-117",
+    "name": "Graham's Vintage Port",
+    "category": "wine",
+    "subcategory": "Dessert",
+    "type": "Fortified - Vintage Port",
+    "origin": "Douro Valley, Portugal",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Sweet, rich style of Vintage Port from Symington family portfolio.",
+    "description": "Sweet, rich style of Vintage Port from Symington family portfolio.",
+    "flavorProfile": {
+      "body": 86,
+      "sweetness": 84
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "Medium-High",
+      "acidity": "Medium",
+      "alcohol": "20%",
+      "agingPotential": "40-70+ years"
+    },
+    "tastingNotes": "Plum, blackberry, chocolate, mint, rich sweetness",
+    "pairings": [
+      "Blue cheese",
+      "chocolate",
+      "nuts",
+      "fruit desserts"
+    ],
+    "history": "Founded 1820 by William and John Graham. Known for sweeter, approachable style.",
+    "servingRecommendation": "Decant 4-6 hours. Serve at 16-18°C.",
+    "universalCoords": {
+      "x": 86,
+      "y": 65
+    }
+  },
+  {
+    "id": "wine-118",
+    "name": "Quinta do Noval Nacional",
+    "category": "wine",
+    "subcategory": "Dessert",
+    "type": "Fortified - Vintage Port",
+    "origin": "Douro Valley, Portugal",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Legendary Port from ungrafted vines. Among the rarest and most expensive Ports.",
+    "description": "Legendary Port from ungrafted vines. Among the rarest and most expensive Ports.",
+    "flavorProfile": {
+      "body": 90,
+      "sweetness": 88
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "20%",
+      "agingPotential": "50-100+ years"
+    },
+    "tastingNotes": "Intense dark fruits, violets, minerals, spice, extraordinary concentration",
+    "pairings": [
+      "Fine blue cheeses",
+      "dark chocolate"
+    ],
+    "history": "Nacional from 2.5 hectares of ungrafted vines surviving phylloxera. 1931 perhaps greatest Port ever.",
+    "servingRecommendation": "Decant 6+ hours. Serve at 17-18°C.",
+    "universalCoords": {
+      "x": 90,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-119",
+    "name": "Dow's Vintage Port",
+    "category": "wine",
+    "subcategory": "Dessert",
+    "type": "Fortified - Vintage Port",
+    "origin": "Douro Valley, Portugal",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Driest style of major Vintage Port shippers. Firm and structured with great longevity.",
+    "description": "Driest style of major Vintage Port shippers. Firm and structured with great longevity.",
+    "flavorProfile": {
+      "body": 84,
+      "sweetness": 80
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "High",
+      "acidity": "Medium",
+      "alcohol": "20%",
+      "agingPotential": "40-70+ years"
+    },
+    "tastingNotes": "Blackberry, violet, dark chocolate, firm structure, less sweet than others",
+    "pairings": [
+      "Stilton",
+      "strong blue cheeses",
+      "dark chocolate"
+    ],
+    "history": "Founded 1798. Symington family ownership. Known for drier, more austere style.",
+    "servingRecommendation": "Decant 4-6 hours. Serve at 16-18°C.",
+    "universalCoords": {
+      "x": 84,
+      "y": 80
+    }
+  },
+  {
+    "id": "wine-120",
+    "name": "Tio Pepe Fino Sherry",
+    "category": "wine",
+    "subcategory": "Dessert",
+    "type": "Fortified - Fino Sherry",
+    "origin": "Jerez, Spain",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The world's best-selling Fino Sherry. Benchmark for this light, dry style.",
+    "description": "The world's best-selling Fino Sherry. Benchmark for this light, dry style.",
+    "flavorProfile": {
+      "body": 30,
+      "sweetness": 2
+    },
+    "specifications": {
+      "body": "Light",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "15%",
+      "agingPotential": "Drink young/fresh"
+    },
+    "tastingNotes": "Almond, yeast, saline, citrus, incredibly fresh and dry",
+    "pairings": [
+      "Tapas",
+      "olives",
+      "Jamón Ibérico",
+      "fried fish",
+      "almonds"
+    ],
+    "history": "González Byass founded 1835. Tio Pepe ('Uncle Joe') was founder's uncle. Ages under flor in solera.",
+    "servingRecommendation": "Serve very cold at 6-8°C. Consume shortly after opening.",
+    "universalCoords": {
+      "x": 30,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-121",
+    "name": "Lustau Almacenista Oloroso Sherry",
+    "category": "wine",
+    "subcategory": "Dessert",
+    "type": "Fortified - Oloroso Sherry",
+    "origin": "Jerez, Spain",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Rare Sherry from individual almacenistas. Oxidatively aged for rich, complex character.",
+    "description": "Rare Sherry from individual almacenistas. Oxidatively aged for rich, complex character.",
+    "flavorProfile": {
+      "body": 65,
+      "sweetness": 12
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "Medium",
+      "alcohol": "20-21%",
+      "agingPotential": "Indefinite"
+    },
+    "tastingNotes": "Walnut, caramel, dried fruit, leather, tobacco, incredibly complex",
+    "pairings": [
+      "Hard cheeses",
+      "nuts",
+      "dark chocolate",
+      "braised meats"
+    ],
+    "history": "Lustau pioneered Almacenista bottlings, showcasing small private stockholders' wines.",
+    "servingRecommendation": "Serve at 14-16°C.",
+    "universalCoords": {
+      "x": 65,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-122",
+    "name": "El Maestro Sierra Amontillado",
+    "category": "wine",
+    "subcategory": "Dessert",
+    "type": "Fortified - Amontillado Sherry",
+    "origin": "Jerez, Spain",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Traditional bodega producing exceptional aged Sherries. Amontillado combines Fino and Oloroso qualities.",
+    "description": "Traditional bodega producing exceptional aged Sherries. Amontillado combines Fino and Oloroso qualities.",
+    "flavorProfile": {
+      "body": 45,
+      "sweetness": 5
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "18%",
+      "agingPotential": "Indefinite"
+    },
+    "tastingNotes": "Hazelnut, caramel, dried fruit, saline, amber complexity",
+    "pairings": [
+      "Soup",
+      "consommé",
+      "cured meats",
+      "aged cheeses",
+      "nuts"
+    ],
+    "history": "Founded 1830. Pilar Plá continues traditional methods. Sherries aged for decades in cathedral-like bodega.",
+    "servingRecommendation": "Serve at 12-14°C.",
+    "universalCoords": {
+      "x": 45,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-123",
+    "name": "Barbeito Single Cask Madeira",
+    "category": "wine",
+    "subcategory": "Dessert",
+    "type": "Fortified - Madeira",
+    "origin": "Madeira, Portugal",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Premium Madeira specializing in single-cask, single-vintage bottlings. Extraordinary longevity.",
+    "description": "Premium Madeira specializing in single-cask, single-vintage bottlings. Extraordinary longevity.",
+    "flavorProfile": {
+      "body": 55,
+      "sweetness": 45
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "19-21%",
+      "agingPotential": "100+ years"
+    },
+    "tastingNotes": "Caramel, dried fruits, coffee, spice, incredible complexity and freshness",
+    "pairings": [
+      "Blue cheese",
+      "nuts",
+      "caramel desserts",
+      "cigars"
+    ],
+    "history": "Ricardo Freitas revived Barbeito, focusing on quality. Single-cask releases from noble varieties.",
+    "servingRecommendation": "Serve slightly cool at 14-16°C.",
+    "universalCoords": {
+      "x": 55,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-124",
+    "name": "Blandy's Vintage Malmsey Madeira",
+    "category": "wine",
+    "subcategory": "Dessert",
+    "type": "Fortified - Madeira (Sweet)",
+    "origin": "Madeira, Portugal",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Historic Madeira producer since 1811. Malmsey is sweetest, richest style.",
+    "description": "Historic Madeira producer since 1811. Malmsey is sweetest, richest style.",
+    "flavorProfile": {
+      "body": 68,
+      "sweetness": 78
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "Medium-High",
+      "alcohol": "19-20%",
+      "agingPotential": "100+ years"
+    },
+    "tastingNotes": "Toffee, dried fruits, coffee, caramel, incredible richness and freshness",
+    "pairings": [
+      "Dark chocolate",
+      "caramel desserts",
+      "blue cheese",
+      "nuts"
+    ],
+    "history": "Blandy family in Madeira since 1811. Malmsey (Malvasia) is sweetest of four noble varieties.",
+    "servingRecommendation": "Serve at 14-16°C.",
+    "universalCoords": {
+      "x": 68,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-125",
+    "name": "Henriques & Henriques 20 Year Old Verdelho",
+    "category": "wine",
+    "subcategory": "Dessert",
+    "type": "Fortified - Madeira (Medium Dry)",
+    "origin": "Madeira, Portugal",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Family producer since 1850 making authentic Madeiras. Verdelho is medium-dry style.",
+    "description": "Family producer since 1850 making authentic Madeiras. Verdelho is medium-dry style.",
+    "flavorProfile": {
+      "body": 52,
+      "sweetness": 35
+    },
+    "specifications": {
+      "body": "Medium",
+      "tannins": "N/A",
+      "acidity": "High",
+      "alcohol": "19-20%",
+      "agingPotential": "Indefinite once opened"
+    },
+    "tastingNotes": "Smoke, orange peel, coffee, caramel, dried fruit, balanced sweetness",
+    "pairings": [
+      "Consommé",
+      "turtle soup",
+      "aged hard cheeses",
+      "nuts"
+    ],
+    "history": "Henriques & Henriques founded 1850. Only Madeira producer owning vineyards. Verdelho is medium-dry.",
+    "servingRecommendation": "Serve at 14-16°C.",
+    "universalCoords": {
+      "x": 52,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-126",
+    "name": "Royal Tokaji Essencia",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Tokaji",
+    "origin": "Tokaj, Hungary",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "The most precious wine from Tokaj. Pure free-run juice from botrytized Furmint, incredibly rare.",
+    "description": "The most precious wine from Tokaj. Pure free-run juice from botrytized Furmint, incredibly rare.",
+    "flavorProfile": {
+      "body": 55,
+      "sweetness": 98
+    },
+    "specifications": {
+      "body": "Full",
+      "tannins": "N/A",
+      "acidity": "Very High",
+      "alcohol": "2-5%",
+      "agingPotential": "100+ years"
+    },
+    "tastingNotes": "Apricot, honey, orange marmalade, caramel, extraordinary concentration and acidity",
+    "pairings": [
+      "Foie gras",
+      "blue cheese",
+      "or sipped alone as meditation wine"
+    ],
+    "history": "Essencia is tears from botrytized grapes under own weight. Takes decades to ferment to just 2-5% alcohol.",
+    "servingRecommendation": "Serve at 10-12°C in small portions, traditionally on a spoon.",
+    "universalCoords": {
+      "x": 55,
+      "y": 50
+    }
+  },
+  {
+    "id": "wine-127",
+    "name": "Kracher Trockenbeerenauslese",
+    "category": "wine",
+    "subcategory": "White",
+    "type": "White - Various",
+    "origin": "Burgenland, Austria",
+    "image": "/images/wine/placeholder.jpg",
+    "price": "$$$",
+    "about": "Austria's greatest sweet wine producer. Alois Kracher revolutionized Austrian dessert wines.",
+    "description": "Austria's greatest sweet wine producer. Alois Kracher revolutionized Austrian dessert wines.",
+    "flavorProfile": {
+      "body": 30,
+      "sweetness": 85
+    },
+    "specifications": {
+      "body": "Medium-Full",
+      "tannins": "N/A",
+      "acidity": "Very High",
+      "alcohol": "7-9%",
+      "agingPotential": "20-40+ years"
+    },
+    "tastingNotes": "Apricot, honey, exotic fruits, botrytis complexity, incredible concentration",
+    "pairings": [
+      "Foie gras",
+      "blue cheese",
+      "fruit desserts"
+    ],
+    "history": "Alois Kracher Sr. pioneered quality Austrian TBA. Son Gerhard continues tradition.",
+    "servingRecommendation": "Serve at 8-10°C.",
+    "universalCoords": {
+      "x": 30,
+      "y": 50
+    }
+  }
+]

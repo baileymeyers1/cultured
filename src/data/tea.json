@@ -1,0 +1,1109 @@
+[
+  {
+    "id": "gyokuro",
+    "name": "Gyokuro",
+    "category": "tea",
+    "subcategory": "Green",
+    "type": "Japanese Green Tea",
+    "origin": "Uji, Kyoto, Japan",
+    "image": "",
+    "description": "Japan's most prized shade-grown green tea with intense umami sweetness.",
+    "price": "$$$$",
+    "about": "Gyokuro is Japan's highest grade of green tea, shaded for 20+ days before harvest. This process increases chlorophyll and L-theanine, creating an intensely sweet, umami-rich tea with reduced astringency.",
+    "flavorProfile": {
+      "body": 15,
+      "oxidation": 5
+    },
+    "specifications": {
+      "oxidationLevel": "Unoxidized",
+      "caffeineLevel": "High",
+      "brewTemp": "50-60°C (122-140°F)",
+      "steepTime": "2-3 minutes"
+    },
+    "tastingNotes": "Intense umami, sweet marine notes, asparagus, nori seaweed, and lingering sweetness.",
+    "pairings": ["Sushi", "Light Japanese sweets (wagashi)", "Seafood"],
+    "history": "Gyokuro was first produced in 1835 in Uji by Yamamoto Kahei. The shading technique was discovered to produce sweeter, more delicate leaves.",
+    "servingRecommendation": "Use cooler water (50-60°C) and steep for 2-3 minutes. Multiple infusions reveal different flavor layers. Serve in small cups.",
+    "universalCoords": { "x": 5, "y": 15 }
+  },
+  {
+    "id": "matcha-ceremonial",
+    "name": "Ceremonial Matcha",
+    "category": "tea",
+    "subcategory": "Green",
+    "type": "Japanese Powdered Green Tea",
+    "origin": "Uji, Kyoto, Japan",
+    "image": "",
+    "description": "The finest grade of stone-ground green tea for traditional Japanese tea ceremony.",
+    "price": "$$$$",
+    "about": "Ceremonial matcha is made from the youngest, most tender tea leaves, shade-grown and stone-ground into a fine powder. It represents the pinnacle of Japanese tea culture.",
+    "flavorProfile": {
+      "body": 20,
+      "oxidation": 5
+    },
+    "specifications": {
+      "oxidationLevel": "Unoxidized",
+      "caffeineLevel": "High",
+      "brewTemp": "70-80°C (158-176°F)",
+      "steepTime": "Whisked, not steeped"
+    },
+    "tastingNotes": "Creamy umami, vegetal sweetness, subtle bitterness, and lingering finish.",
+    "pairings": ["Japanese wagashi", "White chocolate", "Light pastries"],
+    "history": "Matcha was introduced to Japan from China by Zen monk Eisai in 1191. The tea ceremony (chanoyu) developed around matcha in the 15th-16th centuries.",
+    "servingRecommendation": "Sift 1-2g of matcha, add 70ml hot water, and whisk vigorously with a chasen (bamboo whisk) until frothy.",
+    "universalCoords": { "x": 5, "y": 20 }
+  },
+  {
+    "id": "sencha",
+    "name": "Sencha",
+    "category": "tea",
+    "subcategory": "Green",
+    "type": "Japanese Green Tea",
+    "origin": "Shizuoka, Japan",
+    "image": "",
+    "description": "Japan's most popular everyday green tea with refreshing, grassy character.",
+    "price": "$$",
+    "about": "Sencha accounts for about 80% of Japanese tea production. The leaves are steamed after harvest to halt oxidation, then rolled and dried, creating a distinctively fresh, vegetal flavor.",
+    "flavorProfile": {
+      "body": 25,
+      "oxidation": 5
+    },
+    "specifications": {
+      "oxidationLevel": "Unoxidized",
+      "caffeineLevel": "Medium",
+      "brewTemp": "70-80°C (158-176°F)",
+      "steepTime": "1-2 minutes"
+    },
+    "tastingNotes": "Fresh grass, spinach, mild sweetness, and subtle astringency with clean finish.",
+    "pairings": ["Rice dishes", "Sushi", "Light snacks"],
+    "history": "Sencha production began in Uji in 1738 when Nagatani Soen developed the steaming and rolling method that defines Japanese green tea.",
+    "servingRecommendation": "Brew at 70-80°C for 1-2 minutes. Can be enjoyed multiple infusions with slightly increasing temperature.",
+    "universalCoords": { "x": 5, "y": 25 }
+  },
+  {
+    "id": "genmaicha",
+    "name": "Genmaicha",
+    "category": "tea",
+    "subcategory": "Green",
+    "type": "Japanese Green Tea with Roasted Rice",
+    "origin": "Japan",
+    "image": "",
+    "description": "A comforting blend of green tea and toasted rice with nutty, popcorn-like flavor.",
+    "price": "$",
+    "about": "Genmaicha combines sencha or bancha with roasted brown rice (genmai). Originally created to stretch expensive tea, it's now beloved for its toasty, comforting character.",
+    "flavorProfile": {
+      "body": 35,
+      "oxidation": 8
+    },
+    "specifications": {
+      "oxidationLevel": "Unoxidized",
+      "caffeineLevel": "Low-Medium",
+      "brewTemp": "80-85°C (176-185°F)",
+      "steepTime": "2-3 minutes"
+    },
+    "tastingNotes": "Toasted rice, popcorn, nutty sweetness, and light vegetal notes.",
+    "pairings": ["Japanese meals", "Rice crackers", "Light snacks"],
+    "history": "Genmaicha originated as a way to make tea affordable for common people by adding rice as a filler. It became popular across all social classes.",
+    "servingRecommendation": "Brew with hot water (80-85°C) for 2-3 minutes. Excellent as an everyday tea, especially with meals.",
+    "universalCoords": { "x": 8, "y": 35 }
+  },
+  {
+    "id": "hojicha",
+    "name": "Hojicha",
+    "category": "tea",
+    "subcategory": "Green",
+    "type": "Japanese Roasted Green Tea",
+    "origin": "Kyoto, Japan",
+    "image": "",
+    "description": "A roasted Japanese green tea with warm, caramel-like character and low caffeine.",
+    "price": "$",
+    "about": "Hojicha is made by roasting bancha or sencha over high heat, giving it a distinctive reddish-brown color and toasty flavor. The roasting reduces caffeine, making it ideal for evenings.",
+    "flavorProfile": {
+      "body": 45,
+      "oxidation": 12
+    },
+    "specifications": {
+      "oxidationLevel": "Unoxidized (roasted)",
+      "caffeineLevel": "Low",
+      "brewTemp": "90-100°C (194-212°F)",
+      "steepTime": "30 seconds - 1 minute"
+    },
+    "tastingNotes": "Roasted nuts, caramel, woody notes, and subtle smokiness with no astringency.",
+    "pairings": ["Japanese desserts", "Chocolate", "Evening meals"],
+    "history": "Hojicha was created in Kyoto in the 1920s as a way to utilize older tea leaves and stems. It quickly became popular for its soothing character.",
+    "servingRecommendation": "Brew with boiling water for a quick steep. The roasted character tolerates high temperatures well. Great served hot or iced.",
+    "universalCoords": { "x": 12, "y": 45 }
+  },
+  {
+    "id": "dragon-well-longjing",
+    "name": "Dragon Well (Longjing)",
+    "category": "tea",
+    "subcategory": "Green",
+    "type": "Chinese Green Tea",
+    "origin": "Hangzhou, Zhejiang, China",
+    "image": "",
+    "description": "China's most famous green tea, pan-fired to create a distinctive flat leaf and chestnut aroma.",
+    "price": "$$$",
+    "about": "Longjing (Dragon Well) is China's most prestigious green tea, grown near West Lake in Hangzhou. The leaves are hand-pressed flat during pan-firing, creating a unique appearance and nutty sweetness.",
+    "flavorProfile": {
+      "body": 22,
+      "oxidation": 5
+    },
+    "specifications": {
+      "oxidationLevel": "Unoxidized",
+      "caffeineLevel": "Medium",
+      "brewTemp": "75-80°C (167-176°F)",
+      "steepTime": "2-3 minutes"
+    },
+    "tastingNotes": "Chestnut, fresh grass, sweet vegetal notes, and subtle orchid fragrance.",
+    "pairings": ["Light Chinese cuisine", "Nuts", "Mild cheeses"],
+    "history": "Longjing has been produced since the Tang Dynasty (618-907 CE). It became an imperial tribute tea during the Qing Dynasty and remains one of China's Ten Famous Teas.",
+    "servingRecommendation": "Brew in a glass to watch the beautiful flat leaves unfurl. Use 75-80°C water and steep 2-3 minutes. Multiple infusions recommended.",
+    "universalCoords": { "x": 5, "y": 22 }
+  },
+  {
+    "id": "biluochun",
+    "name": "Biluochun",
+    "category": "tea",
+    "subcategory": "Green",
+    "type": "Chinese Green Tea",
+    "origin": "Dongting Mountain, Jiangsu, China",
+    "image": "",
+    "description": "A delicate Chinese green tea with distinctive spiral-rolled leaves and fruity aroma.",
+    "price": "$$$",
+    "about": "Biluochun (Green Snail Spring) is named for its tightly spiraled leaves. Traditionally grown among fruit trees, the tea absorbs floral and fruity notes from peach, plum, and apricot blossoms.",
+    "flavorProfile": {
+      "body": 18,
+      "oxidation": 5
+    },
+    "specifications": {
+      "oxidationLevel": "Unoxidized",
+      "caffeineLevel": "Medium",
+      "brewTemp": "70-75°C (158-167°F)",
+      "steepTime": "2-3 minutes"
+    },
+    "tastingNotes": "Fruity florals, fresh chestnut, light vegetal notes, and sweet finish.",
+    "pairings": ["Light pastries", "Fresh fruit", "Mild dim sum"],
+    "history": "Biluochun dates to the Tang Dynasty but gained its current name from Emperor Kangxi during the Qing Dynasty, who was impressed by its snail-like appearance.",
+    "servingRecommendation": "Use cooler water (70-75°C) to preserve delicate flavors. Watch the tiny spiraled leaves sink in a glass cup.",
+    "universalCoords": { "x": 5, "y": 18 }
+  },
+  {
+    "id": "gunpowder-green",
+    "name": "Gunpowder Green",
+    "category": "tea",
+    "subcategory": "Green",
+    "type": "Chinese Green Tea",
+    "origin": "Zhejiang, China",
+    "image": "",
+    "description": "A bold Chinese green tea with leaves rolled into small pellets resembling gunpowder.",
+    "price": "$",
+    "about": "Gunpowder tea gets its name from its appearance—leaves tightly rolled into small pellets. This rolling helps preserve freshness and creates a stronger, more robust flavor than other green teas.",
+    "flavorProfile": {
+      "body": 40,
+      "oxidation": 8
+    },
+    "specifications": {
+      "oxidationLevel": "Unoxidized",
+      "caffeineLevel": "Medium-High",
+      "brewTemp": "75-80°C (167-176°F)",
+      "steepTime": "2-3 minutes"
+    },
+    "tastingNotes": "Bold, slightly smoky, vegetal with hints of honey and a brisk finish.",
+    "pairings": ["Mint (for Moroccan tea)", "Savory foods", "Spiced dishes"],
+    "history": "Gunpowder tea has been produced since the Tang Dynasty. It became popular in Morocco for making mint tea and is one of the most widely consumed teas globally.",
+    "servingRecommendation": "Brew at 75-80°C for 2-3 minutes. Traditional Moroccan preparation includes fresh mint and sugar. Also excellent plain.",
+    "universalCoords": { "x": 8, "y": 40 }
+  },
+  {
+    "id": "darjeeling-first-flush",
+    "name": "Darjeeling First Flush",
+    "category": "tea",
+    "subcategory": "Black",
+    "type": "Indian Black Tea",
+    "origin": "Darjeeling, West Bengal, India",
+    "image": "",
+    "description": "The 'Champagne of Teas' - a delicate, floral spring harvest from the Himalayan foothills.",
+    "price": "$$$",
+    "about": "First flush Darjeeling is the first spring harvest, picked in March-April. The cool mountain climate and unique terroir create a light, floral tea unlike any other black tea.",
+    "flavorProfile": {
+      "body": 35,
+      "oxidation": 65
+    },
+    "specifications": {
+      "oxidationLevel": "Partially Oxidized (65-85%)",
+      "caffeineLevel": "Medium",
+      "brewTemp": "85-90°C (185-194°F)",
+      "steepTime": "3-4 minutes"
+    },
+    "tastingNotes": "Muscatel grape, floral notes, light astringency, and fresh spring character.",
+    "pairings": ["Light pastries", "Scones", "Fresh fruit"],
+    "history": "Tea cultivation began in Darjeeling in 1841. The region's unique combination of altitude, rainfall, and soil creates tea found nowhere else on Earth.",
+    "servingRecommendation": "Brew at 85-90°C for 3-4 minutes. Best enjoyed without milk to appreciate the delicate muscatel notes.",
+    "universalCoords": { "x": 65, "y": 35 }
+  },
+  {
+    "id": "darjeeling-second-flush",
+    "name": "Darjeeling Second Flush",
+    "category": "tea",
+    "subcategory": "Black",
+    "type": "Indian Black Tea",
+    "origin": "Darjeeling, West Bengal, India",
+    "image": "",
+    "description": "A richer summer harvest Darjeeling with pronounced muscatel character.",
+    "price": "$$$",
+    "about": "Second flush Darjeeling is harvested in May-June after the first monsoon rains. The warmer weather creates a more developed, muscatel flavor that many consider the quintessential Darjeeling experience.",
+    "flavorProfile": {
+      "body": 48,
+      "oxidation": 78
+    },
+    "specifications": {
+      "oxidationLevel": "Fully Oxidized",
+      "caffeineLevel": "Medium",
+      "brewTemp": "90-95°C (194-203°F)",
+      "steepTime": "3-5 minutes"
+    },
+    "tastingNotes": "Pronounced muscatel grape, honey, ripe fruit, and amber liquor with fuller body.",
+    "pairings": ["Afternoon tea sandwiches", "Scones with cream", "Mild cheeses"],
+    "history": "The muscatel character of second flush Darjeeling became highly prized in British tea culture. It remains one of the most sought-after teas in the world.",
+    "servingRecommendation": "Brew at 90-95°C for 3-5 minutes. Can be enjoyed with a small splash of milk, though many prefer it black.",
+    "universalCoords": { "x": 78, "y": 48 }
+  },
+  {
+    "id": "assam-orthodox",
+    "name": "Assam Orthodox",
+    "category": "tea",
+    "subcategory": "Black",
+    "type": "Indian Black Tea",
+    "origin": "Assam Valley, India",
+    "image": "",
+    "description": "A bold, malty Indian black tea from the world's largest tea-growing region.",
+    "price": "$$",
+    "about": "Assam produces more tea than any other region in the world. Orthodox Assam is made using traditional methods, creating a bold, full-bodied tea with distinctive malty sweetness.",
+    "flavorProfile": {
+      "body": 75,
+      "oxidation": 95
+    },
+    "specifications": {
+      "oxidationLevel": "Fully Oxidized",
+      "caffeineLevel": "High",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "3-5 minutes"
+    },
+    "tastingNotes": "Bold malt, honey, dried fruit, and brisk character with rich amber color.",
+    "pairings": ["Full English breakfast", "Toast and jam", "Rich desserts"],
+    "history": "Tea was discovered growing wild in Assam in 1823. The Assam tea plant (Camellia sinensis var. assamica) is a different variety from Chinese tea, producing stronger, maltier flavors.",
+    "servingRecommendation": "Brew with boiling water for 3-5 minutes. Excellent with milk and sugar for a traditional British-style breakfast tea.",
+    "universalCoords": { "x": 95, "y": 75 }
+  },
+  {
+    "id": "ceylon-orange-pekoe",
+    "name": "Ceylon Orange Pekoe",
+    "category": "tea",
+    "subcategory": "Black",
+    "type": "Sri Lankan Black Tea",
+    "origin": "Nuwara Eliya, Sri Lanka",
+    "image": "",
+    "description": "A bright, citrusy high-grown Ceylon tea with refined character.",
+    "price": "$$",
+    "about": "Ceylon Orange Pekoe refers to high-quality whole-leaf tea from Sri Lanka's highland estates. The high altitude creates a bright, crisp tea with natural citrus notes.",
+    "flavorProfile": {
+      "body": 55,
+      "oxidation": 88
+    },
+    "specifications": {
+      "oxidationLevel": "Fully Oxidized",
+      "caffeineLevel": "Medium-High",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "3-4 minutes"
+    },
+    "tastingNotes": "Bright citrus, crisp tannins, subtle floral notes, and clean finish.",
+    "pairings": ["Lemon desserts", "Afternoon tea treats", "Cucumber sandwiches"],
+    "history": "Ceylon tea production began in the 1860s after coffee blight destroyed Sri Lanka's coffee plantations. It became one of the world's most recognized tea origins.",
+    "servingRecommendation": "Brew with boiling water for 3-4 minutes. Excellent with lemon or enjoyed black. Also good with a splash of milk.",
+    "universalCoords": { "x": 88, "y": 55 }
+  },
+  {
+    "id": "keemun",
+    "name": "Keemun",
+    "category": "tea",
+    "subcategory": "Black",
+    "type": "Chinese Black Tea",
+    "origin": "Qimen, Anhui, China",
+    "image": "",
+    "description": "China's most famous black tea with complex wine-like character and orchid notes.",
+    "price": "$$",
+    "about": "Keemun (Qimen) is regarded as one of China's finest black teas. It was developed in 1875 to compete with Indian teas and quickly became prized for its unique, complex character.",
+    "flavorProfile": {
+      "body": 52,
+      "oxidation": 90
+    },
+    "specifications": {
+      "oxidationLevel": "Fully Oxidized",
+      "caffeineLevel": "Medium",
+      "brewTemp": "90-95°C (194-203°F)",
+      "steepTime": "3-5 minutes"
+    },
+    "tastingNotes": "Wine-like complexity, orchid fragrance, pine, dried fruit, and smooth finish.",
+    "pairings": ["Chinese cuisine", "Dark chocolate", "Aged cheese"],
+    "history": "Keemun was created in 1875 by Yu Ganchen, who studied black tea production in Fujian. It became the base for English Breakfast blends and remains one of China's Ten Famous Teas.",
+    "servingRecommendation": "Brew at 90-95°C for 3-5 minutes. Best enjoyed without milk to appreciate the complex aromatics.",
+    "universalCoords": { "x": 90, "y": 52 }
+  },
+  {
+    "id": "lapsang-souchong",
+    "name": "Lapsang Souchong",
+    "category": "tea",
+    "subcategory": "Black",
+    "type": "Chinese Smoked Black Tea",
+    "origin": "Wuyi Mountains, Fujian, China",
+    "image": "",
+    "description": "The world's first black tea, famously smoked over pine wood for intense smoky flavor.",
+    "price": "$$",
+    "about": "Lapsang Souchong is traditionally smoked over pine wood fires, creating an intensely smoky flavor. It originated in the Wuyi Mountains and is considered the original black tea.",
+    "flavorProfile": {
+      "body": 70,
+      "oxidation": 92
+    },
+    "specifications": {
+      "oxidationLevel": "Fully Oxidized (smoked)",
+      "caffeineLevel": "Medium",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "3-5 minutes"
+    },
+    "tastingNotes": "Pine smoke, campfire, dried longan fruit, and whiskey-like notes.",
+    "pairings": ["Smoked salmon", "Bacon", "Strong cheeses"],
+    "history": "Legend says Lapsang Souchong was created accidentally when tea farmers dried leaves over pine fires to speed processing. It became popular in Europe in the 17th century.",
+    "servingRecommendation": "Brew with boiling water for 3-5 minutes. The smoky flavor is polarizing—try it before buying large quantities. Some enjoy it with milk.",
+    "universalCoords": { "x": 92, "y": 70 }
+  },
+  {
+    "id": "earl-grey",
+    "name": "Earl Grey",
+    "category": "tea",
+    "subcategory": "Black",
+    "type": "Flavored Black Tea",
+    "origin": "Various (Traditional Blend)",
+    "image": "",
+    "description": "The classic bergamot-scented black tea blend named after a British Prime Minister.",
+    "price": "$$",
+    "about": "Earl Grey is black tea flavored with oil of bergamot, a citrus fruit. The exact origin is debated, but it became one of the world's most popular flavored teas.",
+    "flavorProfile": {
+      "body": 50,
+      "oxidation": 85
+    },
+    "specifications": {
+      "oxidationLevel": "Fully Oxidized",
+      "caffeineLevel": "Medium",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "3-5 minutes"
+    },
+    "tastingNotes": "Bergamot citrus, floral lavender hints, malty base, and aromatic finish.",
+    "pairings": ["Lemon cakes", "Shortbread", "Scones"],
+    "history": "Earl Grey is named after Charles Grey, 2nd Earl Grey, British Prime Minister 1830-1834. The story goes that the blend was created by a Chinese mandarin.",
+    "servingRecommendation": "Brew with boiling water for 3-5 minutes. Traditional to enjoy with lemon rather than milk, which can curdle with bergamot.",
+    "universalCoords": { "x": 85, "y": 50 }
+  },
+  {
+    "id": "english-breakfast",
+    "name": "English Breakfast",
+    "category": "tea",
+    "subcategory": "Black",
+    "type": "Black Tea Blend",
+    "origin": "Various (Traditional Blend)",
+    "image": "",
+    "description": "A robust, full-bodied blend designed to accompany a hearty English breakfast.",
+    "price": "$",
+    "about": "English Breakfast is a blend typically combining Assam, Ceylon, and Kenyan teas. It was created to be a strong, robust tea that pairs well with the traditional full English breakfast.",
+    "flavorProfile": {
+      "body": 72,
+      "oxidation": 92
+    },
+    "specifications": {
+      "oxidationLevel": "Fully Oxidized",
+      "caffeineLevel": "High",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "3-5 minutes"
+    },
+    "tastingNotes": "Robust malty character, honey notes, brisk tannins, and full body.",
+    "pairings": ["Full breakfast", "Toast", "Eggs and bacon"],
+    "history": "English Breakfast tea emerged in the 19th century as British tea culture developed. The exact origins are disputed, but it became synonymous with British tea drinking.",
+    "servingRecommendation": "Brew with boiling water for 3-5 minutes. Traditionally served with milk and sugar. Strong enough to handle both.",
+    "universalCoords": { "x": 92, "y": 72 }
+  },
+  {
+    "id": "irish-breakfast",
+    "name": "Irish Breakfast",
+    "category": "tea",
+    "subcategory": "Black",
+    "type": "Black Tea Blend",
+    "origin": "Various (Traditional Blend)",
+    "image": "",
+    "description": "An exceptionally strong blend dominated by Assam, perfect with milk.",
+    "price": "$",
+    "about": "Irish Breakfast is even stronger than English Breakfast, with a higher proportion of robust Assam tea. The Irish are among the world's largest tea consumers per capita.",
+    "flavorProfile": {
+      "body": 82,
+      "oxidation": 95
+    },
+    "specifications": {
+      "oxidationLevel": "Fully Oxidized",
+      "caffeineLevel": "Very High",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "4-5 minutes"
+    },
+    "tastingNotes": "Very robust malt, strong tannins, rich honey notes, and deep red-brown color.",
+    "pairings": ["Full Irish breakfast", "Soda bread", "Rich desserts"],
+    "history": "Irish Breakfast developed as a stronger alternative to English Breakfast. Ireland's damp climate and hearty cuisine called for a more robust tea.",
+    "servingRecommendation": "Brew with boiling water for 4-5 minutes. Almost always served with milk and sugar in Ireland.",
+    "universalCoords": { "x": 95, "y": 82 }
+  },
+  {
+    "id": "golden-yunnan",
+    "name": "Golden Yunnan",
+    "category": "tea",
+    "subcategory": "Black",
+    "type": "Chinese Black Tea",
+    "origin": "Yunnan Province, China",
+    "image": "",
+    "description": "A luxurious Chinese black tea with golden tips and honeyed sweetness.",
+    "price": "$$",
+    "about": "Golden Yunnan (Dian Hong) features abundant golden tips from young tea buds. Yunnan's ancient tea trees and unique climate produce a distinctively smooth, sweet black tea.",
+    "flavorProfile": {
+      "body": 58,
+      "oxidation": 88
+    },
+    "specifications": {
+      "oxidationLevel": "Fully Oxidized",
+      "caffeineLevel": "Medium",
+      "brewTemp": "90-95°C (194-203°F)",
+      "steepTime": "3-4 minutes"
+    },
+    "tastingNotes": "Honey, cocoa, malt, dried fruit, and smooth finish with minimal astringency.",
+    "pairings": ["Chocolate desserts", "Honey pastries", "Light dim sum"],
+    "history": "Yunnan black tea production began in 1939 as China sought new export products. The region's ancient tea trees create unique, prized flavors.",
+    "servingRecommendation": "Brew at 90-95°C for 3-4 minutes. Best enjoyed without milk to appreciate the natural sweetness and complexity.",
+    "universalCoords": { "x": 88, "y": 58 }
+  },
+  {
+    "id": "tie-guan-yin",
+    "name": "Tie Guan Yin (Iron Goddess)",
+    "category": "tea",
+    "subcategory": "Oolong",
+    "type": "Chinese Oolong Tea",
+    "origin": "Anxi, Fujian, China",
+    "image": "",
+    "description": "China's most famous oolong, named after the Buddhist goddess of mercy.",
+    "price": "$$$",
+    "about": "Tie Guan Yin is a premium oolong from Anxi, Fujian. The traditional preparation involves multiple rounds of rolling and oxidation, creating complex floral and roasted notes.",
+    "flavorProfile": {
+      "body": 35,
+      "oxidation": 28
+    },
+    "specifications": {
+      "oxidationLevel": "Light-Medium (15-35%)",
+      "caffeineLevel": "Medium",
+      "brewTemp": "90-95°C (194-203°F)",
+      "steepTime": "1-2 minutes per infusion"
+    },
+    "tastingNotes": "Orchid fragrance, creamy texture, roasted notes, and lingering floral sweetness.",
+    "pairings": ["Dim sum", "Light Chinese cuisine", "Nuts"],
+    "history": "Tie Guan Yin's origin involves legends of the goddess Guan Yin appearing to a farmer. It has been produced since the 18th century and is one of China's Ten Famous Teas.",
+    "servingRecommendation": "Use gongfu style: small teapot, short steeps (1-2 min), many infusions. Watch the tightly rolled leaves unfurl beautifully.",
+    "universalCoords": { "x": 28, "y": 35 }
+  },
+  {
+    "id": "da-hong-pao",
+    "name": "Da Hong Pao (Big Red Robe)",
+    "category": "tea",
+    "subcategory": "Oolong",
+    "type": "Chinese Rock Oolong",
+    "origin": "Wuyi Mountains, Fujian, China",
+    "image": "",
+    "description": "A legendary rock oolong with mineral complexity and roasted character.",
+    "price": "$$$$",
+    "about": "Da Hong Pao is one of the most famous and expensive teas in the world. The original mother trees on Wuyi Mountain are national treasures. Modern Da Hong Pao is made from cuttings of these trees.",
+    "flavorProfile": {
+      "body": 55,
+      "oxidation": 45
+    },
+    "specifications": {
+      "oxidationLevel": "Medium-High (40-60%)",
+      "caffeineLevel": "Medium",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "1-2 minutes per infusion"
+    },
+    "tastingNotes": "Mineral rock essence, roasted grain, dried fruit, orchid, and long-lasting hui gan (returning sweetness).",
+    "pairings": ["Rich Chinese cuisine", "Dark chocolate", "Aged cheese"],
+    "history": "Legend says Da Hong Pao cured a Ming Dynasty scholar's mother, and he draped his red robe over the tea bushes in gratitude. The original bushes are among the world's most valuable plants.",
+    "servingRecommendation": "Gongfu brewing recommended. Use boiling water, short steeps. Can handle 10+ infusions, revealing different flavors each time.",
+    "universalCoords": { "x": 45, "y": 55 }
+  },
+  {
+    "id": "wuyi-rou-gui",
+    "name": "Wuyi Rou Gui (Cinnamon)",
+    "category": "tea",
+    "subcategory": "Oolong",
+    "type": "Chinese Rock Oolong",
+    "origin": "Wuyi Mountains, Fujian, China",
+    "image": "",
+    "description": "A bold Wuyi rock oolong with distinctive cinnamon-like spice character.",
+    "price": "$$$",
+    "about": "Rou Gui is a Wuyi rock oolong prized for its naturally spicy, cinnamon-like character. The mineral-rich rocky terroir creates a distinctive 'rock rhyme' (yan yun) flavor.",
+    "flavorProfile": {
+      "body": 60,
+      "oxidation": 50
+    },
+    "specifications": {
+      "oxidationLevel": "Medium-High (40-60%)",
+      "caffeineLevel": "Medium",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "1-2 minutes per infusion"
+    },
+    "tastingNotes": "Cinnamon spice, roasted grain, stone fruit, mineral notes, and warming finish.",
+    "pairings": ["Spiced desserts", "Cinnamon pastries", "Dark chocolate"],
+    "history": "Rou Gui has been grown in the Wuyi Mountains for centuries. It gained prominence in the 19th century as one of the primary Wuyi cultivars.",
+    "servingRecommendation": "Gongfu brewing with boiling water. Short steeps (30-60 seconds initially) allow multiple infusions revealing evolving flavors.",
+    "universalCoords": { "x": 50, "y": 60 }
+  },
+  {
+    "id": "dong-ding",
+    "name": "Dong Ding (Frozen Peak)",
+    "category": "tea",
+    "subcategory": "Oolong",
+    "type": "Taiwanese Oolong",
+    "origin": "Nantou County, Taiwan",
+    "image": "",
+    "description": "A classic Taiwanese oolong with traditional roasted character and smooth sweetness.",
+    "price": "$$$",
+    "about": "Dong Ding is Taiwan's most famous traditional oolong, grown on Frozen Peak Mountain. The combination of ball-rolling and roasting creates a uniquely smooth, complex tea.",
+    "flavorProfile": {
+      "body": 50,
+      "oxidation": 40
+    },
+    "specifications": {
+      "oxidationLevel": "Medium (25-40%)",
+      "caffeineLevel": "Medium",
+      "brewTemp": "90-95°C (194-203°F)",
+      "steepTime": "1-3 minutes per infusion"
+    },
+    "tastingNotes": "Roasted grain, caramel sweetness, stone fruit, and subtle floral notes with silky texture.",
+    "pairings": ["Taiwanese cuisine", "Pastries", "Nuts and dried fruit"],
+    "history": "Dong Ding was brought to Taiwan from Wuyi in the 1850s. It became the foundation of Taiwan's famous oolong tradition.",
+    "servingRecommendation": "Gongfu brewing recommended. Tightly rolled leaves need hot water (90-95°C) and open up over multiple infusions.",
+    "universalCoords": { "x": 40, "y": 50 }
+  },
+  {
+    "id": "ali-shan",
+    "name": "Ali Shan High Mountain",
+    "category": "tea",
+    "subcategory": "Oolong",
+    "type": "Taiwanese High Mountain Oolong",
+    "origin": "Ali Shan, Chiayi County, Taiwan",
+    "image": "",
+    "description": "A floral, butter-smooth high mountain oolong from Taiwan's famous Ali Shan range.",
+    "price": "$$$",
+    "about": "Ali Shan is one of Taiwan's premier high mountain tea regions, producing oolongs above 1,000m altitude. The cool climate and mist create exceptionally smooth, floral teas.",
+    "flavorProfile": {
+      "body": 28,
+      "oxidation": 22
+    },
+    "specifications": {
+      "oxidationLevel": "Light (15-25%)",
+      "caffeineLevel": "Medium",
+      "brewTemp": "90-95°C (194-203°F)",
+      "steepTime": "1-2 minutes per infusion"
+    },
+    "tastingNotes": "Buttery cream, orchid, lily, fresh vegetables, and sweet finish.",
+    "pairings": ["Light pastries", "Fresh fruit", "Mild dim sum"],
+    "history": "High mountain oolong production began in Taiwan in the 1970s and 1980s. Ali Shan became synonymous with premium Taiwanese tea.",
+    "servingRecommendation": "Gongfu brewing with 90-95°C water. The tightly rolled balls need multiple short infusions to fully unfurl. 6-8 infusions possible.",
+    "universalCoords": { "x": 22, "y": 28 }
+  },
+  {
+    "id": "oriental-beauty",
+    "name": "Oriental Beauty (Bai Hao)",
+    "category": "tea",
+    "subcategory": "Oolong",
+    "type": "Taiwanese Oolong",
+    "origin": "Hsinchu County, Taiwan",
+    "image": "",
+    "description": "A unique heavily oxidized oolong with honey-fruit character from insect-bitten leaves.",
+    "price": "$$$",
+    "about": "Oriental Beauty is made from leaves bitten by tiny leafhoppers. The plant's defensive response creates unique honey and muscatel notes. It's one of the most heavily oxidized oolongs.",
+    "flavorProfile": {
+      "body": 45,
+      "oxidation": 72
+    },
+    "specifications": {
+      "oxidationLevel": "High (60-80%)",
+      "caffeineLevel": "Medium",
+      "brewTemp": "85-90°C (185-194°F)",
+      "steepTime": "3-5 minutes"
+    },
+    "tastingNotes": "Honey, muscatel grape, ripe peach, rose, and spice with silky texture.",
+    "pairings": ["Light desserts", "Fresh fruit", "Honey pastries"],
+    "history": "Oriental Beauty's name supposedly came from Queen Elizabeth II, who remarked on its beauty. The insect-bite process was discovered accidentally by Taiwanese farmers.",
+    "servingRecommendation": "Brew at 85-90°C for 3-5 minutes. Can be brewed Western or gongfu style. Beautiful leaf appearance in clear glass.",
+    "universalCoords": { "x": 72, "y": 45 }
+  },
+  {
+    "id": "milk-oolong",
+    "name": "Jin Xuan (Milk Oolong)",
+    "category": "tea",
+    "subcategory": "Oolong",
+    "type": "Taiwanese Oolong",
+    "origin": "Nantou, Taiwan",
+    "image": "",
+    "description": "A modern Taiwanese cultivar with natural creamy, milky character.",
+    "price": "$$",
+    "about": "Jin Xuan is a cultivar developed in Taiwan in the 1980s. It naturally produces a creamy, milky flavor and aroma without any added flavoring, though artificially flavored versions exist.",
+    "flavorProfile": {
+      "body": 32,
+      "oxidation": 25
+    },
+    "specifications": {
+      "oxidationLevel": "Light-Medium (20-30%)",
+      "caffeineLevel": "Medium",
+      "brewTemp": "90-95°C (194-203°F)",
+      "steepTime": "1-2 minutes per infusion"
+    },
+    "tastingNotes": "Natural cream and milk notes, floral orchid, butter, and sweet finish.",
+    "pairings": ["Cream pastries", "Vanilla desserts", "Light snacks"],
+    "history": "Jin Xuan (TTES #12) was developed at Taiwan's Tea Research Station in 1981. Its natural milky character made it internationally popular.",
+    "servingRecommendation": "Gongfu brewing at 90-95°C. Look for authentic Jin Xuan without artificial flavoring—the natural creaminess is subtle but distinctive.",
+    "universalCoords": { "x": 25, "y": 32 }
+  },
+  {
+    "id": "bai-mu-dan",
+    "name": "Bai Mu Dan (White Peony)",
+    "category": "tea",
+    "subcategory": "White",
+    "type": "Chinese White Tea",
+    "origin": "Fuding, Fujian, China",
+    "image": "",
+    "description": "A beautiful white tea with silvery leaves and gentle floral-honey character.",
+    "price": "$$",
+    "about": "Bai Mu Dan (White Peony) is made from one bud and two leaves. It offers more body than Silver Needle while retaining the delicate character of white tea.",
+    "flavorProfile": {
+      "body": 22,
+      "oxidation": 12
+    },
+    "specifications": {
+      "oxidationLevel": "Minimal (5-15%)",
+      "caffeineLevel": "Low-Medium",
+      "brewTemp": "75-85°C (167-185°F)",
+      "steepTime": "3-5 minutes"
+    },
+    "tastingNotes": "Hay, honey, melon, peach, and gentle floral notes with light body.",
+    "pairings": ["Light pastries", "Fresh fruit", "White chocolate"],
+    "history": "White tea production in Fujian dates to the Tang Dynasty. Bai Mu Dan became a standard grade below Silver Needle, offering excellent quality at accessible prices.",
+    "servingRecommendation": "Brew at 75-85°C for 3-5 minutes. Multiple infusions possible. Best appreciated in a clear glass to see the beautiful leaves.",
+    "universalCoords": { "x": 12, "y": 22 }
+  },
+  {
+    "id": "silver-needle",
+    "name": "Bai Hao Yin Zhen (Silver Needle)",
+    "category": "tea",
+    "subcategory": "White",
+    "type": "Chinese White Tea",
+    "origin": "Fuding, Fujian, China",
+    "image": "",
+    "description": "The most prized white tea, made only from unopened tea buds covered in silvery down.",
+    "price": "$$$$",
+    "about": "Silver Needle is the highest grade of white tea, made exclusively from spring buds covered in fine white hairs. It's minimally processed, simply withered and dried.",
+    "flavorProfile": {
+      "body": 15,
+      "oxidation": 8
+    },
+    "specifications": {
+      "oxidationLevel": "Minimal (5-10%)",
+      "caffeineLevel": "Low",
+      "brewTemp": "70-80°C (158-176°F)",
+      "steepTime": "4-5 minutes"
+    },
+    "tastingNotes": "Subtle honey, fresh cucumber, melon, hay, and delicate sweetness with silky texture.",
+    "pairings": ["Light dim sum", "Fresh fruit", "Delicate desserts"],
+    "history": "Silver Needle has been produced since the late 18th century. It was traditionally reserved for nobility and remains one of China's most prestigious teas.",
+    "servingRecommendation": "Use cooler water (70-80°C) and longer steep times. Watch the beautiful silver buds float vertically in glass. Multiple infusions reveal subtle changes.",
+    "universalCoords": { "x": 8, "y": 15 }
+  },
+  {
+    "id": "shou-mei",
+    "name": "Shou Mei (Longevity Eyebrow)",
+    "category": "tea",
+    "subcategory": "White",
+    "type": "Chinese White Tea",
+    "origin": "Fujian, China",
+    "image": "",
+    "description": "A rustic white tea with fuller body and more developed flavor.",
+    "price": "$",
+    "about": "Shou Mei is made from mature leaves harvested later in the season. It offers more body and complexity than other white teas at an accessible price point.",
+    "flavorProfile": {
+      "body": 38,
+      "oxidation": 18
+    },
+    "specifications": {
+      "oxidationLevel": "Light (10-20%)",
+      "caffeineLevel": "Low-Medium",
+      "brewTemp": "85-95°C (185-203°F)",
+      "steepTime": "3-5 minutes"
+    },
+    "tastingNotes": "Dried fruit, honey, autumn leaves, and subtle woodiness with fuller body.",
+    "pairings": ["Pastries", "Cheese", "Light meals"],
+    "history": "Shou Mei developed as a way to utilize mature leaves that didn't meet Silver Needle or White Peony standards. It became appreciated in its own right.",
+    "servingRecommendation": "More forgiving than delicate white teas. Brew at 85-95°C for 3-5 minutes. Can handle multiple infusions.",
+    "universalCoords": { "x": 18, "y": 38 }
+  },
+  {
+    "id": "moonlight-white",
+    "name": "Moonlight White (Yue Guang Bai)",
+    "category": "tea",
+    "subcategory": "White",
+    "type": "Yunnan White Tea",
+    "origin": "Yunnan Province, China",
+    "image": "",
+    "description": "A distinctive Yunnan white tea with large, dramatic leaves and honey sweetness.",
+    "price": "$$",
+    "about": "Moonlight White is made from Yunnan's large-leaf tea trees using white tea processing. The leaves have distinctive black and white coloring, said to resemble moonlight.",
+    "flavorProfile": {
+      "body": 30,
+      "oxidation": 15
+    },
+    "specifications": {
+      "oxidationLevel": "Light (10-20%)",
+      "caffeineLevel": "Low-Medium",
+      "brewTemp": "80-90°C (176-194°F)",
+      "steepTime": "3-5 minutes"
+    },
+    "tastingNotes": "Honey, apricot, hay, rose, and subtle malt with silky texture.",
+    "pairings": ["Light desserts", "Fresh fruit", "Honey pastries"],
+    "history": "Moonlight White is a relatively recent creation, developed as Yunnan tea makers applied white tea techniques to local large-leaf tea trees.",
+    "servingRecommendation": "Brew at 80-90°C for 3-5 minutes. The dramatic leaves are beautiful in a glass pot. Good for multiple infusions.",
+    "universalCoords": { "x": 15, "y": 30 }
+  },
+  {
+    "id": "raw-puerh-sheng",
+    "name": "Sheng Pu-erh (Raw)",
+    "category": "tea",
+    "subcategory": "Pu-erh",
+    "type": "Chinese Aged Tea",
+    "origin": "Yunnan Province, China",
+    "image": "",
+    "description": "A living tea that transforms over decades of aging from bright to deep and complex.",
+    "price": "$$$",
+    "about": "Sheng (raw) pu-erh is made from sun-dried tea leaves and naturally ferments over time. Young sheng is bright and astringent; aged sheng becomes smooth, complex, and highly prized.",
+    "flavorProfile": {
+      "body": 55,
+      "oxidation": 35
+    },
+    "specifications": {
+      "oxidationLevel": "Variable (ages over time)",
+      "caffeineLevel": "Medium-High",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "15-30 seconds per infusion"
+    },
+    "tastingNotes": "Young: bitter, floral, hay. Aged: smooth, camphor, dried fruit, leather, complex sweetness.",
+    "pairings": ["Dim sum", "Rich foods (to aid digestion)", "Chinese cuisine"],
+    "history": "Pu-erh originated in Yunnan's Pu'er County over 2,000 years ago. It was traded along the Tea Horse Road and traditionally compressed for transport.",
+    "servingRecommendation": "Gongfu brewing essential. Rinse leaves, then brew with boiling water for short steeps (15-30 seconds). Can yield 15+ infusions.",
+    "universalCoords": { "x": 35, "y": 55 }
+  },
+  {
+    "id": "ripe-puerh-shou",
+    "name": "Shou Pu-erh (Ripe)",
+    "category": "tea",
+    "subcategory": "Pu-erh",
+    "type": "Chinese Aged Tea",
+    "origin": "Yunnan Province, China",
+    "image": "",
+    "description": "An accelerated-fermentation pu-erh with deep, earthy character and smooth body.",
+    "price": "$$",
+    "about": "Shou (ripe) pu-erh undergoes a pile-fermentation process developed in the 1970s to replicate the character of aged sheng. It's dark, smooth, and earthy from the start.",
+    "flavorProfile": {
+      "body": 78,
+      "oxidation": 85
+    },
+    "specifications": {
+      "oxidationLevel": "Post-fermented",
+      "caffeineLevel": "Low-Medium",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "15-30 seconds per infusion"
+    },
+    "tastingNotes": "Earth, forest floor, dried dates, mushroom, and smooth sweetness.",
+    "pairings": ["Rich Chinese cuisine", "Chocolate", "After heavy meals"],
+    "history": "The shou pu-erh process was developed in Kunming in 1973 to meet demand for 'aged' pu-erh. It democratized access to pu-erh's smooth, aged character.",
+    "servingRecommendation": "Gongfu brewing recommended. Rinse leaves first, then short steeps with boiling water. Excellent digestive after meals.",
+    "universalCoords": { "x": 85, "y": 78 }
+  },
+  {
+    "id": "chamomile",
+    "name": "Chamomile",
+    "category": "tea",
+    "subcategory": "Herbal",
+    "type": "Herbal Tisane",
+    "origin": "Egypt / Eastern Europe",
+    "image": "",
+    "description": "A soothing, caffeine-free herbal with apple-like sweetness and calming properties.",
+    "price": "$",
+    "about": "Chamomile is one of the world's most popular herbal teas, made from dried flowers of the chamomile plant. It's been used for thousands of years for its calming and digestive benefits.",
+    "flavorProfile": {
+      "body": 20,
+      "oxidation": 0
+    },
+    "specifications": {
+      "oxidationLevel": "N/A (Herbal)",
+      "caffeineLevel": "None",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "5-10 minutes"
+    },
+    "tastingNotes": "Apple-like sweetness, honey, hay, floral notes, and gentle bitterness.",
+    "pairings": ["Honey", "Light desserts", "Before bed"],
+    "history": "Chamomile has been used medicinally since ancient Egypt. The name comes from Greek meaning 'earth apple' for its apple-like scent.",
+    "servingRecommendation": "Brew with boiling water for 5-10 minutes. Cover while steeping to retain volatile oils. Excellent with honey before bed.",
+    "universalCoords": { "x": 0, "y": 20 }
+  },
+  {
+    "id": "peppermint",
+    "name": "Peppermint",
+    "category": "tea",
+    "subcategory": "Herbal",
+    "type": "Herbal Tisane",
+    "origin": "Mediterranean / Europe",
+    "image": "",
+    "description": "A refreshing, cooling herbal tea with natural digestive benefits.",
+    "price": "$",
+    "about": "Peppermint tea is made from dried peppermint leaves, a hybrid of watermint and spearmint. It's prized for its refreshing flavor and digestive properties.",
+    "flavorProfile": {
+      "body": 25,
+      "oxidation": 0
+    },
+    "specifications": {
+      "oxidationLevel": "N/A (Herbal)",
+      "caffeineLevel": "None",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "5-7 minutes"
+    },
+    "tastingNotes": "Cool menthol, sweet mint, refreshing finish, and natural sweetness.",
+    "pairings": ["Dark chocolate", "After meals", "Light desserts"],
+    "history": "Peppermint was first cultivated in England in the late 17th century. It quickly became popular for both culinary and medicinal uses.",
+    "servingRecommendation": "Brew with boiling water for 5-7 minutes. Excellent after meals for digestion. Can be enjoyed hot or iced.",
+    "universalCoords": { "x": 0, "y": 25 }
+  },
+  {
+    "id": "rooibos",
+    "name": "Rooibos (Red Bush)",
+    "category": "tea",
+    "subcategory": "Herbal",
+    "type": "Herbal Tisane",
+    "origin": "Cederberg, South Africa",
+    "image": "",
+    "description": "A naturally sweet, caffeine-free South African herbal with vanilla-honey notes.",
+    "price": "$",
+    "about": "Rooibos is made from the fermented leaves of Aspalathus linearis, a plant native to South Africa's Cederberg region. It's naturally caffeine-free and rich in antioxidants.",
+    "flavorProfile": {
+      "body": 45,
+      "oxidation": 0
+    },
+    "specifications": {
+      "oxidationLevel": "N/A (oxidized herbal)",
+      "caffeineLevel": "None",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "5-7 minutes"
+    },
+    "tastingNotes": "Vanilla, honey, woody notes, subtle caramel, and natural sweetness.",
+    "pairings": ["Vanilla desserts", "Honey", "Milk"],
+    "history": "Rooibos has been used by the indigenous Khoisan people for centuries. Commercial cultivation began in the 1930s, and it gained international popularity in the late 20th century.",
+    "servingRecommendation": "Brew with boiling water for 5-7 minutes. Can't be overbrewed—won't become bitter. Excellent with milk and honey like black tea.",
+    "universalCoords": { "x": 0, "y": 45 }
+  },
+  {
+    "id": "hibiscus",
+    "name": "Hibiscus",
+    "category": "tea",
+    "subcategory": "Herbal",
+    "type": "Herbal Tisane",
+    "origin": "Tropical Regions",
+    "image": "",
+    "description": "A tart, ruby-red herbal tea made from dried hibiscus flowers.",
+    "price": "$",
+    "about": "Hibiscus tea is made from dried hibiscus sabdariffa flowers. It's known for its brilliant red color, tart cranberry-like flavor, and potential health benefits.",
+    "flavorProfile": {
+      "body": 30,
+      "oxidation": 0
+    },
+    "specifications": {
+      "oxidationLevel": "N/A (Herbal)",
+      "caffeineLevel": "None",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "5-10 minutes"
+    },
+    "tastingNotes": "Tart cranberry, pomegranate, floral notes, and bright acidity.",
+    "pairings": ["Summer drinks", "Light desserts", "Fresh fruit"],
+    "history": "Hibiscus tea has been consumed for centuries across Africa, the Middle East, the Caribbean, and Latin America. It's known by many names including agua de jamaica.",
+    "servingRecommendation": "Brew with boiling water for 5-10 minutes. Excellent hot or iced. Often sweetened with honey or sugar to balance tartness.",
+    "universalCoords": { "x": 0, "y": 30 }
+  },
+  {
+    "id": "ginger",
+    "name": "Ginger",
+    "category": "tea",
+    "subcategory": "Herbal",
+    "type": "Herbal Tisane",
+    "origin": "Southeast Asia",
+    "image": "",
+    "description": "A warming, spicy herbal tea made from fresh or dried ginger root.",
+    "price": "$",
+    "about": "Ginger tea is made from the rhizome of the ginger plant. It's been used for thousands of years in Asian medicine for its warming and digestive properties.",
+    "flavorProfile": {
+      "body": 50,
+      "oxidation": 0
+    },
+    "specifications": {
+      "oxidationLevel": "N/A (Herbal)",
+      "caffeineLevel": "None",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "5-10 minutes"
+    },
+    "tastingNotes": "Warm spice, peppery heat, citrus notes, and natural sweetness.",
+    "pairings": ["Honey and lemon", "Asian cuisine", "Cold weather"],
+    "history": "Ginger originated in Southeast Asia and spread along ancient trade routes. It has been used in traditional Chinese and Ayurvedic medicine for millennia.",
+    "servingRecommendation": "Brew with boiling water for 5-10 minutes. Excellent with honey and lemon. Fresh ginger makes a stronger, spicier tea than dried.",
+    "universalCoords": { "x": 0, "y": 50 }
+  },
+  {
+    "id": "yerba-mate",
+    "name": "Yerba Mate",
+    "category": "tea",
+    "subcategory": "Herbal",
+    "type": "South American Herbal",
+    "origin": "Argentina / Paraguay / Brazil",
+    "image": "",
+    "description": "A caffeinated South American herb with grassy, earthy character and energizing properties.",
+    "price": "$",
+    "about": "Yerba mate is made from the leaves of Ilex paraguariensis. It's the national drink of Argentina and contains caffeine, providing energy without the jitters of coffee.",
+    "flavorProfile": {
+      "body": 55,
+      "oxidation": 0
+    },
+    "specifications": {
+      "oxidationLevel": "N/A (Herbal)",
+      "caffeineLevel": "High (naturally caffeinated)",
+      "brewTemp": "70-80°C (158-176°F)",
+      "steepTime": "3-5 minutes"
+    },
+    "tastingNotes": "Grassy, vegetal, slightly bitter, earthy, and tobacco-like notes.",
+    "pairings": ["South American cuisine", "Pastries", "Morning ritual"],
+    "history": "Yerba mate was consumed by the indigenous Guaraní people. Spanish colonizers adopted the drink, and it became central to South American culture.",
+    "servingRecommendation": "Traditional preparation uses a gourd (mate) and metal straw (bombilla). Can also be brewed like tea. Don't use boiling water—it creates bitterness.",
+    "universalCoords": { "x": 0, "y": 55 }
+  },
+  {
+    "id": "masala-chai",
+    "name": "Masala Chai",
+    "category": "tea",
+    "subcategory": "Black",
+    "type": "Indian Spiced Tea",
+    "origin": "India",
+    "image": "",
+    "description": "India's beloved spiced milk tea with warming spices and bold black tea base.",
+    "price": "$",
+    "about": "Masala chai combines strong black tea with a blend of spices including cardamom, cinnamon, ginger, cloves, and black pepper. It's traditionally simmered with milk and sweetened.",
+    "flavorProfile": {
+      "body": 75,
+      "oxidation": 90
+    },
+    "specifications": {
+      "oxidationLevel": "Fully Oxidized",
+      "caffeineLevel": "Medium-High",
+      "brewTemp": "Simmered with milk",
+      "steepTime": "Simmered 3-5 minutes"
+    },
+    "tastingNotes": "Warm spices, cardamom, ginger heat, cinnamon sweetness, and creamy body.",
+    "pairings": ["Indian sweets", "Biscuits", "Spiced pastries"],
+    "history": "Masala chai developed in India, likely influenced by British tea culture and Ayurvedic traditions. It became the ubiquitous street drink sold by chai wallahs.",
+    "servingRecommendation": "Simmer tea and spices in milk and water, sweeten to taste. Each family has their own spice blend. Best enjoyed hot and sweet.",
+    "universalCoords": { "x": 90, "y": 75 }
+  },
+  {
+    "id": "jasmine-pearls",
+    "name": "Jasmine Dragon Pearls",
+    "category": "tea",
+    "subcategory": "Green",
+    "type": "Chinese Scented Green Tea",
+    "origin": "Fujian, China",
+    "image": "",
+    "description": "Hand-rolled green tea pearls scented multiple times with fresh jasmine blossoms.",
+    "price": "$$$",
+    "about": "Jasmine Dragon Pearls are made by hand-rolling green tea leaves and repeatedly scenting them with fresh jasmine flowers. The pearls unfurl beautifully when brewed.",
+    "flavorProfile": {
+      "body": 28,
+      "oxidation": 8
+    },
+    "specifications": {
+      "oxidationLevel": "Unoxidized",
+      "caffeineLevel": "Medium",
+      "brewTemp": "75-85°C (167-185°F)",
+      "steepTime": "2-3 minutes"
+    },
+    "tastingNotes": "Heady jasmine fragrance, sweet floral notes, fresh green tea base, and lingering aroma.",
+    "pairings": ["Light Chinese cuisine", "Dim sum", "Delicate desserts"],
+    "history": "Jasmine tea originated during the Song Dynasty (960-1279). The scenting process involves layering tea with fresh jasmine flowers multiple times.",
+    "servingRecommendation": "Brew in glass to watch pearls unfurl. Use 75-85°C water for 2-3 minutes. Multiple infusions reveal evolving jasmine and green tea character.",
+    "universalCoords": { "x": 8, "y": 28 }
+  },
+  {
+    "id": "pu-erh-mini-tuo",
+    "name": "Pu-erh Mini Tuo Cha",
+    "category": "tea",
+    "subcategory": "Pu-erh",
+    "type": "Chinese Compressed Tea",
+    "origin": "Yunnan Province, China",
+    "image": "",
+    "description": "Convenient single-serving pu-erh compressed into small bird's nest shapes.",
+    "price": "$",
+    "about": "Mini tuo cha are small compressed pu-erh portions, perfect for single servings. They make enjoying pu-erh convenient without breaking apart larger cakes.",
+    "flavorProfile": {
+      "body": 72,
+      "oxidation": 80
+    },
+    "specifications": {
+      "oxidationLevel": "Post-fermented (Shou)",
+      "caffeineLevel": "Low-Medium",
+      "brewTemp": "95-100°C (203-212°F)",
+      "steepTime": "20-30 seconds per infusion"
+    },
+    "tastingNotes": "Earthy, smooth, dried dates, subtle sweetness, and clean finish.",
+    "pairings": ["After meals", "Rich foods", "Dark chocolate"],
+    "history": "Tuo cha (bowl-shaped tea) was developed for easy transport along the Tea Horse Road. Mini tuo cha are a modern convenience format.",
+    "servingRecommendation": "Use one mini tuo per session. Rinse first, then brew with boiling water for short steeps. Good for gongfu or grandpa style brewing.",
+    "universalCoords": { "x": 80, "y": 72 }
+  },
+  {
+    "id": "oolong-formosa",
+    "name": "Formosa Oolong",
+    "category": "tea",
+    "subcategory": "Oolong",
+    "type": "Taiwanese Oolong",
+    "origin": "Taiwan",
+    "image": "",
+    "description": "A classic Taiwanese oolong representing the traditional art of Taiwan tea making.",
+    "price": "$$",
+    "about": "Formosa Oolong refers to traditional Taiwanese oolongs, named after the Portuguese word for Taiwan ('Beautiful Island'). These teas showcase Taiwan's unique terroir and processing expertise.",
+    "flavorProfile": {
+      "body": 42,
+      "oxidation": 35
+    },
+    "specifications": {
+      "oxidationLevel": "Medium (25-40%)",
+      "caffeineLevel": "Medium",
+      "brewTemp": "90-95°C (194-203°F)",
+      "steepTime": "2-3 minutes"
+    },
+    "tastingNotes": "Floral orchid, creamy texture, light honey, and subtle toasted notes.",
+    "pairings": ["Taiwanese cuisine", "Light pastries", "Nuts"],
+    "history": "Taiwan began producing oolong in the 19th century with techniques brought from Fujian. The island developed its own distinctive styles and cultivars.",
+    "servingRecommendation": "Gongfu or Western brewing both work well. Use 90-95°C water. Multiple infusions reveal the tea's complexity.",
+    "universalCoords": { "x": 35, "y": 42 }
+  }
+]

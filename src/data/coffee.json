@@ -1,0 +1,1823 @@
+[
+  {
+    "id": "ethiopian-yirgacheffe",
+    "name": "Ethiopian Yirgacheffe",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Ethiopia",
+    "origin": "Yirgacheffe, Ethiopia",
+    "image": "",
+    "description": "The birthplace of coffee offers some of the world's most distinctive and complex beans.",
+    "price": "$$",
+    "about": "Yirgacheffe is a small region in southern Ethiopia known for producing some of the world's finest washed coffees. The high altitude, rich soil, and traditional farming methods create beans with exceptional complexity and brightness.",
+    "flavorProfile": {
+      "roast": 25,
+      "acidity": 15,
+      "flavorCharacter": 15
+    },
+    "specifications": {
+      "roastLevel": "Light",
+      "altitude": "1,700-2,200m",
+      "process": "Washed",
+      "variety": "Heirloom Ethiopian"
+    },
+    "tastingNotes": "Bright citrus, bergamot, jasmine, and blueberry with a tea-like body and clean finish.",
+    "pairings": [
+      "Lemon pastries",
+      "Fresh fruit",
+      "Light breakfast"
+    ],
+    "history": "Ethiopia is the birthplace of Arabica coffee. Legend tells of Kaldi, a goat herder who discovered coffee when his goats became energetic after eating coffee cherries. Yirgacheffe has been cultivated for centuries.",
+    "servingRecommendation": "Best as pour-over or Chemex to highlight the delicate floral notes. Serve black to appreciate the complexity.",
+    "universalCoords": {
+      "x": 25,
+      "y": 15
+    }
+  },
+  {
+    "id": "ethiopian-sidamo-natural",
+    "name": "Ethiopian Sidamo Natural",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Ethiopia",
+    "origin": "Sidamo, Ethiopia",
+    "image": "",
+    "description": "A naturally processed Ethiopian coffee with intense fruit-forward characteristics.",
+    "price": "$$",
+    "about": "Sidamo is a large coffee-growing region in southern Ethiopia. Natural processing, where beans dry inside the cherry, creates an intensely fruity and wine-like cup profile.",
+    "flavorProfile": {
+      "roast": 28,
+      "acidity": 22,
+      "flavorCharacter": 20
+    },
+    "specifications": {
+      "roastLevel": "Light-Medium",
+      "altitude": "1,500-2,200m",
+      "process": "Natural/Dry",
+      "variety": "Heirloom Ethiopian"
+    },
+    "tastingNotes": "Blueberry jam, strawberry, wine-like ferment, dark chocolate, and heavy body.",
+    "pairings": [
+      "Dark chocolate",
+      "Berry desserts",
+      "Cheese"
+    ],
+    "history": "The Sidamo region has been growing coffee for centuries. Natural processing is the traditional Ethiopian method, predating washed processing by hundreds of years.",
+    "servingRecommendation": "Excellent as espresso or French press. The heavy body and fruit sweetness also pair well with milk.",
+    "universalCoords": {
+      "x": 28,
+      "y": 20
+    }
+  },
+  {
+    "id": "kenya-aa",
+    "name": "Kenya AA",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Kenya",
+    "origin": "Nyeri, Kenya",
+    "image": "",
+    "description": "Kenya's highest grade coffee, known for its intense brightness and complex fruit notes.",
+    "price": "$$$",
+    "about": "Kenya AA refers to the largest screen size of Kenyan coffee beans. The country's unique SL28 and SL34 varieties, combined with high altitude and volcanic soil, produce exceptionally bright and complex coffees.",
+    "flavorProfile": {
+      "roast": 30,
+      "acidity": 8,
+      "flavorCharacter": 18
+    },
+    "specifications": {
+      "roastLevel": "Light-Medium",
+      "altitude": "1,700-2,100m",
+      "process": "Washed",
+      "variety": "SL28, SL34"
+    },
+    "tastingNotes": "Blackcurrant, grapefruit, tomato, and brown sugar with a wine-like acidity and syrupy body.",
+    "pairings": [
+      "Citrus desserts",
+      "Fresh berries",
+      "Light pastries"
+    ],
+    "history": "Coffee was introduced to Kenya in the early 1900s. The Kenya Coffee Board established the AA grading system in 1933. Kenyan coffee gained international acclaim in the mid-20th century.",
+    "servingRecommendation": "Best brewed as pour-over or siphon. The complex acidity shines when served black at slightly cooler temperatures.",
+    "universalCoords": {
+      "x": 30,
+      "y": 18
+    }
+  },
+  {
+    "id": "guatemala-antigua",
+    "name": "Guatemala Antigua",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Guatemala",
+    "origin": "Antigua, Guatemala",
+    "image": "",
+    "description": "A classic Central American coffee from volcanic soil with rich, balanced flavor.",
+    "price": "$$",
+    "about": "Antigua is one of Guatemala's most prestigious coffee regions, surrounded by three volcanoes. The volcanic soil, ideal climate, and traditional shade-growing produce exceptionally balanced coffees.",
+    "flavorProfile": {
+      "roast": 45,
+      "acidity": 35,
+      "flavorCharacter": 60
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "1,500-1,700m",
+      "process": "Washed",
+      "variety": "Bourbon, Caturra"
+    },
+    "tastingNotes": "Milk chocolate, caramel, orange, and subtle spice with a velvety body.",
+    "pairings": [
+      "Chocolate desserts",
+      "Nuts",
+      "Breakfast pastries"
+    ],
+    "history": "Coffee arrived in Guatemala in the 1750s. Antigua became renowned for quality in the 19th century. Today, it holds Denomination of Origin protection.",
+    "servingRecommendation": "Versatile brewing - excellent as drip, pour-over, or espresso. Works well with or without milk.",
+    "universalCoords": {
+      "x": 45,
+      "y": 60
+    }
+  },
+  {
+    "id": "colombia-huila",
+    "name": "Colombia Huila",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Colombia",
+    "origin": "Huila, Colombia",
+    "image": "",
+    "description": "Colombia's premier coffee region producing sweet, balanced beans with fruit notes.",
+    "price": "$$",
+    "about": "Huila is considered Colombia's finest coffee-producing department. The combination of volcanic soil, high altitude, and ideal climate creates coffees with exceptional sweetness and complexity.",
+    "flavorProfile": {
+      "roast": 40,
+      "acidity": 30,
+      "flavorCharacter": 38
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "1,500-2,000m",
+      "process": "Washed",
+      "variety": "Castillo, Caturra, Colombia"
+    },
+    "tastingNotes": "Red apple, caramel, citrus zest, and brown sugar with a creamy body.",
+    "pairings": [
+      "Apple pie",
+      "Caramel desserts",
+      "Croissants"
+    ],
+    "history": "Colombia has been growing coffee since the early 1800s. Huila rose to prominence in the late 20th century as specialty coffee highlighted regional differences.",
+    "servingRecommendation": "Excellent for any brewing method. A great all-day coffee that works well black or with milk.",
+    "universalCoords": {
+      "x": 40,
+      "y": 38
+    }
+  },
+  {
+    "id": "colombia-narino",
+    "name": "Colombia Nariño",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Colombia",
+    "origin": "Nariño, Colombia",
+    "image": "",
+    "description": "High-altitude Colombian coffee with vibrant acidity and complex sweetness.",
+    "price": "$$",
+    "about": "Nariño sits near the equator at extreme altitudes, creating unique growing conditions. The slow cherry maturation produces dense beans with exceptional complexity.",
+    "flavorProfile": {
+      "roast": 35,
+      "acidity": 25,
+      "flavorCharacter": 28
+    },
+    "specifications": {
+      "roastLevel": "Light-Medium",
+      "altitude": "1,800-2,300m",
+      "process": "Washed",
+      "variety": "Castillo, Caturra"
+    },
+    "tastingNotes": "Passion fruit, honey, floral notes, and dark chocolate with bright acidity.",
+    "pairings": [
+      "Tropical fruits",
+      "Honey-drizzled pastries",
+      "Light breakfast"
+    ],
+    "history": "Coffee cultivation in Nariño began in the early 20th century. The region gained specialty recognition in the 2000s for its exceptional cup quality.",
+    "servingRecommendation": "Best as pour-over or AeroPress to highlight the bright, complex flavors. Serve black.",
+    "universalCoords": {
+      "x": 35,
+      "y": 28
+    }
+  },
+  {
+    "id": "costa-rica-tarrazu",
+    "name": "Costa Rica Tarrazú",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Costa Rica",
+    "origin": "Tarrazú, Costa Rica",
+    "image": "",
+    "description": "Costa Rica's most famous coffee region producing clean, bright, and sweet cups.",
+    "price": "$$",
+    "about": "Tarrazú is Costa Rica's premier coffee-growing region, known for its mountainous terrain and ideal climate. Strict quality standards and sustainable practices produce consistently excellent coffee.",
+    "flavorProfile": {
+      "roast": 38,
+      "acidity": 22,
+      "flavorCharacter": 35
+    },
+    "specifications": {
+      "roastLevel": "Light-Medium",
+      "altitude": "1,200-1,900m",
+      "process": "Washed",
+      "variety": "Caturra, Catuaí"
+    },
+    "tastingNotes": "Green apple, honey, citrus, and almond with a clean, crisp finish.",
+    "pairings": [
+      "Apple strudel",
+      "Almond biscotti",
+      "Light pastries"
+    ],
+    "history": "Coffee arrived in Costa Rica in the early 1800s. Tarrazú became renowned in the 20th century for producing some of Central America's finest washed coffees.",
+    "servingRecommendation": "Excellent as drip coffee or pour-over. The clean profile makes it a perfect morning coffee.",
+    "universalCoords": {
+      "x": 38,
+      "y": 35
+    }
+  },
+  {
+    "id": "panama-geisha",
+    "name": "Panama Geisha",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Panama",
+    "origin": "Boquete, Panama",
+    "image": "",
+    "description": "The legendary Geisha variety that revolutionized specialty coffee with its extraordinary aromatics.",
+    "price": "$$$$",
+    "about": "Panama Geisha gained international fame when Hacienda La Esmeralda's Geisha won the Best of Panama competition in 2004. The variety originated in Ethiopia but found perfect expression in Panama's highlands.",
+    "flavorProfile": {
+      "roast": 20,
+      "acidity": 12,
+      "flavorCharacter": 12
+    },
+    "specifications": {
+      "roastLevel": "Light",
+      "altitude": "1,600-1,800m",
+      "process": "Washed",
+      "variety": "Geisha"
+    },
+    "tastingNotes": "Jasmine, bergamot, tropical fruits, peach, and honey with an extraordinarily aromatic, tea-like body.",
+    "pairings": [
+      "Light pastries",
+      "Fresh fruit",
+      "Delicate desserts"
+    ],
+    "history": "Geisha was discovered in Ethiopia in the 1930s and brought to Central America in the 1960s. It remained obscure until 2004 when Panama estates revealed its exceptional potential.",
+    "servingRecommendation": "Brew carefully with pour-over or siphon. Use slightly lower temperature water (195°F) to preserve delicate aromatics. Always serve black.",
+    "universalCoords": {
+      "x": 20,
+      "y": 12
+    }
+  },
+  {
+    "id": "jamaica-blue-mountain",
+    "name": "Jamaica Blue Mountain",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Jamaica",
+    "origin": "Blue Mountains, Jamaica",
+    "image": "",
+    "description": "One of the world's most famous and expensive coffees, known for its mild, balanced profile.",
+    "price": "$$$$",
+    "about": "Jamaica Blue Mountain is grown in the Blue Mountain range at elevations between 3,000-5,500 feet. Strict regulations and the Jamaica Coffee Industry Board ensure authenticity and quality.",
+    "flavorProfile": {
+      "roast": 42,
+      "acidity": 45,
+      "flavorCharacter": 68
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "900-1,700m",
+      "process": "Washed",
+      "variety": "Blue Mountain Typica"
+    },
+    "tastingNotes": "Milk chocolate, nuts, mild citrus, and floral notes with a silky, balanced body and no bitterness.",
+    "pairings": [
+      "Buttery pastries",
+      "Milk chocolate",
+      "Breakfast"
+    ],
+    "history": "Coffee was introduced to Jamaica in 1728. The Blue Mountain designation was established in the 1950s. Japan has been the primary market since the 1970s.",
+    "servingRecommendation": "Best brewed as drip or pour-over to appreciate the mild, balanced character. Works well with a splash of cream.",
+    "universalCoords": {
+      "x": 42,
+      "y": 68
+    }
+  },
+  {
+    "id": "hawaii-kona",
+    "name": "Hawaii Kona",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Hawaii",
+    "origin": "Kona District, Hawaii",
+    "image": "",
+    "description": "America's premier coffee, grown on volcanic slopes with distinctive smooth flavor.",
+    "price": "$$$",
+    "about": "Kona coffee is grown on the slopes of Hualalai and Mauna Loa in Hawaii's Kona District. The volcanic soil, afternoon cloud cover, and mild nights create ideal growing conditions.",
+    "flavorProfile": {
+      "roast": 48,
+      "acidity": 52,
+      "flavorCharacter": 72
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "150-900m",
+      "process": "Washed",
+      "variety": "Typica"
+    },
+    "tastingNotes": "Brown sugar, milk chocolate, macadamia nut, and subtle fruit with a smooth, medium body.",
+    "pairings": [
+      "Macadamia desserts",
+      "Tropical fruits",
+      "Light breakfast"
+    ],
+    "history": "Coffee was introduced to Hawaii in 1828. The Kona District became the primary growing region by the late 1800s. Today, authentic Kona coffee is protected by Hawaiian regulations.",
+    "servingRecommendation": "Excellent as drip coffee or pour-over. The smooth profile also works well with milk.",
+    "universalCoords": {
+      "x": 48,
+      "y": 72
+    }
+  },
+  {
+    "id": "sumatra-mandheling",
+    "name": "Sumatra Mandheling",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Indonesia",
+    "origin": "North Sumatra, Indonesia",
+    "image": "",
+    "description": "A full-bodied Indonesian coffee with earthy, complex character from unique processing.",
+    "price": "$$",
+    "about": "Mandheling coffee comes from the highlands around Lake Toba in North Sumatra. The unique wet-hulling (Giling Basah) process creates the distinctive earthy, full-bodied profile.",
+    "flavorProfile": {
+      "roast": 72,
+      "acidity": 85,
+      "flavorCharacter": 82
+    },
+    "specifications": {
+      "roastLevel": "Medium-Dark",
+      "altitude": "1,000-1,500m",
+      "process": "Wet-Hulled (Giling Basah)",
+      "variety": "Typica, Catimor"
+    },
+    "tastingNotes": "Dark chocolate, cedar, tobacco, earthy mushroom, and herbal notes with a syrupy body.",
+    "pairings": [
+      "Dark chocolate",
+      "Smoked meats",
+      "Rich desserts"
+    ],
+    "history": "Dutch colonists introduced coffee to Sumatra in the 1600s. The Mandheling name comes from the Mandailing people of North Sumatra.",
+    "servingRecommendation": "Best as French press or espresso to highlight the full body. A favorite for espresso blends.",
+    "universalCoords": {
+      "x": 72,
+      "y": 82
+    }
+  },
+  {
+    "id": "sumatra-aceh-gayo",
+    "name": "Sumatra Aceh Gayo",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Indonesia",
+    "origin": "Aceh Province, Indonesia",
+    "image": "",
+    "description": "A cleaner Indonesian profile with complex herbal and spice notes.",
+    "price": "$$",
+    "about": "The Gayo Highlands in Aceh Province produce some of Sumatra's finest coffees. Higher altitudes and careful processing create a cleaner cup while maintaining Indonesian character.",
+    "flavorProfile": {
+      "roast": 65,
+      "acidity": 78,
+      "flavorCharacter": 62
+    },
+    "specifications": {
+      "roastLevel": "Medium-Dark",
+      "altitude": "1,200-1,700m",
+      "process": "Wet-Hulled (Giling Basah)",
+      "variety": "Typica, Bourbon"
+    },
+    "tastingNotes": "Dark chocolate, herbs, spice, tropical fruit, and cedar with full body and low acidity.",
+    "pairings": [
+      "Spiced desserts",
+      "Dark chocolate",
+      "Aged cheese"
+    ],
+    "history": "Coffee cultivation in the Gayo Highlands began in the early 1900s. The region has become known for both quality and organic/fair trade practices.",
+    "servingRecommendation": "Excellent as French press, cold brew, or espresso. The full body pairs well with milk.",
+    "universalCoords": {
+      "x": 65,
+      "y": 62
+    }
+  },
+  {
+    "id": "java-estate",
+    "name": "Java Estate",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Indonesia",
+    "origin": "Java, Indonesia",
+    "image": "",
+    "description": "Historic Indonesian coffee with refined character from government estates.",
+    "price": "$$",
+    "about": "Java coffee comes from historic estates established during Dutch colonial rule. The washed processing used in Java creates a cleaner profile than other Indonesian coffees.",
+    "flavorProfile": {
+      "roast": 58,
+      "acidity": 68,
+      "flavorCharacter": 52
+    },
+    "specifications": {
+      "roastLevel": "Medium-Dark",
+      "altitude": "900-1,500m",
+      "process": "Washed",
+      "variety": "Typica, S795"
+    },
+    "tastingNotes": "Bittersweet chocolate, malt, spice, and nuts with medium body and clean finish.",
+    "pairings": [
+      "Chocolate pastries",
+      "Nuts",
+      "Spiced desserts"
+    ],
+    "history": "Java was the first Indonesian island to cultivate coffee in the 1690s. The term 'java' became slang for coffee due to its historical importance.",
+    "servingRecommendation": "Versatile brewing. Traditional component in Mocha-Java blends paired with Yemen coffee.",
+    "universalCoords": {
+      "x": 58,
+      "y": 52
+    }
+  },
+  {
+    "id": "sulawesi-toraja",
+    "name": "Sulawesi Toraja",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Indonesia",
+    "origin": "Toraja Highlands, Sulawesi",
+    "image": "",
+    "description": "A unique Indonesian coffee with sweet, earthy complexity from remote highlands.",
+    "price": "$$",
+    "about": "Toraja coffee is grown in the remote highlands of Sulawesi by the indigenous Toraja people. The combination of volcanic soil and traditional processing creates distinctively sweet, complex coffee.",
+    "flavorProfile": {
+      "roast": 62,
+      "acidity": 72,
+      "flavorCharacter": 55
+    },
+    "specifications": {
+      "roastLevel": "Medium-Dark",
+      "altitude": "1,200-1,500m",
+      "process": "Wet-Hulled (Giling Basah)",
+      "variety": "S795, Typica"
+    },
+    "tastingNotes": "Dark chocolate, ripe fruit, brown sugar, and earthy spice with a creamy body.",
+    "pairings": [
+      "Caramel desserts",
+      "Dark chocolate",
+      "Spiced pastries"
+    ],
+    "history": "Coffee was introduced to Sulawesi by Dutch colonists in the early 1900s. The Toraja highlands became known for quality in the late 20th century.",
+    "servingRecommendation": "Best as French press or drip. The sweet, full-bodied profile also works well as iced coffee.",
+    "universalCoords": {
+      "x": 62,
+      "y": 55
+    }
+  },
+  {
+    "id": "brazil-santos",
+    "name": "Brazil Santos",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Brazil",
+    "origin": "São Paulo State, Brazil",
+    "image": "",
+    "description": "The world's most popular coffee origin, known for nutty, chocolatey, low-acid profile.",
+    "price": "$",
+    "about": "Brazil Santos refers to high-grade Brazilian coffee shipped through the port of Santos. Brazil is the world's largest coffee producer, and Santos beans are prized for their consistent, approachable flavor.",
+    "flavorProfile": {
+      "roast": 55,
+      "acidity": 75,
+      "flavorCharacter": 74
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "800-1,200m",
+      "process": "Natural/Dry",
+      "variety": "Bourbon, Mundo Novo"
+    },
+    "tastingNotes": "Peanut, milk chocolate, caramel, and subtle fruit with low acidity and medium body.",
+    "pairings": [
+      "Chocolate desserts",
+      "Nuts",
+      "Breakfast pastries"
+    ],
+    "history": "Coffee arrived in Brazil in 1727 and quickly became the country's dominant export. Today, Brazil produces about one-third of the world's coffee.",
+    "servingRecommendation": "Excellent for espresso blends, drip coffee, or cold brew. The low acidity makes it very versatile.",
+    "universalCoords": {
+      "x": 55,
+      "y": 74
+    }
+  },
+  {
+    "id": "brazil-cerrado",
+    "name": "Brazil Cerrado",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Brazil",
+    "origin": "Cerrado Mineiro, Brazil",
+    "image": "",
+    "description": "A premium Brazilian coffee from the Cerrado savanna region with sweet, clean character.",
+    "price": "$$",
+    "about": "The Cerrado Mineiro region in Minas Gerais has become one of Brazil's premium coffee origins. The distinct dry and wet seasons create ideal conditions for quality production.",
+    "flavorProfile": {
+      "roast": 52,
+      "acidity": 65,
+      "flavorCharacter": 75
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "800-1,300m",
+      "process": "Natural/Dry",
+      "variety": "Mundo Novo, Catuaí"
+    },
+    "tastingNotes": "Chocolate, nuts, brown sugar, and sweet tobacco with a smooth, creamy body.",
+    "pairings": [
+      "Tiramisu",
+      "Nut tarts",
+      "Breakfast"
+    ],
+    "history": "Coffee cultivation in the Cerrado region expanded significantly in the 1970s. It became Brazil's first Denomination of Origin protected coffee region in 2013.",
+    "servingRecommendation": "Excellent as espresso base or drip coffee. The smooth, sweet profile works well with milk.",
+    "universalCoords": {
+      "x": 52,
+      "y": 75
+    }
+  },
+  {
+    "id": "yemen-mocha",
+    "name": "Yemen Mocha",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Yemen",
+    "origin": "Yemen",
+    "image": "",
+    "description": "The legendary birthplace of coffee trade, producing wild, complex, wine-like coffees.",
+    "price": "$$$$",
+    "about": "Yemen was the first country to cultivate coffee commercially, and Yemeni coffee remains among the world's most prized and expensive. Traditional terraced farming and dry processing create unique complexity.",
+    "flavorProfile": {
+      "roast": 35,
+      "acidity": 28,
+      "flavorCharacter": 55
+    },
+    "specifications": {
+      "roastLevel": "Light-Medium",
+      "altitude": "1,500-2,500m",
+      "process": "Natural/Dry",
+      "variety": "Yemeni Heirloom"
+    },
+    "tastingNotes": "Wine, dried fruit, chocolate, cardamom, and complex fermented notes with medium body.",
+    "pairings": [
+      "Dark chocolate",
+      "Dried fruits",
+      "Spiced desserts"
+    ],
+    "history": "Yemen began cultivating coffee in the 15th century and dominated the coffee trade for 200 years. The port of Mocha became synonymous with coffee.",
+    "servingRecommendation": "Best as pour-over or traditional Arabic preparation. The complex flavors should be appreciated black.",
+    "universalCoords": {
+      "x": 35,
+      "y": 55
+    }
+  },
+  {
+    "id": "rwanda-bourbon",
+    "name": "Rwanda Bourbon",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Rwanda",
+    "origin": "Lake Kivu Region, Rwanda",
+    "image": "",
+    "description": "A rising star of African coffee with bright, fruity character and exceptional sweetness.",
+    "price": "$$",
+    "about": "Rwanda's coffee industry has flourished since 2000, with a focus on specialty-grade production. The volcanic soil around Lake Kivu and high altitudes create excellent growing conditions.",
+    "flavorProfile": {
+      "roast": 32,
+      "acidity": 18,
+      "flavorCharacter": 18
+    },
+    "specifications": {
+      "roastLevel": "Light-Medium",
+      "altitude": "1,700-2,200m",
+      "process": "Washed",
+      "variety": "Bourbon"
+    },
+    "tastingNotes": "Red berries, citrus, caramel, and floral notes with bright acidity and silky body.",
+    "pairings": [
+      "Berry desserts",
+      "Light pastries",
+      "Fresh fruit"
+    ],
+    "history": "Coffee was introduced to Rwanda by German missionaries in 1904. After the 1994 genocide, coffee became central to the country's economic recovery.",
+    "servingRecommendation": "Best as pour-over or Chemex to highlight the bright, fruity character. Serve black.",
+    "universalCoords": {
+      "x": 32,
+      "y": 18
+    }
+  },
+  {
+    "id": "burundi-kayanza",
+    "name": "Burundi Kayanza",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Burundi",
+    "origin": "Kayanza Province, Burundi",
+    "image": "",
+    "description": "A hidden gem of East African coffee with remarkable sweetness and complexity.",
+    "price": "$$",
+    "about": "Burundi produces exceptional washed coffees that rival its neighbors Rwanda and Kenya. The Kayanza province is known for particularly sweet and complex cups.",
+    "flavorProfile": {
+      "roast": 30,
+      "acidity": 15,
+      "flavorCharacter": 20
+    },
+    "specifications": {
+      "roastLevel": "Light",
+      "altitude": "1,700-2,000m",
+      "process": "Washed",
+      "variety": "Bourbon"
+    },
+    "tastingNotes": "Juicy stone fruit, honey, black tea, and lemon with a silky body.",
+    "pairings": [
+      "Stone fruit desserts",
+      "Honey pastries",
+      "Light breakfast"
+    ],
+    "history": "Coffee was introduced to Burundi in the 1920s during Belgian colonial rule. The specialty coffee sector has grown significantly since the 2000s.",
+    "servingRecommendation": "Best as pour-over or AeroPress. The delicate sweetness is best appreciated black.",
+    "universalCoords": {
+      "x": 30,
+      "y": 20
+    }
+  },
+  {
+    "id": "papua-new-guinea-sigri",
+    "name": "Papua New Guinea Sigri",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Papua New Guinea",
+    "origin": "Waghi Valley, Papua New Guinea",
+    "image": "",
+    "description": "A unique Pacific Island coffee with distinctive fruit notes and clean finish.",
+    "price": "$$",
+    "about": "Sigri Estate in the Western Highlands produces some of PNG's finest coffees. The combination of volcanic soil, high altitude, and careful processing creates a distinctive cup.",
+    "flavorProfile": {
+      "roast": 42,
+      "acidity": 38,
+      "flavorCharacter": 38
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "1,500-1,800m",
+      "process": "Washed",
+      "variety": "Typica, Bourbon, Arusha"
+    },
+    "tastingNotes": "Mango, grapefruit, brown sugar, and subtle herbs with medium body and bright finish.",
+    "pairings": [
+      "Tropical fruits",
+      "Light pastries",
+      "Coconut desserts"
+    ],
+    "history": "Coffee was introduced to Papua New Guinea in the 1890s. The Sigri Estate was established in the 1950s and became known for quality in the 1970s.",
+    "servingRecommendation": "Excellent as pour-over or drip coffee. The fruity brightness shines when served black.",
+    "universalCoords": {
+      "x": 42,
+      "y": 38
+    }
+  },
+  {
+    "id": "vietnam-robusta",
+    "name": "Vietnam Robusta",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Vietnam",
+    "origin": "Central Highlands, Vietnam",
+    "image": "",
+    "description": "A bold, full-bodied Robusta essential for authentic Vietnamese coffee preparations.",
+    "price": "$",
+    "about": "Vietnam is the world's second-largest coffee producer and the largest Robusta producer. Vietnamese Robusta is essential for traditional cà phê sữa đá (Vietnamese iced coffee).",
+    "flavorProfile": {
+      "roast": 85,
+      "acidity": 92,
+      "flavorCharacter": 85
+    },
+    "specifications": {
+      "roastLevel": "Dark",
+      "altitude": "400-800m",
+      "process": "Natural/Dry",
+      "variety": "Robusta"
+    },
+    "tastingNotes": "Dark chocolate, peanut, smoky, and earthy notes with heavy body and intense caffeine.",
+    "pairings": [
+      "Condensed milk",
+      "Rich desserts",
+      "Chocolate"
+    ],
+    "history": "Coffee was introduced to Vietnam by French colonists in 1857. Robusta production expanded dramatically after the Vietnam War, making Vietnam a coffee superpower.",
+    "servingRecommendation": "Traditional Vietnamese phin filter with sweetened condensed milk. Also excellent for espresso blends needing body and crema.",
+    "universalCoords": {
+      "x": 85,
+      "y": 85
+    }
+  },
+  {
+    "id": "india-monsooned-malabar",
+    "name": "India Monsooned Malabar",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - India",
+    "origin": "Karnataka, India",
+    "image": "",
+    "description": "A unique Indian coffee aged in monsoon winds creating mellow, earthy character.",
+    "price": "$$",
+    "about": "Monsooned Malabar is created by exposing beans to monsoon winds and moisture for several months. This process originated accidentally when beans were transformed during sea voyages.",
+    "flavorProfile": {
+      "roast": 68,
+      "acidity": 88,
+      "flavorCharacter": 78
+    },
+    "specifications": {
+      "roastLevel": "Medium-Dark",
+      "altitude": "1,000-1,500m",
+      "process": "Monsooned",
+      "variety": "Kent, S795"
+    },
+    "tastingNotes": "Musty, earthy, spice, chocolate, and tobacco with virtually no acidity and heavy body.",
+    "pairings": [
+      "Spiced desserts",
+      "Dark chocolate",
+      "Cheese"
+    ],
+    "history": "During the colonial era, coffee shipped from India to Europe arrived transformed by the sea journey. Monsooning was developed to recreate this prized character.",
+    "servingRecommendation": "Excellent as espresso or French press. The unique profile adds complexity to blends.",
+    "universalCoords": {
+      "x": 68,
+      "y": 78
+    }
+  },
+  {
+    "id": "peru-chanchamayo",
+    "name": "Peru Chanchamayo",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Peru",
+    "origin": "Junín Region, Peru",
+    "image": "",
+    "description": "A bright, clean South American coffee from Peru's premier growing region.",
+    "price": "$$",
+    "about": "Chanchamayo in central Peru is the country's most renowned coffee region. The high altitude and organic farming practices produce clean, bright coffees.",
+    "flavorProfile": {
+      "roast": 38,
+      "acidity": 32,
+      "flavorCharacter": 40
+    },
+    "specifications": {
+      "roastLevel": "Light-Medium",
+      "altitude": "1,200-1,800m",
+      "process": "Washed",
+      "variety": "Typica, Caturra, Bourbon"
+    },
+    "tastingNotes": "Green apple, caramel, floral notes, and nuts with medium body and clean finish.",
+    "pairings": [
+      "Apple desserts",
+      "Nuts",
+      "Light pastries"
+    ],
+    "history": "Coffee was introduced to Peru in the 1700s. Chanchamayo became prominent in the 20th century and is now known for organic and fair trade coffees.",
+    "servingRecommendation": "Excellent as drip or pour-over. The clean profile makes it a good daily drinking coffee.",
+    "universalCoords": {
+      "x": 38,
+      "y": 40
+    }
+  },
+  {
+    "id": "honduras-marcala",
+    "name": "Honduras Marcala",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Honduras",
+    "origin": "Marcala, La Paz, Honduras",
+    "image": "",
+    "description": "Honduras' first Denomination of Origin coffee with sweet, balanced character.",
+    "price": "$$",
+    "about": "Marcala was Honduras' first region to receive Denomination of Origin status in 2005. The high-altitude growing conditions and careful processing produce consistently excellent coffee.",
+    "flavorProfile": {
+      "roast": 44,
+      "acidity": 40,
+      "flavorCharacter": 65
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "1,300-1,700m",
+      "process": "Washed",
+      "variety": "Bourbon, Catuaí, Pacas"
+    },
+    "tastingNotes": "Chocolate, orange, caramel, and nuts with balanced acidity and smooth body.",
+    "pairings": [
+      "Chocolate orange desserts",
+      "Nuts",
+      "Breakfast pastries"
+    ],
+    "history": "Coffee arrived in Honduras in the late 1700s. Honduras has become Central America's largest producer and a rising specialty origin.",
+    "servingRecommendation": "Versatile brewing - excellent as drip, pour-over, or espresso. Works well with or without milk.",
+    "universalCoords": {
+      "x": 44,
+      "y": 65
+    }
+  },
+  {
+    "id": "mexico-chiapas",
+    "name": "Mexico Chiapas",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Mexico",
+    "origin": "Chiapas, Mexico",
+    "image": "",
+    "description": "Mexico's premier coffee region producing light, bright, and balanced beans.",
+    "price": "$$",
+    "about": "Chiapas in southern Mexico borders Guatemala and shares similar growing conditions. The high altitude and shade-grown practices produce distinctive bright, light coffees.",
+    "flavorProfile": {
+      "roast": 35,
+      "acidity": 28,
+      "flavorCharacter": 58
+    },
+    "specifications": {
+      "roastLevel": "Light-Medium",
+      "altitude": "1,000-1,800m",
+      "process": "Washed",
+      "variety": "Bourbon, Typica, Caturra"
+    },
+    "tastingNotes": "Cocoa, citrus, nuts, and subtle spice with light body and bright finish.",
+    "pairings": [
+      "Chocolate desserts",
+      "Citrus pastries",
+      "Light breakfast"
+    ],
+    "history": "Coffee was introduced to Mexico in the late 1700s. Chiapas became a major growing region in the 19th century and is known for organic production.",
+    "servingRecommendation": "Best as drip or pour-over. The light, bright character is best appreciated black.",
+    "universalCoords": {
+      "x": 35,
+      "y": 58
+    }
+  },
+  {
+    "id": "el-salvador-pacamara",
+    "name": "El Salvador Pacamara",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - El Salvador",
+    "origin": "Santa Ana, El Salvador",
+    "image": "",
+    "description": "A unique Salvadoran variety with exceptional complexity and sweetness.",
+    "price": "$$$",
+    "about": "Pacamara is a hybrid variety created in El Salvador by crossing Pacas and Maragogipe. The large beans and unique genetics produce distinctively complex and sweet coffees.",
+    "flavorProfile": {
+      "roast": 28,
+      "acidity": 20,
+      "flavorCharacter": 48
+    },
+    "specifications": {
+      "roastLevel": "Light",
+      "altitude": "1,200-1,600m",
+      "process": "Washed",
+      "variety": "Pacamara"
+    },
+    "tastingNotes": "Tropical fruits, chocolate, floral notes, and brown sugar with complex sweetness and silky body.",
+    "pairings": [
+      "Tropical desserts",
+      "Chocolate",
+      "Light pastries"
+    ],
+    "history": "Pacamara was developed in El Salvador in 1958 by the Salvadoran Institute for Coffee Research. It gained specialty recognition in the 2000s.",
+    "servingRecommendation": "Best as pour-over to highlight the complex sweetness. The unique profile deserves to be enjoyed black.",
+    "universalCoords": {
+      "x": 28,
+      "y": 48
+    }
+  },
+  {
+    "id": "nicaragua-matagalpa",
+    "name": "Nicaragua Matagalpa",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Nicaragua",
+    "origin": "Matagalpa, Nicaragua",
+    "image": "",
+    "description": "A balanced Central American coffee with sweet, clean character.",
+    "price": "$$",
+    "about": "Matagalpa is Nicaragua's primary coffee-growing region, known for volcanic soil and ideal climate. The region produces consistently sweet, balanced coffees.",
+    "flavorProfile": {
+      "roast": 45,
+      "acidity": 42,
+      "flavorCharacter": 62
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "1,100-1,600m",
+      "process": "Washed",
+      "variety": "Bourbon, Caturra, Catuaí"
+    },
+    "tastingNotes": "Honey, citrus, chocolate, and vanilla with medium body and clean finish.",
+    "pairings": [
+      "Honey desserts",
+      "Citrus pastries",
+      "Breakfast"
+    ],
+    "history": "Coffee arrived in Nicaragua in the 1850s and became a major export. The specialty sector has grown significantly since the 1990s.",
+    "servingRecommendation": "Excellent as drip or espresso. The balanced profile works well with or without milk.",
+    "universalCoords": {
+      "x": 45,
+      "y": 62
+    }
+  },
+  {
+    "id": "tanzania-peaberry",
+    "name": "Tanzania Peaberry",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Tanzania",
+    "origin": "Mount Kilimanjaro, Tanzania",
+    "image": "",
+    "description": "Rare peaberry beans from the slopes of Kilimanjaro with intense, bright flavor.",
+    "price": "$$$",
+    "about": "Peaberries occur when only one seed develops inside the coffee cherry instead of two. Tanzanian peaberries from Kilimanjaro are prized for their concentrated flavor and brightness.",
+    "flavorProfile": {
+      "roast": 32,
+      "acidity": 12,
+      "flavorCharacter": 15
+    },
+    "specifications": {
+      "roastLevel": "Light-Medium",
+      "altitude": "1,400-1,800m",
+      "process": "Washed",
+      "variety": "Bourbon, Kent"
+    },
+    "tastingNotes": "Blackcurrant, citrus, black tea, and brown sugar with bright acidity and medium body.",
+    "pairings": [
+      "Citrus desserts",
+      "Dark chocolate",
+      "Fresh berries"
+    ],
+    "history": "Coffee was introduced to Tanzania by German colonists in the late 1800s. The slopes of Mount Kilimanjaro became known for quality in the mid-20th century.",
+    "servingRecommendation": "Best as pour-over or drip to highlight the bright, complex flavors. Serve black.",
+    "universalCoords": {
+      "x": 32,
+      "y": 15
+    }
+  },
+  {
+    "id": "espresso-italian-roast",
+    "name": "Italian Espresso Roast",
+    "category": "coffee",
+    "subcategory": "Blend",
+    "type": "Espresso Blend",
+    "origin": "Multiple Origins",
+    "image": "",
+    "description": "A classic dark Italian-style roast for rich, bold espresso with lasting crema.",
+    "price": "$$",
+    "about": "Traditional Italian espresso blends combine beans from multiple origins, roasted dark to create the intense, bold flavors synonymous with Italian coffee culture.",
+    "flavorProfile": {
+      "roast": 88,
+      "acidity": 90,
+      "flavorCharacter": 90
+    },
+    "specifications": {
+      "roastLevel": "Dark",
+      "altitude": "Various",
+      "process": "Various",
+      "variety": "Arabica/Robusta Blend"
+    },
+    "tastingNotes": "Dark chocolate, caramel, roasted nuts, and subtle smoke with heavy body and intense crema.",
+    "pairings": [
+      "Tiramisu",
+      "Biscotti",
+      "Dark chocolate"
+    ],
+    "history": "Italian espresso culture developed in the early 20th century. The dark roast style became characteristic of Northern Italian cafes.",
+    "servingRecommendation": "Pull as espresso or use for milk-based drinks. The bold flavors stand up well to milk and sugar.",
+    "universalCoords": {
+      "x": 88,
+      "y": 90
+    }
+  },
+  {
+    "id": "breakfast-blend",
+    "name": "Classic Breakfast Blend",
+    "category": "coffee",
+    "subcategory": "Blend",
+    "type": "Morning Blend",
+    "origin": "Central & South America",
+    "image": "",
+    "description": "A smooth, balanced blend perfect for starting the day.",
+    "price": "$",
+    "about": "Breakfast blends typically combine beans from Central and South America for a smooth, balanced cup with moderate acidity. Designed to be approachable and versatile.",
+    "flavorProfile": {
+      "roast": 48,
+      "acidity": 55,
+      "flavorCharacter": 52
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "Various",
+      "process": "Washed",
+      "variety": "Arabica"
+    },
+    "tastingNotes": "Nuts, mild chocolate, citrus, and caramel with balanced acidity and medium body.",
+    "pairings": [
+      "Toast",
+      "Eggs",
+      "Pastries",
+      "Fruit"
+    ],
+    "history": "Breakfast blends emerged in American coffee culture as an approachable, daily-drinking style. They became standard offerings at coffee shops and grocery stores.",
+    "servingRecommendation": "Excellent as drip coffee. Works well black or with milk and sugar. A reliable everyday coffee.",
+    "universalCoords": {
+      "x": 48,
+      "y": 52
+    }
+  },
+  {
+    "id": "french-roast",
+    "name": "French Roast",
+    "category": "coffee",
+    "subcategory": "Blend",
+    "type": "Dark Roast Blend",
+    "origin": "Multiple Origins",
+    "image": "",
+    "description": "An intensely dark roast with bold, smoky character.",
+    "price": "$",
+    "about": "French roast refers to a very dark roasting style rather than origin. Beans are roasted to the second crack, developing intense, smoky flavors while reducing acidity.",
+    "flavorProfile": {
+      "roast": 95,
+      "acidity": 95,
+      "flavorCharacter": 88
+    },
+    "specifications": {
+      "roastLevel": "Very Dark",
+      "altitude": "Various",
+      "process": "Various",
+      "variety": "Arabica"
+    },
+    "tastingNotes": "Smoke, dark chocolate, charred wood, and bittersweet with heavy body and no acidity.",
+    "pairings": [
+      "Dark chocolate",
+      "Rich desserts",
+      "Breakfast meats"
+    ],
+    "history": "French roast style developed in 19th century Europe. The name refers to the traditional dark roasting preference in France.",
+    "servingRecommendation": "Best as French press or drip. The bold flavors also work for cold brew. Can handle cream and sugar.",
+    "universalCoords": {
+      "x": 95,
+      "y": 88
+    }
+  },
+  {
+    "id": "mocha-java",
+    "name": "Mocha Java",
+    "category": "coffee",
+    "subcategory": "Blend",
+    "type": "Classic Blend",
+    "origin": "Yemen & Indonesia",
+    "image": "",
+    "description": "The world's oldest coffee blend, combining Yemen and Java beans.",
+    "price": "$$$",
+    "about": "Mocha Java is considered the world's first coffee blend, combining wild Yemeni coffee from the port of Mocha with smooth Indonesian Java. The blend balances complexity with body.",
+    "flavorProfile": {
+      "roast": 50,
+      "acidity": 55,
+      "flavorCharacter": 48
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "Various",
+      "process": "Natural/Washed",
+      "variety": "Yemen Heirloom, Java Typica"
+    },
+    "tastingNotes": "Wine, chocolate, spice, dried fruit, and earthy notes with complex body.",
+    "pairings": [
+      "Dark chocolate",
+      "Dried fruits",
+      "Spiced desserts"
+    ],
+    "history": "Mocha Java originated in the 17th century when Dutch traders blended coffees from their two primary sources. It became synonymous with fine coffee.",
+    "servingRecommendation": "Excellent as pour-over or French press. The complex flavors deserve appreciation black.",
+    "universalCoords": {
+      "x": 50,
+      "y": 48
+    }
+  },
+  {
+    "id": "house-blend",
+    "name": "Roaster's House Blend",
+    "category": "coffee",
+    "subcategory": "Blend",
+    "type": "Signature Blend",
+    "origin": "Multiple Origins",
+    "image": "",
+    "description": "A balanced, versatile blend showcasing a roaster's style and philosophy.",
+    "price": "$$",
+    "about": "House blends represent a roaster's signature style, combining carefully selected beans to create a balanced, consistent cup. They often serve as the flagship offering.",
+    "flavorProfile": {
+      "roast": 52,
+      "acidity": 48,
+      "flavorCharacter": 50
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "Various",
+      "process": "Various",
+      "variety": "Arabica"
+    },
+    "tastingNotes": "Chocolate, caramel, nuts, and subtle fruit with balanced acidity and smooth body.",
+    "pairings": [
+      "Chocolate desserts",
+      "Pastries",
+      "Any meal"
+    ],
+    "history": "House blends became standard as coffee roasting evolved from commodity to craft. Each roaster's house blend reflects their unique approach.",
+    "servingRecommendation": "Versatile brewing - excellent as drip, pour-over, or espresso. Works well any time of day.",
+    "universalCoords": {
+      "x": 52,
+      "y": 50
+    }
+  },
+  {
+    "id": "espresso-blend-classic",
+    "name": "Classic Espresso Blend",
+    "category": "coffee",
+    "subcategory": "Blend",
+    "type": "Espresso Blend",
+    "origin": "Brazil, Colombia, Ethiopia",
+    "image": "",
+    "description": "A specialty espresso blend balancing sweetness, body, and brightness.",
+    "price": "$$",
+    "about": "Modern espresso blends balance Brazilian body, Colombian sweetness, and Ethiopian brightness. Designed for the full espresso experience with excellent crema.",
+    "flavorProfile": {
+      "roast": 65,
+      "acidity": 72,
+      "flavorCharacter": 60
+    },
+    "specifications": {
+      "roastLevel": "Medium-Dark",
+      "altitude": "Various",
+      "process": "Various",
+      "variety": "Arabica"
+    },
+    "tastingNotes": "Dark chocolate, caramel, berries, and nuts with syrupy body and sweet finish.",
+    "pairings": [
+      "Pastries",
+      "Chocolate",
+      "Milk-based drinks"
+    ],
+    "history": "Specialty espresso blends evolved from traditional Italian roasts, incorporating third-wave coffee principles of origin selection and careful roasting.",
+    "servingRecommendation": "Designed for espresso extraction. Excellent for lattes, cappuccinos, or straight shots.",
+    "universalCoords": {
+      "x": 65,
+      "y": 60
+    }
+  },
+  {
+    "id": "decaf-swiss-water",
+    "name": "Swiss Water Decaf",
+    "category": "coffee",
+    "subcategory": "Decaf",
+    "type": "Decaffeinated",
+    "origin": "Colombia",
+    "image": "",
+    "description": "A chemical-free decaffeinated coffee retaining full flavor.",
+    "price": "$$",
+    "about": "Swiss Water Process uses only water to remove caffeine, preserving the bean's natural flavors. This Colombian decaf offers a satisfying cup without the caffeine.",
+    "flavorProfile": {
+      "roast": 50,
+      "acidity": 60,
+      "flavorCharacter": 58
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "1,500-2,000m",
+      "process": "Swiss Water Decaf",
+      "variety": "Colombia, Caturra"
+    },
+    "tastingNotes": "Chocolate, caramel, mild citrus, and nuts with medium body and clean finish.",
+    "pairings": [
+      "Evening desserts",
+      "Chocolate",
+      "Any meal"
+    ],
+    "history": "The Swiss Water Process was developed in Switzerland in the 1930s and commercialized in the 1980s. It became popular with health-conscious coffee drinkers.",
+    "servingRecommendation": "Excellent as drip or pour-over. A great evening coffee that won't affect sleep.",
+    "universalCoords": {
+      "x": 50,
+      "y": 58
+    }
+  },
+  {
+    "id": "cold-brew-blend",
+    "name": "Cold Brew Blend",
+    "category": "coffee",
+    "subcategory": "Blend",
+    "type": "Cold Brew",
+    "origin": "Brazil, Guatemala",
+    "image": "",
+    "description": "A blend specifically designed for smooth, sweet cold brew extraction.",
+    "price": "$$",
+    "about": "Cold brew blends use beans that shine with the long, cold extraction process. The focus is on natural sweetness and chocolatey notes that develop beautifully in cold water.",
+    "flavorProfile": {
+      "roast": 60,
+      "acidity": 80,
+      "flavorCharacter": 45
+    },
+    "specifications": {
+      "roastLevel": "Medium-Dark",
+      "altitude": "Various",
+      "process": "Natural/Washed",
+      "variety": "Arabica"
+    },
+    "tastingNotes": "Dark chocolate, brown sugar, vanilla, and subtle nuts with smooth, sweet body.",
+    "pairings": [
+      "Summer desserts",
+      "Chocolate",
+      "Breakfast"
+    ],
+    "history": "Cold brew gained popularity in the 2010s. Roasters began developing blends specifically optimized for the cold extraction method.",
+    "servingRecommendation": "Steep coarse grounds in cold water for 12-24 hours. Serve over ice, straight or with milk.",
+    "universalCoords": {
+      "x": 60,
+      "y": 45
+    }
+  },
+  {
+    "id": "single-origin-espresso-ethiopia",
+    "name": "Single Origin Espresso - Ethiopia",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin Espresso",
+    "origin": "Guji, Ethiopia",
+    "image": "",
+    "description": "A fruity, complex Ethiopian coffee showcased as single origin espresso.",
+    "price": "$$$",
+    "about": "Single origin espresso highlights the unique characteristics of one coffee. This Ethiopian Guji offers an explosion of fruit and floral notes in concentrated espresso form.",
+    "flavorProfile": {
+      "roast": 35,
+      "acidity": 25,
+      "flavorCharacter": 12
+    },
+    "specifications": {
+      "roastLevel": "Light-Medium",
+      "altitude": "1,800-2,200m",
+      "process": "Natural",
+      "variety": "Heirloom Ethiopian"
+    },
+    "tastingNotes": "Blueberry, strawberry, jasmine, and dark chocolate with bright acidity and syrupy body.",
+    "pairings": [
+      "Berry desserts",
+      "Dark chocolate",
+      "Fruit tarts"
+    ],
+    "history": "Single origin espresso emerged with third-wave coffee culture in the 2000s, challenging the traditional blend-focused espresso approach.",
+    "servingRecommendation": "Pull at slightly lower temperature for bright fruit notes. Excellent as straight espresso or cortado.",
+    "universalCoords": {
+      "x": 35,
+      "y": 12
+    }
+  },
+  {
+    "id": "gesha-village-ethiopia",
+    "name": "Gesha Village Ethiopia",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Ethiopia",
+    "origin": "Bench Maji, Ethiopia",
+    "image": "",
+    "description": "Geisha variety grown in its homeland of Ethiopia with exceptional terroir expression.",
+    "price": "$$$$",
+    "about": "Gesha Village is a farm near the original home of the Geisha variety in Ethiopia's Bench Maji zone. These beans offer a unique glimpse of Geisha in its ancestral homeland.",
+    "flavorProfile": {
+      "roast": 22,
+      "acidity": 10,
+      "flavorCharacter": 10
+    },
+    "specifications": {
+      "roastLevel": "Light",
+      "altitude": "1,900-2,100m",
+      "process": "Washed",
+      "variety": "Geisha"
+    },
+    "tastingNotes": "Jasmine, bergamot, peach, honey, and delicate florals with tea-like body and extraordinary aromatics.",
+    "pairings": [
+      "Light pastries",
+      "Fresh fruit",
+      "Delicate desserts"
+    ],
+    "history": "Gesha Village was established to cultivate Geisha in its original Ethiopian homeland, offering a counterpoint to the famous Panama expressions.",
+    "servingRecommendation": "Brew carefully with pour-over at lower temperature. Always serve black to appreciate the exceptional aromatics.",
+    "universalCoords": {
+      "x": 22,
+      "y": 10
+    }
+  },
+  {
+    "id": "kenya-peaberry",
+    "name": "Kenya Peaberry",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Kenya",
+    "origin": "Kirinyaga, Kenya",
+    "image": "",
+    "description": "Rare Kenyan peaberries with concentrated, intensely bright flavor.",
+    "price": "$$$",
+    "about": "Kenya peaberries represent about 5% of the harvest where only one round bean develops in the cherry. This concentration creates intensified Kenyan characteristics.",
+    "flavorProfile": {
+      "roast": 28,
+      "acidity": 5,
+      "flavorCharacter": 15
+    },
+    "specifications": {
+      "roastLevel": "Light",
+      "altitude": "1,600-1,900m",
+      "process": "Washed",
+      "variety": "SL28, SL34"
+    },
+    "tastingNotes": "Blackcurrant, grapefruit, brown sugar, and wine-like acidity with concentrated, complex flavor.",
+    "pairings": [
+      "Citrus desserts",
+      "Dark berries",
+      "Light breakfast"
+    ],
+    "history": "Kenyan peaberries have been sorted and sold separately since the mid-20th century, prized for their concentrated flavor profile.",
+    "servingRecommendation": "Best as pour-over or Chemex. The intense acidity and complexity deserve to be enjoyed black.",
+    "universalCoords": {
+      "x": 28,
+      "y": 15
+    }
+  },
+  {
+    "id": "costa-rica-honey",
+    "name": "Costa Rica Honey Process",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Costa Rica",
+    "origin": "West Valley, Costa Rica",
+    "image": "",
+    "description": "A honey-processed Costa Rican coffee with enhanced sweetness and body.",
+    "price": "$$",
+    "about": "Honey processing leaves some of the fruit mucilage on the bean during drying, creating enhanced sweetness and body. Costa Rica has pioneered this processing method.",
+    "flavorProfile": {
+      "roast": 42,
+      "acidity": 45,
+      "flavorCharacter": 62
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "1,400-1,700m",
+      "process": "Honey (Yellow)",
+      "variety": "Caturra, Catuaí"
+    },
+    "tastingNotes": "Honey, stone fruit, brown sugar, and mild citrus with enhanced body and lingering sweetness.",
+    "pairings": [
+      "Honey desserts",
+      "Stone fruit",
+      "Light pastries"
+    ],
+    "history": "Honey processing gained popularity in Costa Rica in the 2000s as a way to create distinctive cups while using less water than washed processing.",
+    "servingRecommendation": "Excellent as pour-over or drip. The enhanced sweetness also works well in milk drinks.",
+    "universalCoords": {
+      "x": 42,
+      "y": 62
+    }
+  },
+  {
+    "id": "guatemala-huehuetenango",
+    "name": "Guatemala Huehuetenango",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Guatemala",
+    "origin": "Huehuetenango, Guatemala",
+    "image": "",
+    "description": "Guatemala's highest-altitude region producing complex, fruity coffees.",
+    "price": "$$",
+    "about": "Huehuetenango is one of Guatemala's non-volcanic regions, producing distinctively fruity and complex coffees. The remote location and extreme altitude create unique conditions.",
+    "flavorProfile": {
+      "roast": 35,
+      "acidity": 22,
+      "flavorCharacter": 30
+    },
+    "specifications": {
+      "roastLevel": "Light-Medium",
+      "altitude": "1,500-2,000m",
+      "process": "Washed",
+      "variety": "Bourbon, Caturra, Catuaí"
+    },
+    "tastingNotes": "Wine, stone fruit, chocolate, and floral notes with complex acidity and full body.",
+    "pairings": [
+      "Dark chocolate",
+      "Stone fruit desserts",
+      "Cheese"
+    ],
+    "history": "Huehuetenango has been growing coffee since the late 1800s. It gained specialty recognition as one of Guatemala's highest-quality origins.",
+    "servingRecommendation": "Best as pour-over to highlight the complex fruit and wine notes. Serve black.",
+    "universalCoords": {
+      "x": 35,
+      "y": 30
+    }
+  },
+  {
+    "id": "brazil-natural-pulped",
+    "name": "Brazil Pulped Natural",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Brazil",
+    "origin": "Sul de Minas, Brazil",
+    "image": "",
+    "description": "A specialty Brazilian coffee with enhanced sweetness from pulped natural processing.",
+    "price": "$$",
+    "about": "Pulped natural processing removes the skin but leaves mucilage on during drying. This Brazilian technique creates enhanced sweetness while maintaining clean flavors.",
+    "flavorProfile": {
+      "roast": 50,
+      "acidity": 62,
+      "flavorCharacter": 68
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "1,000-1,400m",
+      "process": "Pulped Natural",
+      "variety": "Yellow Bourbon"
+    },
+    "tastingNotes": "Milk chocolate, hazelnut, brown sugar, and sweet tobacco with creamy body and clean finish.",
+    "pairings": [
+      "Chocolate desserts",
+      "Hazelnuts",
+      "Breakfast pastries"
+    ],
+    "history": "Pulped natural processing was developed in Brazil in the 1990s as a way to enhance cup quality while conserving water.",
+    "servingRecommendation": "Excellent as espresso base or drip coffee. The smooth, sweet profile works beautifully with milk.",
+    "universalCoords": {
+      "x": 50,
+      "y": 68
+    }
+  },
+  {
+    "id": "colombia-pink-bourbon",
+    "name": "Colombia Pink Bourbon",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Colombia",
+    "origin": "Huila, Colombia",
+    "image": "",
+    "description": "A rare Colombian variety with distinctive floral and fruity complexity.",
+    "price": "$$$",
+    "about": "Pink Bourbon is a rare variety that produces pink cherries when ripe. Colombian Pink Bourbons are prized for their exceptional complexity and unique flavor profiles.",
+    "flavorProfile": {
+      "roast": 30,
+      "acidity": 18,
+      "flavorCharacter": 15
+    },
+    "specifications": {
+      "roastLevel": "Light",
+      "altitude": "1,700-2,000m",
+      "process": "Washed",
+      "variety": "Pink Bourbon"
+    },
+    "tastingNotes": "Rose, hibiscus, stone fruit, and honey with delicate complexity and silky body.",
+    "pairings": [
+      "Floral desserts",
+      "Stone fruit",
+      "Light pastries"
+    ],
+    "history": "Pink Bourbon emerged as a distinct variety in Colombia, likely a mutation or natural hybrid. It gained specialty attention for its exceptional cup quality.",
+    "servingRecommendation": "Best as pour-over with careful attention to extraction. The delicate flavors deserve to be enjoyed black.",
+    "universalCoords": {
+      "x": 30,
+      "y": 15
+    }
+  },
+  {
+    "id": "indonesia-bali-kintamani",
+    "name": "Bali Kintamani",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Indonesia",
+    "origin": "Kintamani Highlands, Bali",
+    "image": "",
+    "description": "A unique Indonesian coffee with clean, citrus-forward character unlike typical Sumatran profiles.",
+    "price": "$$",
+    "about": "Bali Kintamani coffee is grown on volcanic slopes near Mount Batur. Unlike other Indonesian coffees, it's fully washed, creating a cleaner, brighter cup profile.",
+    "flavorProfile": {
+      "roast": 40,
+      "acidity": 35,
+      "flavorCharacter": 52
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "1,200-1,600m",
+      "process": "Washed",
+      "variety": "Typica, Bourbon"
+    },
+    "tastingNotes": "Lemon, sweet herbs, chocolate, and brown sugar with medium body and clean finish.",
+    "pairings": [
+      "Citrus desserts",
+      "Tropical fruits",
+      "Light pastries"
+    ],
+    "history": "Coffee cultivation in Kintamani began in the early 1900s. It received Geographical Indication protection in 2008.",
+    "servingRecommendation": "Excellent as pour-over or drip. A good introduction to Indonesian coffee for those who prefer bright, clean cups.",
+    "universalCoords": {
+      "x": 40,
+      "y": 52
+    }
+  },
+  {
+    "id": "ecuador-loja",
+    "name": "Ecuador Loja",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Ecuador",
+    "origin": "Loja Province, Ecuador",
+    "image": "",
+    "description": "A hidden gem of South American specialty coffee with bright, complex character.",
+    "price": "$$",
+    "about": "Ecuador's Loja province produces some of South America's most underrated specialty coffees. The high altitude and unique microclimate create distinctively bright and complex cups.",
+    "flavorProfile": {
+      "roast": 32,
+      "acidity": 20,
+      "flavorCharacter": 20
+    },
+    "specifications": {
+      "roastLevel": "Light-Medium",
+      "altitude": "1,500-2,000m",
+      "process": "Washed",
+      "variety": "Typica, Bourbon"
+    },
+    "tastingNotes": "Citrus, florals, caramel, and tea-like notes with bright acidity and clean finish.",
+    "pairings": [
+      "Citrus desserts",
+      "Light pastries",
+      "Fresh fruit"
+    ],
+    "history": "Coffee arrived in Ecuador in the 1860s. Loja has emerged as a specialty origin in the 21st century.",
+    "servingRecommendation": "Best as pour-over to highlight the bright, complex flavors. Serve black.",
+    "universalCoords": {
+      "x": 32,
+      "y": 20
+    }
+  },
+  {
+    "id": "dominican-republic-barahona",
+    "name": "Dominican Republic Barahona",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Caribbean",
+    "origin": "Barahona, Dominican Republic",
+    "image": "",
+    "description": "A Caribbean coffee with balanced, mild character and subtle complexity.",
+    "price": "$$",
+    "about": "Barahona is the Dominican Republic's premium coffee region, producing smooth, balanced coffees. The Caribbean climate and shade-grown cultivation create distinctive character.",
+    "flavorProfile": {
+      "roast": 45,
+      "acidity": 50,
+      "flavorCharacter": 68
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "600-1,400m",
+      "process": "Washed",
+      "variety": "Typica, Caturra"
+    },
+    "tastingNotes": "Chocolate, nuts, mild citrus, and subtle spice with balanced acidity and smooth body.",
+    "pairings": [
+      "Chocolate desserts",
+      "Tropical fruits",
+      "Breakfast"
+    ],
+    "history": "Coffee arrived in the Dominican Republic in the 1700s. Barahona became recognized for quality in the 20th century.",
+    "servingRecommendation": "Excellent as drip or pour-over. The mild, balanced profile also works well with cream.",
+    "universalCoords": {
+      "x": 45,
+      "y": 68
+    }
+  },
+  {
+    "id": "bolivia-caranavi",
+    "name": "Bolivia Caranavi",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Bolivia",
+    "origin": "Caranavi, Bolivia",
+    "image": "",
+    "description": "A rare South American origin with exceptional sweetness and delicate complexity.",
+    "price": "$$$",
+    "about": "Bolivia is one of the rarest specialty coffee origins. The Caranavi region produces exceptional coffees that have won international recognition despite limited production.",
+    "flavorProfile": {
+      "roast": 28,
+      "acidity": 22,
+      "flavorCharacter": 52
+    },
+    "specifications": {
+      "roastLevel": "Light",
+      "altitude": "1,400-1,800m",
+      "process": "Washed",
+      "variety": "Typica, Caturra"
+    },
+    "tastingNotes": "Peach, honey, jasmine, and milk chocolate with silky body and delicate sweetness.",
+    "pairings": [
+      "Stone fruit desserts",
+      "Light pastries",
+      "Honey"
+    ],
+    "history": "Coffee was introduced to Bolivia in the 1800s. The specialty sector has grown since the 2000s, with Bolivian coffees winning Cup of Excellence awards.",
+    "servingRecommendation": "Best as pour-over to appreciate the delicate complexity. The rare, sweet profile deserves to be enjoyed black.",
+    "universalCoords": {
+      "x": 28,
+      "y": 52
+    }
+  },
+  {
+    "id": "myanmar-shan-state",
+    "name": "Myanmar Shan State",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Myanmar",
+    "origin": "Shan State, Myanmar",
+    "image": "",
+    "description": "An emerging specialty origin with unique character from Southeast Asia.",
+    "price": "$$",
+    "about": "Myanmar's coffee industry is experiencing a specialty renaissance. The Shan State highlands produce unique coffees that are gaining international recognition.",
+    "flavorProfile": {
+      "roast": 38,
+      "acidity": 32,
+      "flavorCharacter": 35
+    },
+    "specifications": {
+      "roastLevel": "Light-Medium",
+      "altitude": "1,100-1,600m",
+      "process": "Washed",
+      "variety": "Catimor, SL34"
+    },
+    "tastingNotes": "Black tea, stone fruit, herbs, and brown sugar with medium body and unique character.",
+    "pairings": [
+      "Asian desserts",
+      "Tea cakes",
+      "Light pastries"
+    ],
+    "history": "Coffee was introduced to Myanmar in the 1930s. After decades of isolation, the specialty sector has emerged since the 2010s.",
+    "servingRecommendation": "Excellent as pour-over or AeroPress. An interesting exploration of an emerging origin.",
+    "universalCoords": {
+      "x": 38,
+      "y": 35
+    }
+  },
+  {
+    "id": "laos-bolaven-plateau",
+    "name": "Laos Bolaven Plateau",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Laos",
+    "origin": "Bolaven Plateau, Laos",
+    "image": "",
+    "description": "A unique Southeast Asian coffee with smooth, earthy character.",
+    "price": "$$",
+    "about": "The Bolaven Plateau in southern Laos offers ideal coffee-growing conditions. The volcanic soil and high altitude produce smooth, distinctive coffees.",
+    "flavorProfile": {
+      "roast": 55,
+      "acidity": 65,
+      "flavorCharacter": 55
+    },
+    "specifications": {
+      "roastLevel": "Medium",
+      "altitude": "1,000-1,350m",
+      "process": "Washed/Natural",
+      "variety": "Typica, Catimor"
+    },
+    "tastingNotes": "Dark chocolate, herbs, earthy notes, and mild fruit with smooth body and low acidity.",
+    "pairings": [
+      "Chocolate desserts",
+      "Spiced pastries",
+      "Asian cuisine"
+    ],
+    "history": "Coffee was introduced to Laos by French colonists in the early 1900s. The Bolaven Plateau became the primary growing region.",
+    "servingRecommendation": "Excellent as French press or drip. The smooth, earthy profile works well with cream.",
+    "universalCoords": {
+      "x": 55,
+      "y": 55
+    }
+  },
+  {
+    "id": "philippines-benguet",
+    "name": "Philippines Benguet",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Philippines",
+    "origin": "Benguet Province, Philippines",
+    "image": "",
+    "description": "A rare Philippine Arabica with bright, clean character from mountain highlands.",
+    "price": "$$",
+    "about": "Benguet in the Cordillera mountains produces the Philippines' finest Arabica coffee. The high altitude and cool climate create distinctively bright, clean cups.",
+    "flavorProfile": {
+      "roast": 35,
+      "acidity": 28,
+      "flavorCharacter": 22
+    },
+    "specifications": {
+      "roastLevel": "Light-Medium",
+      "altitude": "1,200-1,700m",
+      "process": "Washed",
+      "variety": "Typica"
+    },
+    "tastingNotes": "Citrus, floral notes, honey, and mild chocolate with bright acidity and clean finish.",
+    "pairings": [
+      "Citrus desserts",
+      "Tropical fruits",
+      "Light pastries"
+    ],
+    "history": "Coffee arrived in the Philippines in the 1700s. Benguet became known for Arabica production in the 20th century.",
+    "servingRecommendation": "Best as pour-over to highlight the bright, clean character. Serve black.",
+    "universalCoords": {
+      "x": 35,
+      "y": 22
+    }
+  },
+  {
+    "id": "congo-kivu",
+    "name": "Congo Kivu",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Congo",
+    "origin": "Lake Kivu Region, DRC",
+    "image": "",
+    "description": "A rare Central African coffee with exceptional sweetness and bright fruit notes.",
+    "price": "$$$",
+    "about": "Despite political challenges, the Democratic Republic of Congo produces exceptional specialty coffee. The Lake Kivu region offers ideal conditions for bright, sweet coffees.",
+    "flavorProfile": {
+      "roast": 30,
+      "acidity": 15,
+      "flavorCharacter": 22
+    },
+    "specifications": {
+      "roastLevel": "Light",
+      "altitude": "1,400-2,000m",
+      "process": "Washed",
+      "variety": "Bourbon"
+    },
+    "tastingNotes": "Red berries, citrus, brown sugar, and florals with bright acidity and silky body.",
+    "pairings": [
+      "Berry desserts",
+      "Light pastries",
+      "Fresh fruit"
+    ],
+    "history": "Coffee has been grown in eastern Congo since the Belgian colonial era. Despite conflict, quality-focused farmers have maintained exceptional standards.",
+    "servingRecommendation": "Best as pour-over to highlight the bright, fruity character. The exceptional cup deserves to be enjoyed black.",
+    "universalCoords": {
+      "x": 30,
+      "y": 22
+    }
+  },
+  {
+    "id": "uganda-bugisu",
+    "name": "Uganda Bugisu",
+    "category": "coffee",
+    "subcategory": "Single Origin",
+    "type": "Single Origin - Uganda",
+    "origin": "Mount Elgon, Uganda",
+    "image": "",
+    "description": "A unique East African coffee with wine-like complexity from volcanic slopes.",
+    "price": "$$",
+    "about": "Bugisu region on the slopes of Mount Elgon produces Uganda's finest washed Arabica. The volcanic soil and high altitude create distinctive wine-like complexity.",
+    "flavorProfile": {
+      "roast": 35,
+      "acidity": 20,
+      "flavorCharacter": 18
+    },
+    "specifications": {
+      "roastLevel": "Light-Medium",
+      "altitude": "1,500-2,300m",
+      "process": "Washed",
+      "variety": "SL14, SL28"
+    },
+    "tastingNotes": "Wine, berries, chocolate, and floral notes with bright acidity and medium body.",
+    "pairings": [
+      "Dark chocolate",
+      "Berries",
+      "Light pastries"
+    ],
+    "history": "Arabica coffee was introduced to Uganda in the early 1900s. Bugisu became known for quality washed coffees in the mid-20th century.",
+    "servingRecommendation": "Best as pour-over or Chemex. The wine-like complexity deserves appreciation black.",
+    "universalCoords": {
+      "x": 35,
+      "y": 18
+    }
+  }
+]
