@@ -1,9 +1,11 @@
-import { useRef } from 'react';
+import { useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { BottomSheet } from './BottomSheet';
 import { SurpriseMe } from './SurpriseMe';
 import { Statistics } from './Statistics';
+import { LoginModal } from './LoginModal';
 import { useUserData } from '../../hooks/useUserData';
+import { useAuth } from '../../contexts/AuthContext';
 
 interface MenuSheetProps {
   isOpen: boolean;
@@ -12,7 +14,9 @@ interface MenuSheetProps {
 
 export function MenuSheet({ isOpen, onClose }: MenuSheetProps) {
   const { exportData, importData } = useUserData();
+  const { user, signOut } = useAuth();
   const fileInputRef = useRef<HTMLInputElement>(null);
+  const [isLoginOpen, setIsLoginOpen] = useState(false);
 
   const handleImport = () => {
     fileInputRef.current?.click();
@@ -37,7 +41,99 @@ export function MenuSheet({ isOpen, onClose }: MenuSheetProps) {
   };
 
   return (
+    <>
     <BottomSheet isOpen={isOpen} onClose={onClose} title="Menu">
+      {/* Account Section */}
+      <section style={{ marginBottom: '20px' }}>
+        <SectionHeader>Account</SectionHeader>
+        {user ? (
+          <div
+            style={{
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'space-between',
+              padding: '12px 16px',
+              backgroundColor: 'var(--bg-secondary)',
+              borderRadius: '8px',
+            }}
+          >
+            <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
+              {user.photoURL ? (
+                <img
+                  src={user.photoURL}
+                  alt=""
+                  referrerPolicy="no-referrer"
+                  style={{ width: '36px', height: '36px', borderRadius: '50%', objectFit: 'cover' }}
+                />
+              ) : (
+                <div
+                  style={{
+                    width: '36px',
+                    height: '36px',
+                    borderRadius: '50%',
+                    backgroundColor: 'var(--border)',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    fontWeight: 600,
+                    fontSize: '0.875rem',
+                    color: 'var(--text-primary)',
+                  }}
+                >
+                  {(user.displayName || user.email || '?')[0].toUpperCase()}
+                </div>
+              )}
+              <div>
+                <div style={{ fontWeight: 500, fontSize: '0.875rem', color: 'var(--text-primary)' }}>
+                  {user.displayName || 'User'}
+                </div>
+                <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)' }}>
+                  {user.email}
+                </div>
+              </div>
+            </div>
+            <button
+              onClick={async () => { await signOut(); }}
+              style={{
+                padding: '6px 14px',
+                fontSize: '0.8125rem',
+                fontFamily: 'var(--font-body)',
+                fontWeight: 500,
+                color: '#dc2626',
+                backgroundColor: 'transparent',
+                border: '1px solid #fecaca',
+                borderRadius: '6px',
+                cursor: 'pointer',
+              }}
+            >
+              Sign Out
+            </button>
+          </div>
+        ) : (
+          <button
+            onClick={() => { onClose(); setIsLoginOpen(true); }}
+            style={{
+              width: '100%',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              gap: '8px',
+              padding: '14px 16px',
+              fontSize: '0.9375rem',
+              fontFamily: 'var(--font-body)',
+              fontWeight: 500,
+              color: 'var(--text-primary)',
+              backgroundColor: 'var(--bg-secondary)',
+              border: '1px solid var(--border)',
+              borderRadius: '8px',
+              cursor: 'pointer',
+            }}
+          >
+            Sign in to sync your data
+          </button>
+        )}
+      </section>
+
       {/* Collections Link */}
       <section style={{ marginBottom: '20px' }}>
         <Link
@@ -153,6 +249,9 @@ export function MenuSheet({ isOpen, onClose }: MenuSheetProps) {
         </div>
       </section>
     </BottomSheet>
+
+    <LoginModal isOpen={isLoginOpen} onClose={() => setIsLoginOpen(false)} />
+    </>
   );
 }
 

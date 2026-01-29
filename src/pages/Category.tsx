@@ -8,6 +8,8 @@ import { TeaCard } from '../components/common/TeaCard';
 import { CheeseCard } from '../components/common/CheeseCard';
 import { BeerCard } from '../components/common/BeerCard';
 import { FilterBar } from '../components/common/FilterBar';
+import { CategoryGuide } from '../components/common/CategoryGuide';
+import { categoryGuides } from '../data/guides';
 import wineData from '../data/wine.json';
 import whiskeyData from '../data/whiskey.json';
 import coffeeData from '../data/coffee.json';
@@ -147,6 +149,8 @@ export function Category() {
   const { category } = useParams<{ category: string }>();
   const navigate = useNavigate();
   const { getEntryData } = useUserData();
+
+  const [isGuideOpen, setIsGuideOpen] = useState(false);
 
   const [filters, setFilters] = useState<FilterState>({
     subcategories: [],
@@ -389,7 +393,34 @@ export function Category() {
 
       {/* Header */}
       <div style={{ marginBottom: '2rem' }}>
-        <h1 className="heading-1" style={{ marginBottom: '0.5rem' }}>{meta.name}</h1>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '0.5rem' }}>
+          <h1 className="heading-1" style={{ margin: 0 }}>{meta.name}</h1>
+          {categoryGuides[category] && (
+            <button
+              onClick={() => setIsGuideOpen(true)}
+              aria-label={`Open ${meta.name} guide`}
+              title={`${meta.name} Guide`}
+              style={{
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                width: '36px',
+                height: '36px',
+                borderRadius: '8px',
+                border: '1px solid var(--border)',
+                backgroundColor: 'var(--bg-secondary)',
+                cursor: 'pointer',
+                transition: 'background-color 0.2s',
+                flexShrink: 0,
+              }}
+            >
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" />
+                <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" />
+              </svg>
+            </button>
+          )}
+        </div>
         <p style={{ color: 'var(--text-secondary)', fontSize: '1rem' }}>
           {meta.description}
         </p>
@@ -493,6 +524,15 @@ export function Category() {
           </div>
         )}
       </div>
+
+      {/* Category Guide */}
+      {categoryGuides[category] && (
+        <CategoryGuide
+          isOpen={isGuideOpen}
+          onClose={() => setIsGuideOpen(false)}
+          guide={categoryGuides[category]}
+        />
+      )}
     </div>
   );
 }

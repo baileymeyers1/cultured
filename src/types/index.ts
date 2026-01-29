@@ -1,3 +1,34 @@
+// Guide types for category knowledge base
+export interface GuideSection {
+  heading: string;
+  content: string;
+  entryLinks?: { name: string; id: string }[];
+  crossCategoryLinks?: { name: string; category: string; id?: string }[];
+}
+
+export interface SubcategoryGuide {
+  name: string;
+  intro: string;
+  history: string;
+  sections: GuideSection[];
+  notableEntries: { name: string; id: string; description: string }[];
+  pairings: { name: string; category: string; id?: string; description: string }[];
+}
+
+export interface CategoryGuideData {
+  category: string;
+  overview: {
+    introduction: string;
+    history: string;
+    productionMethods: GuideSection[];
+    tastingTips: string[];
+    commonDescriptors: string[];
+    proTips: string[];
+    crossCategoryPairings: { name: string; category: string; description: string }[];
+  };
+  subcategories: SubcategoryGuide[];
+}
+
 // Category types
 export type ConsumableCategory = 'whiskey' | 'coffee' | 'wine' | 'tea' | 'cheese' | 'beer' | 'cigars';
 export type CulturalCategory = 'music' | 'art' | 'fashion' | 'literature' | 'film' | 'theater';

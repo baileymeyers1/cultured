@@ -1,11 +1,115 @@
-import { useCallback } from 'react';
-import { useLocalStorage } from './useLocalStorage';
+import { useCallback, useEffect, useRef, useState } from 'react';
+import { doc, getDoc, onSnapshot, setDoc } from 'firebase/firestore';
+import { db } from '../lib/firebase';
+import { useAuth } from '../contexts/AuthContext';
 import type { UserData, UserEntryData } from '../types';
 
 const STORAGE_KEY = 'cultured-user-data';
 
+function readLocal(): UserData {
+  try {
+    const raw = window.localStorage.getItem(STORAGE_KEY);
+    return raw ? JSON.parse(raw) : {};
+  } catch {
+    return {};
+  }
+}
+
+function writeLocal(data: UserData) {
+  try {
+    window.localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+  } catch (e) {
+    console.warn('Failed to write localStorage:', e);
+  }
+}
+
+function mergeData(local: UserData, remote: UserData): UserData {
+  const merged = { ...remote };
+  for (const [id, localEntry] of Object.entries(local)) {
+    const remoteEntry = remote[id];
+    if (!remoteEntry) {
+      merged[id] = localEntry;
+    } else {
+      const localTime = new Date(localEntry.updatedAt).getTime();
+      const remoteTime = new Date(remoteEntry.updatedAt).getTime();
+      merged[id] = localTime > remoteTime ? localEntry : remoteEntry;
+    }
+  }
+  return merged;
+}
+
 export function useUserData() {
-  const [userData, setUserData] = useLocalStorage<UserData>(STORAGE_KEY, {});
+  const { user } = useAuth();
+  const [userData, setUserData] = useState<UserData>(readLocal);
+  const prevUidRef = useRef<string | null>(null);
+  const firestoreWritePending = useRef(false);
+
+  // Firestore document reference for current user
+  const userDocRef = user ? doc(db, 'users', user.uid) : null;
+
+  // Persist helper: writes to localStorage immediately + Firestore async
+  const persistUpdate = useCallback((updater: (prev: UserData) => UserData) => {
+    setUserData(prev => {
+      const next = updater(prev);
+      writeLocal(next);
+      return next;
+    });
+    firestoreWritePending.current = true;
+  }, []);
+
+  // Write to Firestore when data changes and user is logged in
+  useEffect(() => {
+    if (!userDocRef || !firestoreWritePending.current) return;
+    firestoreWritePending.current = false;
+    setDoc(userDocRef, { entries: userData, updatedAt: new Date().toISOString() }, { merge: true })
+      .catch(e => console.warn('Firestore write failed:', e));
+  }, [userData, userDocRef]);
+
+  // Handle login: merge local data with Firestore, set up real-time listener
+  useEffect(() => {
+    const uid = user?.uid ?? null;
+    if (uid === prevUidRef.current) return;
+    prevUidRef.current = uid;
+
+    if (!uid) {
+      // User signed out — keep current localStorage data, stop listening
+      setUserData(readLocal());
+      return;
+    }
+
+    // User signed in — merge local into Firestore
+    const docRef = doc(db, 'users', uid);
+    let unsubscribe: (() => void) | undefined;
+
+    (async () => {
+      try {
+        const snap = await getDoc(docRef);
+        const remoteData: UserData = snap.exists() ? (snap.data().entries ?? {}) : {};
+        const localData = readLocal();
+        const merged = mergeData(localData, remoteData);
+
+        // Write merged data back
+        await setDoc(docRef, { entries: merged, updatedAt: new Date().toISOString() }, { merge: true });
+        writeLocal(merged);
+        setUserData(merged);
+      } catch (e) {
+        console.warn('Merge on login failed:', e);
+      }
+
+      // Set up real-time listener
+      unsubscribe = onSnapshot(docRef, (snap) => {
+        if (snap.exists()) {
+          const remoteData: UserData = snap.data().entries ?? {};
+          writeLocal(remoteData);
+          setUserData(remoteData);
+        }
+      });
+    })();
+
+    return () => {
+      unsubscribe?.();
+    };
+  }, [user]);
 
   // Get data for a specific entry
   const getEntryData = useCallback((entryId: string): UserEntryData | undefined => {
@@ -14,7 +118,7 @@ export function useUserData() {
 
   // Update rating for an entry
   const setRating = useCallback((entryId: string, rating: number | undefined) => {
-    setUserData(prev => ({
+    persistUpdate(prev => ({
       ...prev,
       [entryId]: {
         ...prev[entryId],
@@ -22,11 +126,11 @@ export function useUserData() {
         updatedAt: new Date().toISOString()
       }
     }));
-  }, [setUserData]);
+  }, [persistUpdate]);
 
   // Update notes for an entry
   const setNotes = useCallback((entryId: string, notes: string) => {
-    setUserData(prev => ({
+    persistUpdate(prev => ({
       ...prev,
       [entryId]: {
         ...prev[entryId],
@@ -34,11 +138,11 @@ export function useUserData() {
         updatedAt: new Date().toISOString()
       }
     }));
-  }, [setUserData]);
+  }, [persistUpdate]);
 
   // Update status (wishlist/tried) for an entry
   const setStatus = useCallback((entryId: string, status: 'wishlist' | 'tried' | null) => {
-    setUserData(prev => ({
+    persistUpdate(prev => ({
       ...prev,
       [entryId]: {
         ...prev[entryId],
@@ -46,11 +150,11 @@ export function useUserData() {
         updatedAt: new Date().toISOString()
       }
     }));
-  }, [setUserData]);
+  }, [persistUpdate]);
 
   // Toggle wishlist status
   const toggleWishlist = useCallback((entryId: string) => {
-    setUserData(prev => {
+    persistUpdate(prev => {
       const current = prev[entryId]?.status;
       return {
         ...prev,
@@ -61,11 +165,11 @@ export function useUserData() {
         }
       };
     });
-  }, [setUserData]);
+  }, [persistUpdate]);
 
   // Toggle tried status
   const toggleTried = useCallback((entryId: string) => {
-    setUserData(prev => {
+    persistUpdate(prev => {
       const current = prev[entryId]?.status;
       return {
         ...prev,
@@ -76,7 +180,7 @@ export function useUserData() {
         }
       };
     });
-  }, [setUserData]);
+  }, [persistUpdate]);
 
   // Export all user data as JSON
   const exportData = useCallback(() => {
@@ -94,7 +198,7 @@ export function useUserData() {
   const importData = useCallback((jsonString: string) => {
     try {
       const imported = JSON.parse(jsonString) as UserData;
-      setUserData(prev => ({
+      persistUpdate(prev => ({
         ...prev,
         ...imported
       }));
@@ -103,7 +207,7 @@ export function useUserData() {
       console.error('Failed to import data:', error);
       return false;
     }
-  }, [setUserData]);
+  }, [persistUpdate]);
 
   // Get all entries with a specific status
   const getEntriesByStatus = useCallback((status: 'wishlist' | 'tried') => {

@@ -1,9 +1,13 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { MenuSheet } from '../common/MenuSheet';
+import { LoginModal } from '../common/LoginModal';
+import { useAuth } from '../../contexts/AuthContext';
 
 export function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [isLoginOpen, setIsLoginOpen] = useState(false);
+  const { user, loading } = useAuth();
 
   return (
     <>
@@ -44,7 +48,61 @@ export function Header() {
             </span>
           </Link>
 
-          <nav style={{ display: 'flex', gap: '1.5rem', alignItems: 'center' }}>
+          <nav style={{ display: 'flex', gap: '0.75rem', alignItems: 'center' }}>
+            {/* User avatar or sign-in button */}
+            {!loading && (
+              user ? (
+                <button
+                  onClick={() => setIsMenuOpen(true)}
+                  aria-label="Open menu"
+                  style={{
+                    width: '32px',
+                    height: '32px',
+                    borderRadius: '50%',
+                    border: '2px solid var(--border)',
+                    padding: 0,
+                    cursor: 'pointer',
+                    overflow: 'hidden',
+                    background: 'var(--bg-secondary)',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                  }}
+                >
+                  {user.photoURL ? (
+                    <img
+                      src={user.photoURL}
+                      alt=""
+                      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                      referrerPolicy="no-referrer"
+                    />
+                  ) : (
+                    <span style={{ fontSize: '0.8125rem', fontWeight: 600, color: 'var(--text-primary)' }}>
+                      {(user.displayName || user.email || '?')[0].toUpperCase()}
+                    </span>
+                  )}
+                </button>
+              ) : (
+                <button
+                  onClick={() => setIsLoginOpen(true)}
+                  style={{
+                    padding: '6px 14px',
+                    fontSize: '0.8125rem',
+                    fontFamily: 'var(--font-body)',
+                    fontWeight: 500,
+                    color: 'var(--text-primary)',
+                    backgroundColor: 'var(--bg-secondary)',
+                    border: '1px solid var(--border)',
+                    borderRadius: '6px',
+                    cursor: 'pointer',
+                    transition: 'background-color 0.2s',
+                  }}
+                >
+                  Sign In
+                </button>
+              )
+            )}
+
             <button
               onClick={() => setIsMenuOpen(true)}
               aria-label="Open menu"
@@ -97,6 +155,7 @@ export function Header() {
       </header>
 
       <MenuSheet isOpen={isMenuOpen} onClose={() => setIsMenuOpen(false)} />
+      <LoginModal isOpen={isLoginOpen} onClose={() => setIsLoginOpen(false)} />
     </>
   );
 }
